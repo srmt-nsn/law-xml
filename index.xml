@@ -2,7 +2,7 @@
 <library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <heading>Saint Regis Mohawk Tribe Law Library</heading>
   <meta>
-    <description></description>
+    <description/>
     <contact>
       <email>help@openlawlib.org</email>
     </contact>
@@ -10,7 +10,7 @@
       <xml-bulk>https://github.com/srmt-nsn/law-xml</xml-bulk>
       <html-bulk>https://github.com/srmt-nsn/law-html</html-bulk>
       <static-assets>https://github.com/srmt-nsn/law-static-assets</static-assets>
-      <html></html>
+      <html/>
     </canonical-urls>
   </meta>
   <collection name="us/nsn/srmt/council/resolutions">
@@ -42,5 +42,19 @@
     <xi:include href="./us/nsn/srmt/council/resolutions/1991/index.xml"/>
     <xi:include href="./us/nsn/srmt/council/resolutions/1989/index.xml"/>
     <xi:include href="./us/nsn/srmt/council/resolutions/1986/index.xml"/>
+  </collection>
+  <collection name="us/nsn/srmt/council/acts">
+    <heading>Tribal Acts/Codes/Laws/Ordinances</heading>
+    <xi:include href="./us/nsn/srmt/council/acts/AlcoholBeveragesControlAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/CodeOfJudicialConduct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/CommunicationsRegulatoryAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/CourtAndJudiciaryCode.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/FamilySupportAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/JudicialOversightCommissionOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/MortgageForeclosureAndEvictionOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/SecuredTransactionsOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/RoomOccupancyFeeOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/TribalProceduresAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/VehicleAndTrafficLaw.xml"/>
   </collection>
 </library>
