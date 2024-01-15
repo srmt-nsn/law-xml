@@ -13,6 +13,20 @@
       <html/>
     </canonical-urls>
   </meta>
+  <collection name="us/nsn/srmt/council/acts">
+    <heading>Tribal Acts/Codes/Laws/Ordinances</heading>
+    <xi:include href="./us/nsn/srmt/council/acts/AlcoholBeveragesControlAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/CodeOfJudicialConduct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/CommunicationsRegulatoryAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/CourtAndJudiciaryCode.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/FamilySupportAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/JudicialOversightCommissionOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/MortgageForeclosureAndEvictionOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/SecuredTransactionsOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/RoomOccupancyFeeOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/TribalProceduresAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/VehicleAndTrafficLaw.xml"/>
+  </collection>
   <collection name="us/nsn/srmt/council/resolutions">
     <heading>Tribal Resolutions</heading>
     <xi:include href="./us/nsn/srmt/council/resolutions/2023/index.xml"/>
@@ -42,19 +56,5 @@
     <xi:include href="./us/nsn/srmt/council/resolutions/1991/index.xml"/>
     <xi:include href="./us/nsn/srmt/council/resolutions/1989/index.xml"/>
     <xi:include href="./us/nsn/srmt/council/resolutions/1986/index.xml"/>
-  </collection>
-  <collection name="us/nsn/srmt/council/acts">
-    <heading>Tribal Acts/Codes/Laws/Ordinances</heading>
-    <xi:include href="./us/nsn/srmt/council/acts/AlcoholBeveragesControlAct.xml"/>
-    <xi:include href="./us/nsn/srmt/council/acts/CodeOfJudicialConduct.xml"/>
-    <xi:include href="./us/nsn/srmt/council/acts/CommunicationsRegulatoryAct.xml"/>
-    <xi:include href="./us/nsn/srmt/council/acts/CourtAndJudiciaryCode.xml"/>
-    <xi:include href="./us/nsn/srmt/council/acts/FamilySupportAct.xml"/>
-    <xi:include href="./us/nsn/srmt/council/acts/JudicialOversightCommissionOrdinance.xml"/>
-    <xi:include href="./us/nsn/srmt/council/acts/MortgageForeclosureAndEvictionOrdinance.xml"/>
-    <xi:include href="./us/nsn/srmt/council/acts/SecuredTransactionsOrdinance.xml"/>
-    <xi:include href="./us/nsn/srmt/council/acts/RoomOccupancyFeeOrdinance.xml"/>
-    <xi:include href="./us/nsn/srmt/council/acts/TribalProceduresAct.xml"/>
-    <xi:include href="./us/nsn/srmt/council/acts/VehicleAndTrafficLaw.xml"/>
   </collection>
 </library>
