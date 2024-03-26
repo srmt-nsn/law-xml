@@ -1,13 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library"
-  xmlns:cache="https://open.law/schemas/cache"
-  xmlns:codified="https://open.law/schemas/codified"
-  xmlns:codify="https://open.law/schemas/codify"
-  xmlns:citations="https://open.law/schemas/citations"
-  xmlns:macro="https://open.law/schemas/macro"
-  xmlns:xi="http://www.w3.org/2001/XInclude"
-  xmlns:xs="http://www.w3.org/2001/XMLSchema"
-  xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Saint Regis Mohawk Tribe Business Organizations Ordinance (Saint Regis Mohawk Tribal Act)">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Business Organizations Ordinance (Saint Regis Mohawk Tribal Act)">
   <container>
     <prefix>Title</prefix>
     <num>I</num>
@@ -943,13 +935,11 @@
         <text>The special powers, privileges and immunities described in this section shall be available to an Entity wholly owned, directly or indirectly, by the Tribe.</text>
         <para>
           <num>(a)</num>
-          <text>
-            <u>Jurisdictional and Tax Immunities</u>. All of the rights, privileges and immunities of the Tribe concerning federal, state, or local taxes, regulations and jurisdiction are hereby conferred on all tribal Entities wholly owned, directly or indirectly, by the Tribe to the same extent that the Tribe would have such rights, privileges and immunities if it engaged in the activities undertaken by the Entity. Absent consent by the Entity, an Entity wholly owned, directly or indirectly, by the Tribe shall not be subject to taxation, except to the extent that such taxation is necessary and reasonably appropriate to compensate the Tribe for services provided to the Entity by the Tribe.</text>
+          <text><u>Jurisdictional and Tax Immunities</u>. All of the rights, privileges and immunities of the Tribe concerning federal, state, or local taxes, regulations and jurisdiction are hereby conferred on all tribal Entities wholly owned, directly or indirectly, by the Tribe to the same extent that the Tribe would have such rights, privileges and immunities if it engaged in the activities undertaken by the Entity. Absent consent by the Entity, an Entity wholly owned, directly or indirectly, by the Tribe shall not be subject to taxation, except to the extent that such taxation is necessary and reasonably appropriate to compensate the Tribe for services provided to the Entity by the Tribe.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>
-            <u>Sovereign Immunity</u>. The sovereign immunity of the Tribe is hereby conferred on all tribal Entities wholly owned, directly or indirectly, by the Tribe. An Entity wholly owned, directly or indirectly, by the Tribe shall have the power to sue and is authorized to consent to be sued in the tribal? court, and in all other courts of competent jurisdiction, provided, however, that:</text>
+          <text><u>Sovereign Immunity</u>. The sovereign immunity of the Tribe is hereby conferred on all tribal Entities wholly owned, directly or indirectly, by the Tribe. An Entity wholly owned, directly or indirectly, by the Tribe shall have the power to sue and is authorized to consent to be sued in the tribal? court, and in all other courts of competent jurisdiction, provided, however, that:</text>
           <para>
             <num>1.</num>
             <text>no such consent to suit shall be effective against the Entity? unless such  consent is:</text>
