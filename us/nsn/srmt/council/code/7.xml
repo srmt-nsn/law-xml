@@ -1,16 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Saint Regis Mohawk Tribal Code of Law">
   <prefix>Title</prefix>
-  <num>3</num>
-  <heading>Law Enforcement</heading>
+  <num>7</num>
+  <heading>Commerce and Finance</heading>
   <container>
     <prefix>Chapter</prefix>
-    <num>3.01</num>
-    <heading>Tribal Traffic Law</heading>
+    <num>7.02</num>
+    <heading>Secured Transactions Ordinance</heading>
+  </container>
+  <num>7</num>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.03</num>
+    <heading>Room Occupancy Fee Ordinance</heading>
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>3.02</num>
-    <heading>Police Commission Act</heading>
+    <num>7.04</num>
+    <heading>Communications Regulatory Act</heading>
   </container>
 </container>

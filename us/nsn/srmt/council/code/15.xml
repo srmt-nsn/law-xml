@@ -13,4 +13,9 @@
     <num>15.02</num>
     <heading>Adult Use Cannabis Ordinance</heading>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>15.03</num>
+    <heading>Medical Marijuana Ordinance</heading>
+  </container>
 </container>

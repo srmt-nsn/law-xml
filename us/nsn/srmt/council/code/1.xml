@@ -5,6 +5,11 @@
   <heading>Government</heading>
   <container>
     <prefix>Chapter</prefix>
+    <num>1.01</num>
+    <heading>Tribal Procedures Act</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>1.03</num>
     <heading>Election and Referendum Ordinance</heading>
   </container>
