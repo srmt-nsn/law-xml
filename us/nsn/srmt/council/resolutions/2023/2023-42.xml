@@ -533,7 +533,7 @@
         <text><code-cite path="|attachments|law">This Fishing Ordinance</code-cite> shall become effective upon enactment</text>
       </para>
     </section>
-    <container>
+    <container name="amendments">
       <heading>Amendment Summary</heading>
       <para>
         <num>1.</num>

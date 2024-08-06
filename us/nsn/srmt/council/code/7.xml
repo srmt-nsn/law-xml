@@ -19,4 +19,19 @@
     <num>7.04</num>
     <heading>Communications Regulatory Act</heading>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.06</num>
+    <heading>Mortgage Foreclosure and Eviction Ordinance</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.07</num>
+    <heading>Mortgage Land Assignment Ordinance</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7.09</num>
+    <heading>Pawnbroker Ordinance</heading>
+  </container>
 </container>

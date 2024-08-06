@@ -1,26 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Saint Regis Mohawk Tribal Code of Law">
   <prefix>Title</prefix>
-  <num>5</num>
-  <heading>Environment</heading>
+  <num>4</num>
+  <heading>Health, Safety and Welfare</heading>
   <container>
     <prefix>Chapter</prefix>
-    <num>5.02</num>
-    <heading>Water Quality Standards for the Saint Regis Mohawk Tribe Under the Authority of the Clean Water Act §303(c)</heading>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>5.03</num>
-    <heading>Solid Waste Management Code</heading>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>5.04</num>
-    <heading>Pesticide Regulation</heading>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>5.06</num>
-    <heading>Akwesasne Wetlands Conservation Act</heading>
+    <num>4.06</num>
+    <heading>Petroleum Fuel Ordinance</heading>
   </container>
 </container>

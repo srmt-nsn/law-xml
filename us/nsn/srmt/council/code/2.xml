@@ -10,6 +10,26 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>2.02</num>
+    <heading>Rules of Civil Procedure</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.03</num>
+    <heading>Civil Code</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.04</num>
+    <heading>Rules of Evidence</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.05</num>
+    <heading>Rules of Civil Appellate Procedure</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>2.06</num>
     <heading>Code of Judicial Conduct</heading>
   </container>

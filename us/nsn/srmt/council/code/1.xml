@@ -10,7 +10,17 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>1.02</num>
+    <heading>Tribal Clerk Act</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>1.03</num>
     <heading>Election and Referendum Ordinance</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.04</num>
+    <heading>Ethics Ordinance</heading>
   </container>
 </container>
