@@ -11,7 +11,7 @@
       <html-bulk>https://github.com/srmt-nsn/law-html</html-bulk>
       <static-assets>https://github.com/srmt-nsn/law-static-assets</static-assets>
       <law-git>https://github.com/srmt-nsn/law.git</law-git>
-      <html/>
+      <html>https://law.srmt-nsn.gov</html>
     </canonical-urls>
   </meta>
   <xi:include href="./us/nsn/srmt/council/code/index.xml"/>
