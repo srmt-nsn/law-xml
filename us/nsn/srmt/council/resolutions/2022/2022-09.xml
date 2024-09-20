@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2022-09" codify:doc="Saint Regis Mohawk Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2022-09" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2022-09</num>
   <heading>To Adopt a Business Organizations Ordinance</heading>
   <meta>
@@ -287,7 +287,7 @@
     <codified:at path="16"/>
     <heading>Saint Regis Mohawk Tribe Business Organizations Ordinance</heading>
     <container>
-      <codified:at path="16.01" />
+      <codified:at path="16.01"/>
       <prefix>Title</prefix>
       <num>I</num>
       <heading>General Provisions</heading>
@@ -744,7 +744,7 @@
           <heading>Powers to Amend</heading>
           <text>An Entity may amend its articles of incorporation if the amendment contains only provisions that might lawfully be contained in original articles of incorporation filed at the time of making the amendment.</text>
         </section>
-        <section>
+        <section xmlns:ns39="https://open.law/schemas/cache" ns39:ref-path="attachments|law|I|6|6.2">
           <codify:insert path="6" renumber-paras="true"/>
           <num codify:value="16.01.250">6.2</num>
           <heading>Articles of Incorporation; Amendment Procedure</heading>
@@ -778,7 +778,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>Other amendments of the articles of incorporation, except as otherwise provided in <code-cite path="|attachments|law">this Ordinance</code-cite>, shall be proposed by the board and approved by the shareholders as provided in <code-cite path="§6.2">this section</code-cite>. The board may condition its submission of the amendment to the shareholders on any basis.</text>
+            <text>Other amendments of the articles of incorporation, except as otherwise provided in <code-cite path="|attachments|law">this Ordinance</code-cite>, shall be proposed by the board and approved by the shareholders as provided in <code-cite path="attachments|law|I|6|6.2">this section</code-cite>. The board may condition its submission of the amendment to the shareholders on any basis.</text>
           </para>
           <para>
             <num>(d)</num>
@@ -1127,13 +1127,13 @@
             <text>Doing all other acts incident to liquidation of its business and affairs.</text>
           </para>
         </section>
-        <section>
+        <section xmlns:ns40="https://open.law/schemas/cache" ns40:ref-path="attachments|law|I|7|7.9">
           <codify:insert path="7" renumber-paras="true"/>
           <num codify:value="16.01.340">7.9</num>
           <heading>Known Claims Against Dissolved Entity</heading>
           <para>
             <num>(a)</num>
-            <text>A dissolved Entity may dispose of the known claims against it by following the procedure described in <code-cite path="§7.9">this section</code-cite>.</text>
+            <text>A dissolved Entity may dispose of the known claims against it by following the procedure described in <code-cite path="attachments|law|I|7|7.9">this section</code-cite>.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -1172,7 +1172,7 @@
             <text>For purposes of <code-cite path="|attachments|law|I|7|7.9">this section</code-cite> "claim" does not include a contingent liability or a claim based on an event occurring after the effective date of dissolution.</text>
           </para>
         </section>
-        <section>
+        <section xmlns:ns41="https://open.law/schemas/cache" ns41:ref-path="attachments|law|I|7|7.10">
           <codify:insert path="7" renumber-paras="true"/>
           <num codify:value="16.01.350">7.10</num>
           <heading>Unknown Claims Against Dissolved Entity</heading>
@@ -1214,7 +1214,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>A claim may be enforced under <code-cite path="§7.10">this section</code-cite>:</text>
+            <text>A claim may be enforced under <code-cite path="attachments|law|I|7|7.10">this section</code-cite>:</text>
             <para>
               <num>1.</num>
               <text>against the dissolved Entity, to the extent of its undistributed assets; or</text>
@@ -1312,7 +1312,7 @@
         <prefix>CHAPTER</prefix>
         <num>10</num>
         <heading>ANNUAL REPORTS</heading>
-        <section>
+        <section xmlns:ns42="https://open.law/schemas/cache" ns42:ref-path="attachments|law|I|10|10.1">
           <codify:insert path="10" renumber-paras="true"/>
           <num codify:value="16.01.410">10.1</num>
           <heading>Annual Report for Tribal Secretary</heading>
@@ -1362,7 +1362,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>If an annual report does not contain the information required by <code-cite path="§10.1">this section</code-cite>, the Tribal Secretary shall promptly notify the Entity in writing and return the report to it for correction. If the report is corrected to contain the information required by <code-cite path="|attachments|law|I|10|10.1">this section</code-cite> and delivered to the Tribal Secretary within 30 days after the effective date of notice, it is deemed to be timely filed.</text>
+            <text>If an annual report does not contain the information required by <code-cite path="attachments|law|I|10|10.1">this section</code-cite>, the Tribal Secretary shall promptly notify the Entity in writing and return the report to it for correction. If the report is corrected to contain the information required by <code-cite path="|attachments|law|I|10|10.1">this section</code-cite> and delivered to the Tribal Secretary within 30 days after the effective date of notice, it is deemed to be timely filed.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -1426,13 +1426,13 @@
           <heading>Amendment of Articles</heading>
           <text>A Corporation may amend its Article by utilizing the process set forth in <cite doc="Saint Regis Mohawk Tribal Code of Law" path="|16|16.01|6"><span codify:value="Chapter 16.01, Subchapter 6">Title 1, Chapter 6</span></cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
         </section>
-        <section>
+        <section xmlns:ns43="https://open.law/schemas/cache" ns43:ref-path="attachments|law|II|11|11.6">
           <codify:insert path="1" renumber-paras="true"/>
           <num codify:value="16.02.060">11.6</num>
           <heading>Conversion into a Domestic Corporation</heading>
           <para>
             <num>(a)</num>
-            <text>As used in <code-cite path="§11.6">this section</code-cite>, the term "other entity" means a limited liability company, or any other unincorporated business including a partnership (whether general (including a limited liability partnership) or limited (including a limited liability limited partnership)), or a foreign corporation.</text>
+            <text>As used in <code-cite path="attachments|law|II|11|11.6">this section</code-cite>, the term "other entity" means a limited liability company, or any other unincorporated business including a partnership (whether general (including a limited liability partnership) or limited (including a limited liability limited partnership)), or a foreign corporation.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -1451,7 +1451,7 @@
             </para>
             <para>
               <num>(3)</num>
-              <text>The name of the corporation as set forth in its certificate of incorporation filed in accordance with subsection (b) of <code-cite path="§11.6">this section</code-cite>; and</text>
+              <text>The name of the corporation as set forth in its certificate of incorporation filed in accordance with subsection (b) of <code-cite path="attachments|law|II|11|11.6">this section</code-cite>; and</text>
             </para>
             <para>
               <num>(4)</num>
@@ -2264,7 +2264,7 @@
             <text>Written notice of member approval pursuant to <code-cite path="|attachments|law|III|19|19.4">this section</code-cite> shall be given to all members who have not signed the written consent. If written notice is required, member approval pursuant to <code-cite path="|attachments|law|III|19|19.4">this section</code-cite> shall be effective ten days after such written notice is given.</text>
           </para>
         </section>
-        <section>
+        <section xmlns:ns48="https://open.law/schemas/cache" ns48:ref-path="attachments|law|III|19|19.5">
           <codify:insert path="4" renumber-paras="true"/>
           <num codify:value="16.03.250">19.5</num>
           <heading>Notice of Meeting</heading>
@@ -2396,7 +2396,7 @@
             <text>Except as otherwise provided in the articles or bylaws, a written ballot may not be revoked.</text>
           </para>
         </section>
-        <section>
+        <section xmlns:ns55="https://open.law/schemas/cache" ns55:ref-path="attachments|law|III|19|19.9">
           <codify:insert path="4" renumber-paras="true"/>
           <num codify:value="16.03.290">19.9</num>
           <heading>Members' List for Meeting</heading>
@@ -2628,7 +2628,7 @@
             <text>If the corporation does not have members, all the directors (except the initial directors) shall be elected, appointed or designated as provided in the articles or bylaws. If no method of designation or appointment is set forth in the articles or bylaws, the directors (other than the initial directors) shall be elected by the board.</text>
           </para>
         </section>
-        <section>
+        <section xmlns:ns44="https://open.law/schemas/cache" ns44:ref-path="attachments|law|III|20|20.3">
           <codify:insert path="5" renumber-paras="true"/>
           <num codify:value="16.03.390">20.3</num>
           <heading>General Standards for Directors</heading>
@@ -2674,7 +2674,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>A director is not liable to the corporation, any member, or any other person for any action taken or not taken as a director, if the director acted in compliance with <code-cite path="§20.3">this section</code-cite>.</text>
+            <text>A director is not liable to the corporation, any member, or any other person for any action taken or not taken as a director, if the director acted in compliance with <code-cite path="attachments|law|III|20|20.3">this section</code-cite>.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -2704,7 +2704,7 @@
           <heading>Duties and Authority of Officers</heading>
           <text>Each officer has the authority and shall perform the duties set forth in the bylaws or, to the extent consistent with the bylaws, the duties and authority prescribed in a resolution of the board or by direction of an officer authorized by the board to prescribe the duties and authority of other officers.</text>
         </section>
-        <section>
+        <section xmlns:ns45="https://open.law/schemas/cache" ns45:ref-path="attachments|law|III|20|20.6">
           <codify:insert path="5" renumber-paras="true"/>
           <num codify:value="16.03.420">20.6</num>
           <heading>Standards of Conduct for Officers</heading>
@@ -2746,7 +2746,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>An officer is not liable to the corporation, any member, or other person for any action taken or not taken as an officer, if the officer acted in compliance with <code-cite path="§20.6">this section</code-cite>.</text>
+            <text>An officer is not liable to the corporation, any member, or other person for any action taken or not taken as an officer, if the officer acted in compliance with <code-cite path="attachments|law|III|20|20.6">this section</code-cite>.</text>
           </para>
         </section>
       </container>
@@ -2779,7 +2779,7 @@
             <text>"Proceeding" means any threatened, pending, or completed action, suit or proceeding whether civil, criminal, administrative, or investigative and whether formal or informal.</text>
           </para>
         </section>
-        <section>
+        <section xmlns:ns46="https://open.law/schemas/cache" ns46:ref-path="attachments|law|III|21|21.2">
           <codify:insert path="6" renumber-paras="true"/>
           <num codify:value="16.03.440">21.2</num>
           <heading>Authority to Indemnify</heading>
@@ -2813,11 +2813,11 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>The termination of a proceeding by judgment, order, settlement, conviction, or upon a plea of nolo contendere or its equivalent is not, of itself, determinative that the director did not meet the standard of conduct described in <code-cite path="§21.2">this section</code-cite>.</text>
+            <text>The termination of a proceeding by judgment, order, settlement, conviction, or upon a plea of nolo contendere or its equivalent is not, of itself, determinative that the director did not meet the standard of conduct described in <code-cite path="attachments|law|III|21|21.2">this section</code-cite>.</text>
           </para>
           <para>
             <num>(d)</num>
-            <text>A corporation may not indemnify a director under <code-cite path="§21.2">this section</code-cite>:</text>
+            <text>A corporation may not indemnify a director under <code-cite path="attachments|law|III|21|21.2">this section</code-cite>:</text>
             <para>
               <num>1.</num>
               <text>in connection with a proceeding by or in the right of the corporation in which the director was adjudged liable to the corporation; or</text>
@@ -2939,7 +2939,7 @@
             <text>If the board or the members seek to have the amendment approved by the members by written consent or written ballot, the material soliciting the approval shall contain or be accompanied by a copy or summary of the amendment.</text>
           </para>
         </section>
-        <section>
+        <section xmlns:ns47="https://open.law/schemas/cache" ns47:ref-path="attachments|law|III|22|22.4">
           <codify:insert path="7" renumber-paras="true"/>
           <num codify:value="16.03.510">22.4</num>
           <heading>Class Voting by Members on Amendments</heading>
@@ -2989,7 +2989,7 @@
           </para>
           <para>
             <num>(f)</num>
-            <text>A class of members of a public benefit or mutual benefit corporation is entitled to the voting rights granted by <code-cite path="§22.4">this section</code-cite> although the articles and bylaws provide that the class may not vote on the proposed amendment.</text>
+            <text>A class of members of a public benefit or mutual benefit corporation is entitled to the voting rights granted by <code-cite path="attachments|law|III|22|22.4">this section</code-cite> although the articles and bylaws provide that the class may not vote on the proposed amendment.</text>
           </para>
         </section>
         <section>
@@ -2998,7 +2998,7 @@
           <heading>Articles of Amendment</heading>
           <para>
             <num>(a)</num>
-            <text>A corporation amending its articles shall deliver to the Tribal Secretary articles of amendment setting forth the items required in <code-cite path="§6.2">Title 1, Section 6.2</code-cite>.</text>
+            <text>A corporation amending its articles shall deliver to the Tribal Secretary articles of amendment setting forth the items required in <code-cite path="attachments|law|I|6|6.2">Title 1, Section 6.2</code-cite>.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -3049,14 +3049,14 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>If the board or the members seek to have the amendment approved by the members at a membership meeting, the corporation shall give notice to its members of the proposed membership meeting in writing in accordance with <code-cite path="§19.5">Section 19.5</code-cite>. The notice must also state that the purpose, or one of the purposes, of the meeting is to consider the proposed amendment and contain or be accompanied by a copy or summary of the amendment.</text>
+            <text>If the board or the members seek to have the amendment approved by the members at a membership meeting, the corporation shall give notice to its members of the proposed membership meeting in writing in accordance with <code-cite path="attachments|law|III|19|19.5">Section 19.5</code-cite>. The notice must also state that the purpose, or one of the purposes, of the meeting is to consider the proposed amendment and contain or be accompanied by a copy or summary of the amendment.</text>
           </para>
           <para>
             <num>(e)</num>
             <text>If the board or the members seek to have the amendment approved by the members by written consent or written ballot, the material soliciting the approval shall contain or be accompanied by a copy or summary of the amendment.</text>
           </para>
         </section>
-        <section>
+        <section xmlns:ns49="https://open.law/schemas/cache" ns49:ref-path="attachments|law|III|22|22.8">
           <codify:insert path="7" renumber-paras="true"/>
           <num codify:value="16.03.550">22.8</num>
           <heading>Class Voting by Members on Amendments</heading>
@@ -3106,7 +3106,7 @@
           </para>
           <para>
             <num>(f)</num>
-            <text>A class of members is entitled to the voting rights granted by <code-cite path="§22.8">this section</code-cite> although the articles and bylaws provide that the class may not vote on the proposed amendment.</text>
+            <text>A class of members is entitled to the voting rights granted by <code-cite path="attachments|law|III|22|22.8">this section</code-cite> although the articles and bylaws provide that the class may not vote on the proposed amendment.</text>
           </para>
         </section>
       </container>
@@ -3165,7 +3165,7 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>If the corporation seeks to have the transaction approved by the members at a membership meeting, the corporation shall give notice to its members of the proposed membership meeting in accordance with <code-cite path="§19.5">Section 19.5</code-cite>. The notice must also state that the purpose, or one of the purposes, of the meeting is to consider the sale, lease, exchange, or other disposition of all, or substantially all, of the property or assets of the corporation and contain or be accompanied by a copy or summary of a description of the transaction.</text>
+            <text>If the corporation seeks to have the transaction approved by the members at a membership meeting, the corporation shall give notice to its members of the proposed membership meeting in accordance with <code-cite path="attachments|law|III|19|19.5">Section 19.5</code-cite>. The notice must also state that the purpose, or one of the purposes, of the meeting is to consider the sale, lease, exchange, or other disposition of all, or substantially all, of the property or assets of the corporation and contain or be accompanied by a copy or summary of a description of the transaction.</text>
           </para>
           <para>
             <num>(f)</num>
@@ -3239,7 +3239,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>If the board seeks to have dissolution approved by the members at a membership meeting, the corporation shall give notice to its members of the proposed membership meeting in accordance with <code-cite path="§19.5">Section 19.5</code-cite>. The notice must also state that the purpose, or one of the purposes, of the meeting is to consider dissolving the corporation and contain or be accompanied by a copy or summary of the plan of dissolution.</text>
+            <text>If the board seeks to have dissolution approved by the members at a membership meeting, the corporation shall give notice to its members of the proposed membership meeting in accordance with <code-cite path="attachments|law|III|19|19.5">Section 19.5</code-cite>. The notice must also state that the purpose, or one of the purposes, of the meeting is to consider dissolving the corporation and contain or be accompanied by a copy or summary of the plan of dissolution.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -3282,7 +3282,7 @@
           <codify:insert path="12" renumber-paras="true"/>
           <num codify:value="16.03.630">27.1</num>
           <heading>Corporate Records</heading>
-          <para>
+          <para xmlns:ns51="https://open.law/schemas/cache" ns51:ref-path="attachments|law|III|27|27.1|(a)">
             <num>(a)</num>
             <text>A Non-Profit Corporation shall keep as permanent records the following documents:</text>
             <para>
@@ -3302,7 +3302,7 @@
             <num>(b)</num>
             <text>A corporation shall maintain its records in written form or in another form capable of conversion into written form within a reasonable time.</text>
           </para>
-          <para>
+          <para xmlns:ns50="https://open.law/schemas/cache" ns50:ref-path="attachments|law|III|27|27.1|(c)">
             <num>(c)</num>
             <text>A corporation shall keep a copy of the following records at its principal office:</text>
             <para>
@@ -3335,28 +3335,28 @@
             </para>
           </para>
         </section>
-        <section>
+        <section xmlns:ns54="https://open.law/schemas/cache" ns54:ref-path="attachments|law|III|27|27.2">
           <codify:insert path="12" renumber-paras="true"/>
           <num codify:value="16.03.640">27.2</num>
           <heading>Inspection of Records by Members</heading>
           <para>
             <num>(a)</num>
-            <text>Subject to subsection (e), a member is entitled to inspect and copy, at a reasonable time and location specified by the corporation, any of the records of the corporation described in <code-cite path="§27.1|(c)">Section 27.2(c)</code-cite> if the member gives the corporation written notice or a written demand at least five business days before the date on which the member wishes to inspect and copy.</text>
+            <text>Subject to subsection (e), a member is entitled to inspect and copy, at a reasonable time and location specified by the corporation, any of the records of the corporation described in <code-cite path="attachments|law|III|27|27.1|(c)">Section 27.2(c)</code-cite> if the member gives the corporation written notice or a written demand at least five business days before the date on which the member wishes to inspect and copy.</text>
           </para>
           <para>
             <num>(b)</num>
             <text>Subject to subsection (e), a member is entitled to inspect and copy, at a reasonable time and reasonable location specified by the corporation, any of the following records of the corporation if the member meets the requirements of subsection (c) and gives the corporation written notice at least five business days before the date on which the member wishes to inspect and copy:</text>
             <para>
               <num>1.</num>
-              <text>excerpts from any records required to be maintained under <code-cite path="§27.1|(a)">Section 27.2(a)</code-cite>, to the extent not subject to inspection under <code-cite path="§27.3|(a)">Section 27.3(a)</code-cite>;</text>
+              <text>excerpts from any records required to be maintained under <code-cite path="attachments|law|III|27|27.1|(a)">Section 27.2(a)</code-cite>, to the extent not subject to inspection under <code-cite path="attachments|law|III|27|27.3|(a)">Section 27.3(a)</code-cite>;</text>
             </para>
             <para>
               <num>2.</num>
               <text>accounting records of the corporation; and</text>
             </para>
-            <para>
+            <para ns54:ref-path="attachments|law|III|27|27.2|(b)|3.">
               <num>3.</num>
-              <text>subject to <code-cite path="§27.4">Section 27.04</code-cite>, the membership list.</text>
+              <text>subject to <code-cite path="attachments|law|III|27|27.4">Section 27.04</code-cite>, the membership list.</text>
             </para>
           </para>
           <para>
@@ -3377,10 +3377,10 @@
           </para>
           <para>
             <num>(d)</num>
-            <text><code-cite path="§27.2">This section</code-cite> does not affect:</text>
+            <text><code-cite path="attachments|law|III|27|27.2">This section</code-cite> does not affect:</text>
             <para>
               <num>1.</num>
-              <text>the right of a member to inspect records under <code-cite path="§19.9">Section 19.9</code-cite> or, if the member is in litigation with the corporation, to the same extent as any other litigant; or</text>
+              <text>the right of a member to inspect records under <code-cite path="attachments|law|III|19|19.9">Section 19.9</code-cite> or, if the member is in litigation with the corporation, to the same extent as any other litigant; or</text>
             </para>
             <para>
               <num>2.</num>
@@ -3389,23 +3389,23 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>The articles or bylaws of a religious corporation may limit or abolish the right of a member under <code-cite path="§27.2">this section</code-cite> to inspect and copy any corporate record.</text>
+            <text>The articles or bylaws of a religious corporation may limit or abolish the right of a member under <code-cite path="attachments|law|III|27|27.2">this section</code-cite> to inspect and copy any corporate record.</text>
           </para>
         </section>
         <section>
           <codify:insert path="12" renumber-paras="true"/>
           <num codify:value="16.03.650">27.3</num>
           <heading>Scope of Inspection Rights</heading>
-          <para>
+          <para xmlns:ns52="https://open.law/schemas/cache" ns52:ref-path="attachments|law|III|27|27.3|(a)">
             <num>(a)</num>
             <text>The corporation may impose a reasonable charge, covering the costs of labor and material, for copies of any documents provided to the member. The charge may not exceed the estimated cost of production or reproduction of the records.</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>The corporation may comply with a member's demand to inspect the record of members under <code-cite path="§27.2|(b)|3.">Section 27.2(b)(3)</code-cite> by providing the member with a list of its members that was compiled no earlier than the date of the member's demand.</text>
+            <text>The corporation may comply with a member's demand to inspect the record of members under <code-cite path="attachments|law|III|27|27.2|(b)|3.">Section 27.2(b)(3)</code-cite> by providing the member with a list of its members that was compiled no earlier than the date of the member's demand.</text>
           </para>
         </section>
-        <section>
+        <section xmlns:ns53="https://open.law/schemas/cache" ns53:ref-path="attachments|law|III|27|27.4">
           <codify:insert path="12" renumber-paras="true"/>
           <num codify:value="16.03.660">27.4</num>
           <heading>Limitations on Use of Membership List</heading>
@@ -3503,7 +3503,7 @@
           <heading>Applicable Law</heading>
           <text>Except as otherwise specifically provided for herein, the Saint Regis Mohawk Tribe's Rules of Civil Procedure shall apply to any procedure or dispute not otherwise addressed by <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
         </section>
-        <section>
+        <section xmlns:ns56="https://open.law/schemas/cache" ns56:ref-path="attachments|law|IV|28|28.5">
           <codify:insert path="1" renumber-paras="true"/>
           <num codify:value="16.04.050">28.5</num>
           <heading>Fees</heading>
@@ -3513,11 +3513,11 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>The Tribal Secretary shall retain from the revenue collected from the fees required by <code-cite path="§28.5">this section</code-cite> a sum sufficient to provide at all times a fund of at least five hundred dollars ($500.00), but not more than fifteen hundred dollars ($1,500.00), from which the Tribal Secretary may refund any payment made pursuant to <code-cite path="§28.5">this section</code-cite> to the extent that it exceeds the fees required by <code-cite path="§28.5">this section</code-cite>.</text>
+            <text>The Tribal Secretary shall retain from the revenue collected from the fees required by <code-cite path="attachments|law|IV|28|28.5">this section</code-cite> a sum sufficient to provide at all times a fund of at least five hundred dollars ($500.00), but not more than fifteen hundred dollars ($1,500.00), from which the Tribal Secretary may refund any payment made pursuant to <code-cite path="attachments|law|IV|28|28.5">this section</code-cite> to the extent that it exceeds the fees required by <code-cite path="attachments|law|IV|28|28.5">this section</code-cite>.</text>
           </para>
           <para>
             <num>(c)</num>
-            <text>No document required to be filed under <code-cite path="|attachments|law">this Ordinance</code-cite> shall be effective until the applicable fee required by <code-cite path="§28.5">this section</code-cite> is paid.</text>
+            <text>No document required to be filed under <code-cite path="|attachments|law">this Ordinance</code-cite> shall be effective until the applicable fee required by <code-cite path="attachments|law|IV|28|28.5">this section</code-cite> is paid.</text>
           </para>
         </section>
       </container>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2007-61" codify:doc="Saint Regis Mohawk Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2007-61" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2007-61</num>
   <heading>Adoption of the Tribal Ethics Ordinance</heading>
   <meta>
@@ -424,7 +424,7 @@
         <text>A Tribal Council member, and when applicable, the Tribal Clerk, shall attend all regular and special Tribal Council meetings, and all Tribal monthly meetings. A Council member or the Tribal Clerk shall notify the Tribal Council prior to any meeting they will not attend, with a valid excuse. Three (3) unexcused absences during a Tribal Council member's or Tribal Clerk's term shall constitute a violation of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
       </para>
     </section>
-    <section>
+    <section xmlns:ns147="https://open.law/schemas/cache" ns147:ref-path="attachments|law|VI">
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.04.060">VI</num>
       <heading>Disclosure Statement, Filing Requirements</heading>
@@ -461,7 +461,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>Violations of any provisions of <code-cite path="§VI">this section</code-cite> shall be punishable in the same manner and to the same extent as provided by any provision of law applicable to unauthorized disclosure of confidential information of any privileged official information or records of the Tribe.</text>
+          <text>Violations of any provisions of <code-cite path="attachments|law|VI">this section</code-cite> shall be punishable in the same manner and to the same extent as provided by any provision of law applicable to unauthorized disclosure of confidential information of any privileged official information or records of the Tribe.</text>
         </para>
         <para>
           <num>3.</num>
@@ -629,7 +629,7 @@
         <text>Powers of Ethics Commission</text>
         <para>
           <num>1.</num>
-          <text>The Ethics Commission has the power to make amendments to <code-cite path="|attachments|law">this Ordinance</code-cite> pursuant to <code-cite path="§XI">Section XI</code-cite>.</text>
+          <text>The Ethics Commission has the power to make amendments to <code-cite path="|attachments|law">this Ordinance</code-cite> pursuant to <code-cite path="attachments|law|XI">Section XI</code-cite>.</text>
         </para>
         <para>
           <num>2.</num>
@@ -760,7 +760,7 @@
       <heading>Appeals</heading>
       <text>The elected official may appeal a final decision of the Ethics Commission to an Ethics Commission formed specifically for the purpose of hearing the appeal. The Commission shall be comprised of members who were not involved in hearing the initial complaint.</text>
     </section>
-    <section>
+    <section xmlns:ns148="https://open.law/schemas/cache" ns148:ref-path="attachments|law|XI">
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.04.110">XI</num>
       <heading>Amendment</heading>

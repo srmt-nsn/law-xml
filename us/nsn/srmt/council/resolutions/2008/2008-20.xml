@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2008-20" codify:doc="Saint Regis Mohawk Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2008-20" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2008-20</num>
   <heading>Adoption of Rules of Civil Procedure</heading>
   <meta>
@@ -98,7 +98,7 @@
       <heading>Definitions</heading>
       <text>There are no words or phrases of that require statutory definition as part of this enactment.</text>
     </section>
-    <section>
+    <section xmlns:ns142="https://open.law/schemas/cache" ns142:ref-path="attachments|law|IV">
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.02.040">IV</num>
       <heading>[Rule 1] Filing and Notice</heading>
@@ -142,7 +142,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>All oral actions taken by the parties in open court shall be subject to the notice requirements of <code-cite path="§XVI">Section 16</code-cite>, Rule 13. The Notice of Motion form provided for by that Rule may be used to satisfy the notice requirements for all oral actions.</text>
+        <text>All oral actions taken by the parties in open court shall be subject to the notice requirements of <code-cite path="attachments|law|XVI">Section 16</code-cite>, Rule 13. The Notice of Motion form provided for by that Rule may be used to satisfy the notice requirements for all oral actions.</text>
       </para>
     </section>
     <section>
@@ -184,7 +184,7 @@
         <text>For the purposes of meeting the deadline set in this Rule, a civil suit is started when the complaint is filed with the Clerk of the Court.</text>
       </para>
     </section>
-    <section>
+    <section xmlns:ns143="https://open.law/schemas/cache" ns143:ref-path="attachments|law|IX">
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.02.090">IX</num>
       <heading>[Rule 6] Commencement of a Lawsuit; Complaints; Proof of Service; Filing Fee; Summons</heading>
@@ -235,7 +235,7 @@
         <text>In addition to or as a way of raising a defense to the complaint, a defendant may file a complaint/counterclaim against plaintiff, following the same rules which apply to complaints.</text>
       </para>
     </section>
-    <section>
+    <section xmlns:ns141="https://open.law/schemas/cache" ns141:ref-path="attachments|law|XII">
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.02.120">XII</num>
       <heading>[Rule 9] Preliminary Injunctions and Temporary Restraining Orders</heading>
@@ -249,7 +249,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Except as provided in <code-cite path="§XII">Section 12</code-cite>, Rule 9(d), no pretrial injunction shall be issued unless the party to be enjoined first has notice and an opportunity to be heard in court.</text>
+        <text>Except as provided in <code-cite path="attachments|law|XII">Section 12</code-cite>, Rule 9(d), no pretrial injunction shall be issued unless the party to be enjoined first has notice and an opportunity to be heard in court.</text>
       </para>
       <para>
         <num>D.</num>
@@ -257,7 +257,7 @@
       </para>
       <para>
         <num>E.</num>
-        <text>A temporary restraining order shall be effective only for the time period specified in the order, and in no case for longer than ten (10) days. Subject to the requirements of <code-cite path="§XII">Section 12</code-cite>, Rule 9(d), a temporary restraining order may be renewed once and only for good cause.</text>
+        <text>A temporary restraining order shall be effective only for the time period specified in the order, and in no case for longer than ten (10) days. Subject to the requirements of <code-cite path="attachments|law|XII">Section 12</code-cite>, Rule 9(d), a temporary restraining order may be renewed once and only for good cause.</text>
       </para>
       <para>
         <num>F.</num>
@@ -355,7 +355,7 @@
         <text>No offer of settlement or other statement which is made by a party during a pretrial conference may be used as evidence against that party if settlement is not then achieved. Agreements reached as a result of a pretrial conference shall be put in writing and signed by all parties. Such agreement shall be made part of the final judgment issued by the judge.</text>
       </para>
     </section>
-    <section>
+    <section xmlns:ns140="https://open.law/schemas/cache" ns140:ref-path="attachments|law|XVI">
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.02.160">XVI</num>
       <heading>[Rule 13] Motions</heading>
@@ -365,7 +365,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Motions may be made in writing or orally. If the motion is not made during and as a consequence of events at a trial or other hearing, the moving party shall notify other parties of the nature and basis of the motion and the hearing time at least ten (10) days before the motion is presented in Court, so the responding party has a chance to plan a response. The notice required by <code-cite path="§XVI">this section</code-cite> shall be called a Notice of Motion, shall be in writing, and shall be served upon the party, or, if the party is represented by counsel, upon the party's counsel, according to <code-cite path="§IV">Section 4</code-cite>, Rule 1 (b). Persons who are unable to prepare their own written Notice of Motion may be assisted by the Clerk in the filling out of a Notice of Motion form, provided for that purpose by the Rules of the Court.</text>
+        <text>Motions may be made in writing or orally. If the motion is not made during and as a consequence of events at a trial or other hearing, the moving party shall notify other parties of the nature and basis of the motion and the hearing time at least ten (10) days before the motion is presented in Court, so the responding party has a chance to plan a response. The notice required by <code-cite path="attachments|law|XVI">this section</code-cite> shall be called a Notice of Motion, shall be in writing, and shall be served upon the party, or, if the party is represented by counsel, upon the party's counsel, according to <code-cite path="attachments|law|IV">Section 4</code-cite>, Rule 1 (b). Persons who are unable to prepare their own written Notice of Motion may be assisted by the Clerk in the filling out of a Notice of Motion form, provided for that purpose by the Rules of the Court.</text>
       </para>
       <para>
         <num>C.</num>
@@ -398,7 +398,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>A person who delivers a subpoena shall promptly file with the Clerk a copy of the subpoena and a proof of service as defined in <code-cite path="§IX">Section 9</code-cite>, Rule (6)(d). The proof of service must be filed prior to the date the person is to appear, and in any event no more than thirty (30) days after the date of service.</text>
+        <text>A person who delivers a subpoena shall promptly file with the Clerk a copy of the subpoena and a proof of service as defined in <code-cite path="attachments|law|IX">Section 9</code-cite>, Rule (6)(d). The proof of service must be filed prior to the date the person is to appear, and in any event no more than thirty (30) days after the date of service.</text>
       </para>
       <para>
         <num>G.</num>
@@ -409,7 +409,7 @@
         <text>A witness who responds to a civil subpoena shall be entitled to a fee of Thirty Dollars ($30.00) for each day or partial day that he or she must appear in court. The judge may, in addition, order that the witness be paid reasonable and necessary travel and living expenses incurred in responding to the subpoena. Witnesses shall be offered full payment of their fees for one day's service at the time they are served with the subpoena. The party requesting the issuance of a subpoena shall tender the fees to the witness upon service of the subpoena.</text>
       </para>
     </section>
-    <section>
+    <section xmlns:ns144="https://open.law/schemas/cache" ns144:ref-path="attachments|law|XVIII">
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.02.180">XVIII</num>
       <heading>[Rule 15] Jury Trials</heading>
@@ -424,7 +424,7 @@
         <text>To be eligible to serve as a juror on a civil case, a person must be a Tribal member who is a resident of the St. Regis Mohawk Reservation, must be eighteen (18) years of age or older, must never have been convicted in any court of a felony, and must not at the time the list is made, or at the time of trial, be holding the office of Tribal judge, Tribal police officer, or Tribal Council Member.</text>
         <para>
           <num>1.</num>
-          <text>For the purposes of <code-cite path="§XVIII">this section</code-cite>, a permanent resident of the Reservation is a person who rents or owns a dwelling place on the reservation, and who resides in that dwelling place other than seasonally or periodically, and who receives mail on the reservation at a reservation post office box or reservation street address, and who intends to make the reservation his or her permanent home for the future, and who does not claim residence in any other location for any purpose.</text>
+          <text>For the purposes of <code-cite path="attachments|law|XVIII">this section</code-cite>, a permanent resident of the Reservation is a person who rents or owns a dwelling place on the reservation, and who resides in that dwelling place other than seasonally or periodically, and who receives mail on the reservation at a reservation post office box or reservation street address, and who intends to make the reservation his or her permanent home for the future, and who does not claim residence in any other location for any purpose.</text>
         </para>
         <para>
           <num>2.</num>
@@ -521,7 +521,7 @@
         <text>A civil jury verdict must be based upon the agreement of at least six (6) of the seven (7) jurors.</text>
       </para>
     </section>
-    <section>
+    <section xmlns:ns145="https://open.law/schemas/cache" ns145:ref-path="attachments|law|XXI">
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.02.210">XXI</num>
       <heading>[Rule 18] Rules of Evidence Governing Trials</heading>
@@ -580,7 +580,7 @@
       </para>
       <para>
         <num>E.</num>
-        <text>Sworn Written Testimony: Subject to the provisions of <code-cite path="§XXI">Section 21</code-cite>, Rule 18 (b) (2), testimony of a witness may be presented in sworn written form if and only if:</text>
+        <text>Sworn Written Testimony: Subject to the provisions of <code-cite path="attachments|law|XXI">Section 21</code-cite>, Rule 18 (b) (2), testimony of a witness may be presented in sworn written form if and only if:</text>
         <para>
           <num>1.</num>
           <text>The witness is unable to appear in person to testify, or</text>
@@ -624,7 +624,7 @@
         <text>Finality: A judgment becomes final when it has been recorded in the Docket Book by the court Clerk. The Court shall establish, by the Rules of the Court, the length of time after issuance of an order within which the Court Clerk must enter the Order in the Docket Book.</text>
       </para>
     </section>
-    <section>
+    <section xmlns:ns146="https://open.law/schemas/cache" ns146:ref-path="attachments|law|XXIII">
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.02.230">XXIII</num>
       <heading>[Rule 20] Proceedings After Judgment</heading>
@@ -662,7 +662,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>A party appealing a judgment against him or her, or filing a motion pursuant to <code-cite path="§XXIII">Section 23</code-cite>, Rule 20(a) may make a motion requesting that the Court delay (stay) enforcement of the judgment until after the <code-cite path="§XXIII">Section 23</code-cite>, Rule 20(a) motion or appeal has been decided. The party who won the original judgment may oppose the motion for a stay and/or may request that the Court require that the party asking for the stay post a bond to protect him or her from further damage, to cover costs, or to guarantee that sufficient assets are within the control of the Court to satisfy the judgment if the original winning party wins the motion or the appeal. Stays shall be granted only under the terms of <code-cite path="§XXIII">this Section</code-cite> and the Rules of Appellate Procedure, and no stays shall be granted automatically.</text>
+        <text>A party appealing a judgment against him or her, or filing a motion pursuant to <code-cite path="attachments|law|XXIII">Section 23</code-cite>, Rule 20(a) may make a motion requesting that the Court delay (stay) enforcement of the judgment until after the <code-cite path="attachments|law|XXIII">Section 23</code-cite>, Rule 20(a) motion or appeal has been decided. The party who won the original judgment may oppose the motion for a stay and/or may request that the Court require that the party asking for the stay post a bond to protect him or her from further damage, to cover costs, or to guarantee that sufficient assets are within the control of the Court to satisfy the judgment if the original winning party wins the motion or the appeal. Stays shall be granted only under the terms of <code-cite path="attachments|law|XXIII">this Section</code-cite> and the Rules of Appellate Procedure, and no stays shall be granted automatically.</text>
       </para>
     </section>
     <section>

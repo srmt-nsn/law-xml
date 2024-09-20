@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2017-29" codify:doc="Saint Regis Mohawk Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2017-29" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2017-29</num>
   <heading>Ambient Air Standards on the Saint Regis Mohawk Indian Reservation - Amended</heading>
   <meta>
@@ -154,7 +154,7 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="5.01.030">III.</num>
       <heading codify:value="Enforcement and Penalties">ENFORCEMENT AND PENALTIES</heading>
-      <para>
+      <para xmlns:ns105="https://open.law/schemas/cache" ns105:ref-path="attachments|law|III.|A.">
         <num>A.</num>
         <heading>Notice of Violation</heading>
         <para>
@@ -167,7 +167,7 @@
         </para>
         <para>
           <num>3.</num>
-          <text>Except as provided in <code-cite path="§IV.">section IV</code-cite> below (Emergency Abatement Orders), the Notice of Violation shall provide the alleged violator with at least ten (10) business days in which to submit a written response to the Notice.</text>
+          <text>Except as provided in <code-cite path="attachments|law|IV.">section IV</code-cite> below (Emergency Abatement Orders), the Notice of Violation shall provide the alleged violator with at least ten (10) business days in which to submit a written response to the Notice.</text>
         </para>
         <para>
           <num>4.</num>
@@ -179,7 +179,7 @@
         </para>
         <para>
           <num>6.</num>
-          <text>Failure to request either a Tribal Court hearing or resolution through a voluntary Administrative Consent Order within the time period specified in the Notice of Violation shall be deemed a waiver of both and grounds for issuance of a Unilateral Administrative Order as provided for in <code-cite path="§III.|C.">section III. C</code-cite>.</text>
+          <text>Failure to request either a Tribal Court hearing or resolution through a voluntary Administrative Consent Order within the time period specified in the Notice of Violation shall be deemed a waiver of both and grounds for issuance of a Unilateral Administrative Order as provided for in <code-cite path="attachments|law|III.|C.">section III. C</code-cite>.</text>
         </para>
       </para>
       <para>
@@ -194,7 +194,7 @@
           <text>In the event that the Tribe and alleged violator fail to agree on the terms of, and execute, an Administrative Consent Order, the alleged violator may request a Tribal Court hearing concerning the alleged violation(s).</text>
         </para>
       </para>
-      <para>
+      <para xmlns:ns104="https://open.law/schemas/cache" ns104:ref-path="attachments|law|III.|C.">
         <num>C.</num>
         <heading>Unilateral Administrative Order</heading>
         <para>
@@ -228,7 +228,7 @@
       </para>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
     </section>
-    <section>
+    <section xmlns:ns103="https://open.law/schemas/cache" ns103:ref-path="attachments|law|IV.">
       <codify:insert renumber-paras="true"/>
       <num codify:value="5.01.040">IV.</num>
       <heading codify:value="Emergency Abatement Order">EMERGENCY ABATEMENT ORDER</heading>
@@ -240,7 +240,7 @@
       <para>
         <num>B.</num>
         <heading>Emergency Abatement Order</heading>
-        <text>An emergency abatement order shall include the information contained in a Notice of Violation issued pursuant to <code-cite path="§III.|A.">section III. A.</code-cite> An emergency abatement order shall also identify:</text>
+        <text>An emergency abatement order shall include the information contained in a Notice of Violation issued pursuant to <code-cite path="attachments|law|III.|A.">section III. A.</code-cite> An emergency abatement order shall also identify:</text>
         <para>
           <num>1.</num>
           <text>The grounds for believing that the violation or violations may pose an imminent and substantial endangerment to public health or the environment;</text>

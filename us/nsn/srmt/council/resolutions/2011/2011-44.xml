@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2011-44" codify:doc="Saint Regis Mohawk Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2011-44" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2011-44</num>
   <heading>Resolution of the St. Regis Mohawk Tribe to Establish a Judicial Oversight Committee</heading>
   <meta>
@@ -239,7 +239,7 @@
         <text>To do all other things necessary and convenient to carry out its functions, powers and duties expressly set forth in this article.</text>
       </para>
     </section>
-    <section>
+    <section xmlns:ns123="https://open.law/schemas/cache" ns123:ref-path="attachments|law|VI">
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.07.060">VI</num>
       <heading>Complaint; Investigation; Hearing and Disposition</heading>
@@ -297,24 +297,24 @@
         <text>The Commission shall notify the complainant of its disposition of the complaint.</text>
       </para>
     </section>
-    <section>
+    <section xmlns:ns124="https://open.law/schemas/cache" ns124:ref-path="attachments|law|VII">
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.07.070">VII</num>
       <heading>Confidentiality of Records</heading>
       <para>
         <num>A.</num>
-        <text>Except as hereinafter provided, all complaints, correspondence, Commission proceedings and transcripts thereof, other papers and data and records of the Commission shall be confidential and shall not be made available to any person except pursuant to <code-cite path="§VI">section VI</code-cite>. of <code-cite path="|attachments|law">this Ordinance</code-cite>. The Commission and its designated staff personnel shall have access to confidential material in the performance of their powers and duties. If the judge who is the subject of a complaint so requests in writing, copies of the complaint, the transcripts of hearings by the Commission thereon, if any, and the dispositive action of the Commission with respect to the complaint, such copies with any reference to the identity of any person who did not participate at any such hearing suitably deleted therefrom, except the subject judge or complainant, shall be made available for inspection and copying to the public, or to any person, agency or body designated by such judge.</text>
+        <text>Except as hereinafter provided, all complaints, correspondence, Commission proceedings and transcripts thereof, other papers and data and records of the Commission shall be confidential and shall not be made available to any person except pursuant to <code-cite path="attachments|law|VI">section VI</code-cite>. of <code-cite path="|attachments|law">this Ordinance</code-cite>. The Commission and its designated staff personnel shall have access to confidential material in the performance of their powers and duties. If the judge who is the subject of a complaint so requests in writing, copies of the complaint, the transcripts of hearings by the Commission thereon, if any, and the dispositive action of the Commission with respect to the complaint, such copies with any reference to the identity of any person who did not participate at any such hearing suitably deleted therefrom, except the subject judge or complainant, shall be made available for inspection and copying to the public, or to any person, agency or body designated by such judge.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>Notwithstanding any provision in <code-cite path="§VII">this section</code-cite>, the Commission, with the consent of the person who brought the complaint, shall provide the record of any proceeding pursuant to a formal written complaint against an applicant for judicial appointment in which the applicant's misconduct was established, any pending complaint against an applicant, and the record to date of any pending proceeding pursuant to a formal written complaint against an applicant for judicial appointment to any person designated to receive such information by the applicant. The Commission shall respond within fifteen (15) days of a request for the information provided for in this subdivision.</text>
+        <text>Notwithstanding any provision in <code-cite path="attachments|law|VII">this section</code-cite>, the Commission, with the consent of the person who brought the complaint, shall provide the record of any proceeding pursuant to a formal written complaint against an applicant for judicial appointment in which the applicant's misconduct was established, any pending complaint against an applicant, and the record to date of any pending proceeding pursuant to a formal written complaint against an applicant for judicial appointment to any person designated to receive such information by the applicant. The Commission shall respond within fifteen (15) days of a request for the information provided for in this subdivision.</text>
       </para>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.07.080">VIII</num>
       <heading>Breach of Confidentiality of Commission Information</heading>
-      <text>Any staff member, employee or agent of the Commission who violates any of the provisions of <code-cite path="§VII">section VII</code-cite> of <code-cite path="|attachments|law">this Ordinance</code-cite> shall be subject to a reprimand, a fine, suspension or removal by the Commission, in addition to any sanctions proscribed by the Tribe's Personnel Policy.</text>
+      <text>Any staff member, employee or agent of the Commission who violates any of the provisions of <code-cite path="attachments|law|VII">section VII</code-cite> of <code-cite path="|attachments|law">this Ordinance</code-cite> shall be subject to a reprimand, a fine, suspension or removal by the Commission, in addition to any sanctions proscribed by the Tribe's Personnel Policy.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>

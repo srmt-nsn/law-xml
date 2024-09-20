@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2013-32" codify:doc="Saint Regis Mohawk Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2013-32" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2013-32</num>
   <heading>Resolution of the Saint Regis Mohawk Tribe to Adopt the Tribal Procedures Act</heading>
   <meta>
@@ -163,7 +163,7 @@
       <para>
         <num>C.</num>
         <text>Powers and Duties of the Council</text>
-        <text>The three (3) Chiefs shall exercise all legislative and executive powers of the Tribe including, but not limited to the following; subject to the restrictions set forth in <code-cite path="§V">Section V</code-cite>: (Removal) and <code-cite path="§VI">Section VI</code-cite>: (Referendum Powers):</text>
+        <text>The three (3) Chiefs shall exercise all legislative and executive powers of the Tribe including, but not limited to the following; subject to the restrictions set forth in <code-cite path="attachments|law|V">Section V</code-cite>: (Removal) and <code-cite path="attachments|law|VI">Section VI</code-cite>: (Referendum Powers):</text>
         <para>
           <num>1.</num>
           <text>To promote and protect the health, safety, education and general welfare of the Tribe.</text>
@@ -298,7 +298,7 @@
         </para>
       </para>
     </section>
-    <section>
+    <section xmlns:ns121="https://open.law/schemas/cache" ns121:ref-path="attachments|law|V">
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.01.050">V</num>
       <heading>Removal</heading>
@@ -331,14 +331,14 @@
         </para>
       </para>
     </section>
-    <section>
+    <section xmlns:ns122="https://open.law/schemas/cache" ns122:ref-path="attachments|law|VI">
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.01.060">VI</num>
       <heading>Referendums</heading>
-      <para>
+      <para ns122:ref-path="attachments|law|VI|A.">
         <num>A.</num>
         <text>Authority of Members to Initiate Referendums</text>
-        <text>Members shall have power to initiate referendums subject to the provisions set forth in <code-cite path="§VI">this Section</code-cite> and in any regulations that are issued pursuant to <code-cite path="|attachments|law">this Ordinance</code-cite> ("Initiative").</text>
+        <text>Members shall have power to initiate referendums subject to the provisions set forth in <code-cite path="attachments|law|VI">this Section</code-cite> and in any regulations that are issued pursuant to <code-cite path="|attachments|law">this Ordinance</code-cite> ("Initiative").</text>
         <para>
           <num>1.</num>
           <text>A referendum may be called to adopt new laws, reject or amend existing laws, or to pose questions on issues that affect the community.</text>
@@ -367,7 +367,7 @@
           <num>1.</num>
           <text>The Council <strong>may</strong> place any proposed or existing law or question to the membership for a referendum vote by a majority vote of the Chiefs.</text>
         </para>
-        <para>
+        <para ns122:ref-path="attachments|law|VI|B.|2.">
           <num>2.</num>
           <text>The Council <strong>must</strong> place the following issues to the membership through the referendum process:</text>
           <para>
@@ -597,7 +597,7 @@
       </para>
       <para>
         <num>2.</num>
-        <text>An Ordinance may be proposed by the Council, any Tribal Member or any Department or Program of the Tribe. (A member may also propose an ordinance via the referendum process, refer herein to <code-cite path="§VI|A.">Section VI A</code-cite>).</text>
+        <text>An Ordinance may be proposed by the Council, any Tribal Member or any Department or Program of the Tribe. (A member may also propose an ordinance via the referendum process, refer herein to <code-cite path="attachments|law|VI|A.">Section VI A</code-cite>).</text>
       </para>
       <para>
         <num>3.</num>
@@ -625,7 +625,7 @@
       </para>
       <para>
         <num>4.</num>
-        <text>In the event that Tribal Council elects to put the pending Ordinance to a referendum vote or adoption of the Ordinance requires a referendum vote pursuant to <code-cite path="§VI|B.|2.">Section VI, B. 2</code-cite>, or the Ordinance has been put forward through the Referendum process, the Referendum Election process shall be followed.</text>
+        <text>In the event that Tribal Council elects to put the pending Ordinance to a referendum vote or adoption of the Ordinance requires a referendum vote pursuant to <code-cite path="attachments|law|VI|B.|2.">Section VI, B. 2</code-cite>, or the Ordinance has been put forward through the Referendum process, the Referendum Election process shall be followed.</text>
       </para>
       <para>
         <num>5.</num>
@@ -880,7 +880,7 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.01.130">XIII</num>
       <heading>Amendment Provision</heading>
-      <text><code-cite path="|attachments|law">This Ordinance</code-cite> may be amended (see <code-cite path="§VI">Section VI</code-cite>) by a duly conducted Referendum.</text>
+      <text><code-cite path="|attachments|law">This Ordinance</code-cite> may be amended (see <code-cite path="attachments|law|VI">Section VI</code-cite>) by a duly conducted Referendum.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
@@ -898,7 +898,7 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.01.160">XVI</num>
       <heading>Rules of Compliance</heading>
-      <text>Failure to administer or comply with this Tribal Governance Ordinance may result in the implementation of <code-cite path="§V">Section V</code-cite>.</text>
+      <text>Failure to administer or comply with this Tribal Governance Ordinance may result in the implementation of <code-cite path="attachments|law|V">Section V</code-cite>.</text>
     </section>
   </attachment>
 </document>

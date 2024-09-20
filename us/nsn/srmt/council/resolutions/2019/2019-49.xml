@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2019-49" codify:doc="Saint Regis Mohawk Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2019-49" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2019-49</num>
   <heading>Approve Amendment to the Saint Regis Mohawk Tribe Family Support Act</heading>
   <meta>
@@ -415,7 +415,7 @@
           </para>
         </para>
       </para>
-      <para>
+      <para xmlns:ns95="https://open.law/schemas/cache" ns95:ref-path="attachments|law|II|C.">
         <num>C.</num>
         <text>
           <strong>Service</strong>
@@ -441,7 +441,7 @@
           <text>If the SRMT-CSEU was not the party filing the Summons and Petition, the Clerk of the SRMT Court shall provide a copy of the filed documents to the SRMT-CSEU.</text>
         </para>
       </para>
-      <para>
+      <para xmlns:ns94="https://open.law/schemas/cache" ns94:ref-path="attachments|law|II|D.">
         <num>D.</num>
         <text>
           <strong>Default Judgments</strong>
@@ -526,7 +526,7 @@
             </para>
           </para>
         </para>
-        <para>
+        <para xmlns:ns92="https://open.law/schemas/cache" ns92:ref-path="attachments|law|III|A.|3.">
           <num>3.</num>
           <text>When child support is requested in a petition, the SRMT-CSEU shall prepare a Child Support Worksheet for the parties using the guidelines in <code-cite path="|attachments|law">this Act</code-cite> and the information presented by each party in the Financial Disclosure Form. The Worksheet will provide calculations on the amount of child support that may be requested by the petitioner. All information collected during the mediation shall be kept confidential.</text>
         </para>
@@ -551,7 +551,7 @@
         <annotation type="History">Res. No. 2016-92</annotation>
       </annotations>
     </section>
-    <section>
+    <section xmlns:ns91="https://open.law/schemas/cache" ns91:ref-path="attachments|law|IV">
       <codify:insert renumber-paras="true"/>
       <num codify:value="11.03.040">IV</num>
       <heading>Paternity</heading>
@@ -753,7 +753,7 @@
           </para>
           <para>
             <num>h.</num>
-            <text>Establishment of paternity under <code-cite path="§IV">this section</code-cite> has no effect on Tribal enrollment or membership.</text>
+            <text>Establishment of paternity under <code-cite path="attachments|law|IV">this section</code-cite> has no effect on Tribal enrollment or membership.</text>
           </para>
         </para>
       </para>
@@ -793,7 +793,7 @@
         <annotation type="History">Res. No. 2016-92</annotation>
       </annotations>
     </section>
-    <section>
+    <section xmlns:ns93="https://open.law/schemas/cache" ns93:ref-path="attachments|law|V">
       <codify:insert renumber-paras="true"/>
       <num codify:value="11.03.050">V</num>
       <heading>Establishment of Child Support</heading>
@@ -868,7 +868,7 @@
         </text>
         <para>
           <num>1.</num>
-          <text>Each party to the action shall be required to complete a Financial Disclosure Form and to provide SRMT-CSEU with the disclosure prior to the Mediation as required by <code-cite path="§III|A.|3.">Section III (A) (3)</code-cite>. Each party shall sign a confidentiality statement that will require each of them to keep any information learned during the mediation confidential. If a party fails to attend Mediation then each party shall file the Financial Disclosure Form with the Court prior to the initial court appearance.</text>
+          <text>Each party to the action shall be required to complete a Financial Disclosure Form and to provide SRMT-CSEU with the disclosure prior to the Mediation as required by <code-cite path="attachments|law|III|A.|3.">Section III (A) (3)</code-cite>. Each party shall sign a confidentiality statement that will require each of them to keep any information learned during the mediation confidential. If a party fails to attend Mediation then each party shall file the Financial Disclosure Form with the Court prior to the initial court appearance.</text>
         </para>
         <para>
           <num>2.</num>
@@ -954,7 +954,7 @@
         </para>
         <para>
           <num>5.</num>
-          <text>Child support obligations shall be based on the percentages contained in <code-cite path="§V">this Section</code-cite> and shall be represented as a whole dollar amount in the Court Order, unless the Court finds good cause to deviate pursuant to <code-cite path="§V|F.|4.">Section V(F)(4)</code-cite> from the SRMT CSSC or based on the child's needs.</text>
+          <text>Child support obligations shall be based on the percentages contained in <code-cite path="attachments|law|V">this Section</code-cite> and shall be represented as a whole dollar amount in the Court Order, unless the Court finds good cause to deviate pursuant to <code-cite path="attachments|law|V|F.|4.">Section V(F)(4)</code-cite> from the SRMT CSSC or based on the child's needs.</text>
         </para>
       </para>
       <para>
@@ -1096,7 +1096,7 @@
             <text>A referral to any program the Court deems just and proper.</text>
           </para>
         </para>
-        <para>
+        <para ns93:ref-path="attachments|law|V|F.|4.">
           <num>4.</num>
           <text><u>Deviation</u>. There is a rebuttable presumption that the worksheet calculations are correct to support the requested award of child support. However, the Tribal Court has discretion to deviate from the child support calculation based on substantial evidence that the calculation would be harmful to the parent. If the Court decides to deviate from the calculations, the Court shall state in a written order the amount that would have been ordered had the guidelines been followed and the Court must justify such deviation. The Court may only rely on one or more of the following reason(s):</text>
           <para>
@@ -1134,14 +1134,14 @@
         </para>
         <para>
           <num>5.</num>
-          <text><u>Default Order</u>. When the respondent fails to appear or fails to answer a Petition filed herein, the Tribal Court shall enter a Default Child Support Order pursuant to <code-cite path="§II|D.">Section II D.</code-cite></text>
+          <text><u>Default Order</u>. When the respondent fails to appear or fails to answer a Petition filed herein, the Tribal Court shall enter a Default Child Support Order pursuant to <code-cite path="attachments|law|II|D.">Section II D.</code-cite></text>
           <para>
             <num>a.</num>
             <text>In issuing the Default Order, the Court must also find that the Petition or the recommendation of SRMT-CSEU is based on available, relevant and material financial information and the respondent's child support obligation, at the amount provided for in the Default Order, has been correctly determined under the guidelines and schedule based on calculation of the income provided or based upon the child(ren)'s needs.</text>
           </para>
           <para>
             <num>b.</num>
-            <text>The Default Order shall be served on the respondent by the Tribal Court Clerk per the Service requirements at <code-cite path="§II|C.">Section II C</code-cite>.</text>
+            <text>The Default Order shall be served on the respondent by the Tribal Court Clerk per the Service requirements at <code-cite path="attachments|law|II|C.">Section II C</code-cite>.</text>
           </para>
           <para>
             <num>c.</num>
@@ -1188,7 +1188,7 @@
         </para>
         <para>
           <num>7.</num>
-          <text>An employer may not discharge, refuse to employ or take disciplinary action against an employee because his or her wages have been subjected to withholding for child support. Failure to comply with <code-cite path="§V">this section</code-cite> may subject an employer to appropriate penalties as to be determined under SRMT law or custom.</text>
+          <text>An employer may not discharge, refuse to employ or take disciplinary action against an employee because his or her wages have been subjected to withholding for child support. Failure to comply with <code-cite path="attachments|law|V">this section</code-cite> may subject an employer to appropriate penalties as to be determined under SRMT law or custom.</text>
         </para>
         <para>
           <num>8.</num>
@@ -1299,7 +1299,7 @@
         <annotation type="History">Res. No. 2016-92</annotation>
       </annotations>
     </section>
-    <section>
+    <section xmlns:ns96="https://open.law/schemas/cache" ns96:ref-path="attachments|law|VI">
       <codify:insert renumber-paras="true"/>
       <num codify:value="11.03.060">VI</num>
       <heading>Foreign Orders</heading>
@@ -1314,7 +1314,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>Foreign Orders may be registered with the Tribal Court by request of the transferring foreign court or by petition of the SRMT-CSEU. Any requests to the Tribal Court from a foreign jurisdiction for enforcement of a child support order shall be referred to SRMT- CSEU for processing of the petition under <code-cite path="§VI">this section</code-cite>.</text>
+          <text>Foreign Orders may be registered with the Tribal Court by request of the transferring foreign court or by petition of the SRMT-CSEU. Any requests to the Tribal Court from a foreign jurisdiction for enforcement of a child support order shall be referred to SRMT- CSEU for processing of the petition under <code-cite path="attachments|law|VI">this section</code-cite>.</text>
         </para>
       </para>
       <para>
@@ -1400,7 +1400,7 @@
         </para>
         <para>
           <num>7.</num>
-          <text>Failure to comply with <code-cite path="§VI">this section</code-cite> may subject an employer to appropriate penalties as to be determined under SRMT law or custom.</text>
+          <text>Failure to comply with <code-cite path="attachments|law|VI">this section</code-cite> may subject an employer to appropriate penalties as to be determined under SRMT law or custom.</text>
         </para>
         <para>
           <num>8.</num>

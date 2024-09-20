@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2023-05" codify:doc="Saint Regis Mohawk Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2023-05" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2023-05</num>
   <heading>To Amend the Adult Use Cannabis Ordinance (Allow Consumption Lounges)</heading>
   <meta>
@@ -236,7 +236,7 @@
       <num>1</num>
       <heading>GENERAL PROVISIONS</heading>
       <section>
-        <codify:insert path="1"  renumber-paras="true"/>
+        <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="15.02.010">1.01</num>
         <heading>Title</heading>
         <text><code-cite path="|attachments|law">This Ordinance</code-cite> shall be known as the "Saint Regis Mohawk Tribe Adult Use Cannabis Ordinance".</text>
@@ -246,7 +246,7 @@
         </annotations>
       </section>
       <section>
-        <codify:insert path="1"  renumber-paras="true"/>
+        <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="15.02.020">1.02</num>
         <heading>Purpose</heading>
         <para>
@@ -271,7 +271,7 @@
         </annotations>
       </section>
       <section>
-        <codify:insert path="1"  renumber-paras="true"/>
+        <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="15.02.030">1.03</num>
         <heading>Authority</heading>
         <para>
@@ -284,7 +284,7 @@
         </annotations>
       </section>
       <section>
-        <codify:insert path="1"  renumber-paras="true"/>
+        <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="15.02.040">1.04</num>
         <heading>Federal Guidance</heading>
         <para>
@@ -301,7 +301,7 @@
         </annotations>
       </section>
       <section>
-        <codify:insert path="1"  renumber-paras="true"/>
+        <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="15.02.050">1.05</num>
         <heading>Other Laws Unaffected</heading>
         <para>
@@ -326,7 +326,7 @@
         </annotations>
       </section>
       <section>
-        <codify:insert path="1"  renumber-paras="true"/>
+        <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="15.02.060">1.06</num>
         <heading>Definitions</heading>
         <para>
@@ -476,7 +476,7 @@
       <num>2</num>
       <heading>REGULATION BY THE TRIBE</heading>
       <section>
-        <codify:insert path="2"  renumber-paras="true"/>
+        <codify:insert path="2" renumber-paras="true"/>
         <num codify:value="15.02.070">2.01</num>
         <heading>Cannabis Control Board</heading>
         <para>
@@ -601,7 +601,7 @@
         </annotations>
       </section>
       <section>
-        <codify:insert path="2"  renumber-paras="true"/>
+        <codify:insert path="2" renumber-paras="true"/>
         <num codify:value="15.02.080">2.02</num>
         <heading>Cannabis Compliance Office</heading>
         <para>
@@ -650,7 +650,7 @@
         </annotations>
       </section>
       <section>
-        <codify:insert path="2"  renumber-paras="true"/>
+        <codify:insert path="2" renumber-paras="true"/>
         <num codify:value="15.02.090">2.03</num>
         <heading>Tribal Cannabis Exchange</heading>
         <para>
@@ -708,7 +708,7 @@
       <num>3</num>
       <heading>AUC BUSINESS LICENSES</heading>
       <section>
-        <codify:insert path="3"  renumber-paras="true"/>
+        <codify:insert path="3" renumber-paras="true"/>
         <num codify:value="15.02.100">3.01</num>
         <heading>Cannabis Business Licenses</heading>
         <para>
@@ -749,7 +749,7 @@
         </annotations>
       </section>
       <section>
-        <codify:insert path="3"  renumber-paras="true"/>
+        <codify:insert path="3" renumber-paras="true"/>
         <num codify:value="15.02.110">3.02</num>
         <heading>Nature of Business Licenses</heading>
         <para>
@@ -766,7 +766,7 @@
         </annotations>
       </section>
       <section>
-        <codify:insert path="3"  renumber-paras="true"/>
+        <codify:insert path="3" renumber-paras="true"/>
         <num codify:value="15.02.120">3.03</num>
         <heading>License Term</heading>
         <text>All licenses shall have a term of five (5) years, unless revoked pursuant to <code-cite path="|attachments|law">this Ordinance</code-cite>, and may be renewed through a renewal application process established by the CCO.</text>
@@ -776,7 +776,7 @@
         </annotations>
       </section>
       <section>
-        <codify:insert path="3"  renumber-paras="true"/>
+        <codify:insert path="3" renumber-paras="true"/>
         <num codify:value="15.02.130">3.04</num>
         <heading>Threshold Eligibility Requirements</heading>
         <para>
@@ -813,7 +813,7 @@
         </annotations>
       </section>
       <section>
-        <codify:insert path="3"  renumber-paras="true"/>
+        <codify:insert path="3" renumber-paras="true"/>
         <num codify:value="15.02.140">3.05</num>
         <heading>Cannabis Retailers in Operation Prior to Licensing</heading>
         <para>
@@ -847,7 +847,7 @@
       <num>4</num>
       <heading>LICENSE APPLICATIONS</heading>
       <section>
-        <codify:insert path="4"  renumber-paras="true"/>
+        <codify:insert path="4" renumber-paras="true"/>
         <num codify:value="15.02.150">4.01</num>
         <heading>Information Required for Pre-Clearance</heading>
         <para>
@@ -912,7 +912,7 @@
         </annotations>
       </section>
       <section>
-        <codify:insert path="4"  renumber-paras="true"/>
+        <codify:insert path="4" renumber-paras="true"/>
         <num codify:value="15.02.160">4.02</num>
         <heading>Cultivation Applications</heading>
         <para>
@@ -981,7 +981,7 @@
         </annotations>
       </section>
       <section>
-        <codify:insert path="4"  renumber-paras="true"/>
+        <codify:insert path="4" renumber-paras="true"/>
         <num codify:value="15.02.170">4.03</num>
         <heading>Processing Applications</heading>
         <para>
@@ -1038,7 +1038,7 @@
         </annotations>
       </section>
       <section>
-        <codify:insert path="4"  renumber-paras="true"/>
+        <codify:insert path="4" renumber-paras="true"/>
         <num codify:value="15.02.180">4.04</num>
         <heading>Retail Store Applications</heading>
         <para>
@@ -1079,7 +1079,7 @@
         </annotations>
       </section>
       <section>
-        <codify:insert path="4"  renumber-paras="true"/>
+        <codify:insert path="4" renumber-paras="true"/>
         <num codify:value="15.02.190">4.05</num>
         <heading>Consumption Lounge Applications</heading>
         <para>
@@ -2756,13 +2756,13 @@
           <annotation type="History">Res. No. 2022-17</annotation>
         </annotations>
       </section>
-      <section>
+      <section xmlns:ns27="https://open.law/schemas/cache" ns27:ref-path="attachments|law|17|17.02">
         <codify:insert path="17" renumber-paras="true"/>
         <num codify:value="15.02.670">17.02</num>
         <heading>Additional Security</heading>
         <para>
           <num>(a)</num>
-          <text>In addition to the requirements listed above in <code-cite path="§17.02">this Section</code-cite>, each store and facility shall have a back-up alarm system approved by the CCO that shall detect unauthorized entry during times when no employees are present at the store or facility and that shall be provided by a company supplying commercial grade equipment.</text>
+          <text>In addition to the requirements listed above in <code-cite path="attachments|law|17|17.02">this Section</code-cite>, each store and facility shall have a back-up alarm system approved by the CCO that shall detect unauthorized entry during times when no employees are present at the store or facility and that shall be provided by a company supplying commercial grade equipment.</text>
         </para>
         <para>
           <num>(b)</num>

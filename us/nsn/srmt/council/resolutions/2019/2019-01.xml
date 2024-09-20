@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2019-01" codify:doc="Saint Regis Mohawk Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2019-01" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2019-01</num>
   <heading>Amend the Saint Regis Mohawk Tribe Alcohol Beverages Control Act to Permit a Craft Brewery</heading>
   <meta>
@@ -103,7 +103,9 @@
   <attachment id="law">
     <codified:at path="4.04|2"/>
     <heading>Alcohol Beverages Control Act</heading>
-    <text class="center"><strong>Appendix C-4</strong></text>
+    <text class="center">
+      <strong>Appendix C-4</strong>
+    </text>
     <container name="rules-and-regulations-for-a-craft-brewery">
       <heading class="center">Rules and Regulations for a Craft Brewery</heading>
       <container name="forward">

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2023-42" codify:doc="Saint Regis Mohawk Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2023-42" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2023-42</num>
   <heading>To Amend the Saint Regis Mohawk Tribe Non-Member Fishing Regulations and Laws</heading>
   <meta>
@@ -328,15 +328,15 @@
         </para>
         <para>
           <num>2.</num>
-          <text>In the sole discretion of a Compliance Inspector; any individual found to be violating <code-cite path="|attachments|law">this Fishing Ordinance</code-cite> may be offered the opportunity to comply by completing an application for a Fishing Permit and remitting the appropriate application fee. In his/her discretion, the Compliance Inspector may issue a fine pursuant to <code-cite path="§VII|D.">subsection D</code-cite> herein and collect the fine. If such a fine is issued and collected, a record of it will be submitted to Tribal Court for record-keeping.</text>
+          <text>In the sole discretion of a Compliance Inspector; any individual found to be violating <code-cite path="|attachments|law">this Fishing Ordinance</code-cite> may be offered the opportunity to comply by completing an application for a Fishing Permit and remitting the appropriate application fee. In his/her discretion, the Compliance Inspector may issue a fine pursuant to <code-cite path="attachments|law|VII|D.">subsection D</code-cite> herein and collect the fine. If such a fine is issued and collected, a record of it will be submitted to Tribal Court for record-keeping.</text>
         </para>
         <para>
           <num>3.</num>
           <text>If the alleged violator complies and completes an application and submits the appropriate fee and any assessed fine, any species of fish that may be in the possession of the alleged violator when discovered may be seized by the Compliance Inspector and disposed of pursuant to the Compliance Department's established policy.</text>
         </para>
-        <para>
+        <para xmlns:ns26="https://open.law/schemas/cache" ns26:ref-path="attachments|law|VII|A.|4.">
           <num>4.</num>
-          <text>If a Compliance Inspector reasonably believes an individual is in violation of <code-cite path="|attachments|law">this Fishing Ordinance</code-cite> or the individual refuses to comply with the Compliance Inspector request he/she shall issue a Notice of Violation with a date certain to appear before Tribal Court. The procedure for Tribal Court is outlined in <code-cite path="§VII|C.">section C</code-cite> herein.</text>
+          <text>If a Compliance Inspector reasonably believes an individual is in violation of <code-cite path="|attachments|law">this Fishing Ordinance</code-cite> or the individual refuses to comply with the Compliance Inspector request he/she shall issue a Notice of Violation with a date certain to appear before Tribal Court. The procedure for Tribal Court is outlined in <code-cite path="attachments|law|VII|C.">section C</code-cite> herein.</text>
         </para>
         <para>
           <num>5.</num>
@@ -367,7 +367,7 @@
           <text>Should a Fishing Permit holder be found have previously violated <code-cite path="|attachments|law">this Fishing Ordinance</code-cite> or any other Tribal Law on a recurring basis a Compliance Inspector may seize the Permit immediately, complete a report substantiating the basis for taking the Permit, and may issue a summons to appear in Tribal Court.</text>
         </para>
       </para>
-      <para>
+      <para xmlns:ns25="https://open.law/schemas/cache" ns25:ref-path="attachments|law|VII|C.">
         <num>C.</num>
         <text>
           <strong>
@@ -376,7 +376,7 @@
         </text>
         <para>
           <num>1.</num>
-          <text>For every Notice of Violation (Ticket) that a Compliance Inspector issues pursuant to <code-cite path="§VII|A.|4.">Section VII.A.4</code-cite>, shall be made returnable to Tribal Court the first Tuesday of the following month at 1:00 pm.</text>
+          <text>For every Notice of Violation (Ticket) that a Compliance Inspector issues pursuant to <code-cite path="attachments|law|VII|A.|4.">Section VII.A.4</code-cite>, shall be made returnable to Tribal Court the first Tuesday of the following month at 1:00 pm.</text>
         </para>
         <para>
           <num>2.</num>
@@ -387,7 +387,7 @@
           <text>Upon the preponderance of evidence, the Tribal Court shall determine whether a violation under Subsection B or of <code-cite path="|attachments|law">this Fishing Ordinance</code-cite> has occurred. If it determines a violation occurred, the Tribal Court shall determine the amount of the fine and any penalty based upon subsection D that the violator must pay.</text>
         </para>
       </para>
-      <para>
+      <para xmlns:ns24="https://open.law/schemas/cache" ns24:ref-path="attachments|law|VII|D.">
         <num>D.</num>
         <text>
           <strong>

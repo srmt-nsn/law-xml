@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2023-51" codify:doc="Saint Regis Mohawk Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2023-51" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2023-51</num>
   <heading>To Amend the Saint Regis Mohawk Tribe Animal Control Ordinance</heading>
   <meta>
@@ -90,7 +90,7 @@
       <text><code-cite path="|attachments|law">This Ordinance</code-cite> shall be known as the Amended Animal Control Ordinance.</text>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2009-51"/>
     </section>
-    <section>
+    <section xmlns:ns21="https://open.law/schemas/cache" ns21:ref-path="attachments|law|2">
       <codify:insert/>
       <num codify:value="3.03.020">2</num>
       <heading>Definitions</heading>
@@ -175,7 +175,7 @@
       <text><strong>Wildlife sanctuary</strong> means an area specially designated for the protection of wildlife and wherein it is illegal to interfere in anyway with the natural habitat.</text>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2009-51"/>
     </section>
-    <section>
+    <section xmlns:ns18="https://open.law/schemas/cache" ns18:ref-path="attachments|law|3">
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.03.030">3</num>
       <heading>Owner Responsibilities and Offenses</heading>
@@ -213,11 +213,11 @@
       </para>
       <para>
         <num>F</num>
-        <text>A person shall not abandon, instigate, torture, injure, kill, or poison an animal whether it belongs to him or another; or, inflict any act of cruelty on any animal with the exception of <code-cite path="§4">Section 4</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>.</text>
+        <text>A person shall not abandon, instigate, torture, injure, kill, or poison an animal whether it belongs to him or another; or, inflict any act of cruelty on any animal with the exception of <code-cite path="attachments|law|4">Section 4</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>.</text>
       </para>
       <para>
         <num>G.</num>
-        <text>No person shall own, keep, or harbor any dog or cat over four months of age within the Saint Regis Mohawk Reservation unless such dog or cat is vaccinated for rabies by a licensed veterinarian. A certificate of vaccination shall be issued to the owner of each vaccinated animal. Each owner shall also receive a durable vaccination tag indicating the year in which it was issued. The provisions of <code-cite path="§3">this section</code-cite> do not apply to animals held in a government operated or licensed animal shelter.</text>
+        <text>No person shall own, keep, or harbor any dog or cat over four months of age within the Saint Regis Mohawk Reservation unless such dog or cat is vaccinated for rabies by a licensed veterinarian. A certificate of vaccination shall be issued to the owner of each vaccinated animal. Each owner shall also receive a durable vaccination tag indicating the year in which it was issued. The provisions of <code-cite path="attachments|law|3">this section</code-cite> do not apply to animals held in a government operated or licensed animal shelter.</text>
       </para>
       <para>
         <num>H</num>
@@ -225,7 +225,7 @@
       </para>
       <para>
         <num>I.</num>
-        <text>Failure of an Owner to comply with the provisions of <code-cite path="§3">this section</code-cite> may result in a fine as outlined in <code-cite path="§5|F.">Section 4.F</code-cite>. Fines shall be used to offset costs associated with the Animal Control Program.</text>
+        <text>Failure of an Owner to comply with the provisions of <code-cite path="attachments|law|3">this section</code-cite> may result in a fine as outlined in <code-cite path="attachments|law|5|F.">Section 4.F</code-cite>. Fines shall be used to offset costs associated with the Animal Control Program.</text>
       </para>
       <para>
         <num>J.</num>
@@ -233,7 +233,7 @@
       </para>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2009-51"/>
     </section>
-    <section>
+    <section xmlns:ns17="https://open.law/schemas/cache" ns17:ref-path="attachments|law|4">
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.03.040">4</num>
       <heading>Exemption</heading>
@@ -252,7 +252,7 @@
         <num>B.</num>
         <text>If the Summons and Notice is for a determination that a dog is "dangerous" the Animal Control Officer shall have the burden to demonstrate the dog is "dangerous" by a preponderance of the evidence. The Animal Control Officer can meet this burden with eyewitness statements, sworn testimony or any other evidence. The evidence does not need to be competent or meet other evidentiary standards, but can be hearsay. Once the Animal Control Officer has met the burden it shifts to the Owner to demonstrate by clear and convincing evidence that the dog is not "dangerous". If a dog has caused Serious Physical Injury then the Animal Control Officer shall file documentation such as medical reports, photographs, or police reports showing Serious Physical Injury and the Owner shall need to rebut the presumption that the dog is "dangerous". The Tribal Court shall then make a written determination whether (1) the dog is "dangerous"; (2) the dog is to be destroyed, if not to be destroyed then the conditions the Owner must abide for ownership; and (3) a fine should be assessed to the Owner.</text>
       </para>
-      <para>
+      <para xmlns:ns23="https://open.law/schemas/cache" ns23:ref-path="attachments|law|5|C.">
         <num>C.</num>
         <text>Once a there is a judicial determination that a dog is dangerous and there has been Serious Physical Injury, the victim may sue the Owner to recover in a separate action for any medical expenses for which the injured party cannot recover from another source and for any veterinarian expenses an Owner's animal may have suffered.</text>
       </para>
@@ -264,9 +264,9 @@
         <num>E.</num>
         <text>The Owner shall pay any applicable fine within 30 days from the date the fine was issued in full satisfaction of the violation.</text>
       </para>
-      <para>
+      <para xmlns:ns19="https://open.law/schemas/cache" ns19:ref-path="attachments|law|5|F.">
         <num>F.</num>
-        <text>The fine for a violation of <code-cite path="|attachments|law">this Ordinance</code-cite> shall be $50.00 for a first offense and up to $500.00 for each subsequent offense except as otherwise outlined in <code-cite path="|attachments|law">this Ordinance</code-cite> in <code-cite path="§12">Section 12</code-cite>.</text>
+        <text>The fine for a violation of <code-cite path="|attachments|law">this Ordinance</code-cite> shall be $50.00 for a first offense and up to $500.00 for each subsequent offense except as otherwise outlined in <code-cite path="|attachments|law">this Ordinance</code-cite> in <code-cite path="attachments|law|12">Section 12</code-cite>.</text>
       </para>
       <para>
         <num>G.</num>
@@ -295,7 +295,7 @@
         <text>Any dog that has been impounded and deemed, by the Animal Control Officer, to be aggressive shall not be released to its owner until that owner has satisfied the Animal Control Office that the aggressive behavior no longer poses a threat to the safety or health of any person or animal or reasonable steps have been undertaken by the owner which ensures the safety of the community.</text>
         <para>
           <num>(1)</num>
-          <text>The owner of an aggressive dog shall keep the dog restrained, as defined in <code-cite path="§2">section 2</code-cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>, at all times.</text>
+          <text>The owner of an aggressive dog shall keep the dog restrained, as defined in <code-cite path="attachments|law|2">section 2</code-cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>, at all times.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -353,7 +353,9 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.03.090">9</num>
       <heading>Permits and Licenses</heading>
-      <text><em>RESERVED</em></text>
+      <text>
+        <em>RESERVED</em>
+      </text>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2009-51"/>
     </section>
     <section>
@@ -389,29 +391,29 @@
       </para>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2009-51"/>
     </section>
-    <section>
+    <section xmlns:ns20="https://open.law/schemas/cache" ns20:ref-path="attachments|law|12">
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.03.120">12</num>
       <heading>Wild or Exotic Animals</heading>
       <para>
         <num>A.</num>
-        <text>No person shall knowingly possess, harbor, sell, barter, transfer, exchange or import any wild or exotic animal for use as a pet within the territory of Akwesasne, except that <code-cite path="§12">this section</code-cite> shall not apply to the following persons and entities with respect to wild or exotic animals owned or harbored by them solely for a purpose other than for use as a pet:</text>
+        <text>No person shall knowingly possess, harbor, sell, barter, transfer, exchange or import any wild or exotic animal for use as a pet within the territory of Akwesasne, except that <code-cite path="attachments|law|12">this section</code-cite> shall not apply to the following persons and entities with respect to wild or exotic animals owned or harbored by them solely for a purpose other than for use as a pet:</text>
         <para>
           <num>1.</num>
           <text>Licensed veterinarians and incorporated humane societies, or animal shelters, societies for the prevention of cruelty to animals or animal welfare organizations duly licensed by the St. Regis Mohawk Tribe or other recognized licensing authority, in the temporary possession of wild animals;</text>
         </para>
         <para>
           <num>2.</num>
-          <text>A person having custody of a wild animal solely for the purpose of transporting it to a licensed veterinarian, wildlife rehabilitator, humane society or other entity authorized by <code-cite path="§12">this section</code-cite> to handle or treat wild animals;</text>
+          <text>A person having custody of a wild animal solely for the purpose of transporting it to a licensed veterinarian, wildlife rehabilitator, humane society or other entity authorized by <code-cite path="attachments|law|12">this section</code-cite> to handle or treat wild animals;</text>
         </para>
       </para>
       <para>
         <num>B.</num>
-        <text>The Animal Control Officer is hereby authorized to enforce the provisions of <code-cite path="§12">this section</code-cite> and issue notices of violation to persons in violation of <code-cite path="§12">this section</code-cite>, and shall have the authority to seize any wild or exotic animal held in violation of <code-cite path="§12">this section</code-cite>. Wild or Exotic animals seized or surrendered pursuant to the provisions of <code-cite path="§12">this section</code-cite> shall be transferred to a duly incorporated wildlife sanctuary as defined in <code-cite path="§12">this section</code-cite>, or a zoological facility accredited by the American Zoological and Aquarium Association, or shall be humanely euthanized.</text>
+        <text>The Animal Control Officer is hereby authorized to enforce the provisions of <code-cite path="attachments|law|12">this section</code-cite> and issue notices of violation to persons in violation of <code-cite path="attachments|law|12">this section</code-cite>, and shall have the authority to seize any wild or exotic animal held in violation of <code-cite path="attachments|law|12">this section</code-cite>. Wild or Exotic animals seized or surrendered pursuant to the provisions of <code-cite path="attachments|law|12">this section</code-cite> shall be transferred to a duly incorporated wildlife sanctuary as defined in <code-cite path="attachments|law|12">this section</code-cite>, or a zoological facility accredited by the American Zoological and Aquarium Association, or shall be humanely euthanized.</text>
       </para>
       <para>
         <num>C.</num>
-        <text>Notwithstanding any other provision of law, any person who knowingly breeds a wild or exotic animal or knowingly possesses, owns, harbors, sells, barters, transfers, exchanges, or imports a wild or exotic animal for use as a pet in violation of the provisions of <code-cite path="§12">this section</code-cite> shall be subject to the penalty of not more than $500.00 (five hundred dollars) for the first offense and not more than $1,000.00 (one thousand dollars) for a second and subsequent offenses. Each instance of breeding, owning, harboring, sale, barter, transfer, exchange, or import of a wild or exotic animal in violation of <code-cite path="§12">this section</code-cite> shall constitute a separate offense.</text>
+        <text>Notwithstanding any other provision of law, any person who knowingly breeds a wild or exotic animal or knowingly possesses, owns, harbors, sells, barters, transfers, exchanges, or imports a wild or exotic animal for use as a pet in violation of the provisions of <code-cite path="attachments|law|12">this section</code-cite> shall be subject to the penalty of not more than $500.00 (five hundred dollars) for the first offense and not more than $1,000.00 (one thousand dollars) for a second and subsequent offenses. Each instance of breeding, owning, harboring, sale, barter, transfer, exchange, or import of a wild or exotic animal in violation of <code-cite path="attachments|law|12">this section</code-cite> shall constitute a separate offense.</text>
       </para>
       <para>
         <num>D.</num>
@@ -419,12 +421,12 @@
       </para>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2009-51"/>
     </section>
-    <section>
+    <section xmlns:ns22="https://open.law/schemas/cache" ns22:ref-path="attachments|law|13">
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.03.130">13</num>
       <heading>Interference</heading>
       <text>No person shall interfere, hinder, or molest any agent of the Animal Control Office in the performance of any duty as herein provided.</text>
-      <text>Any person violating <code-cite path="§13">this section</code-cite> shall be deemed guilty of a civil fine of not more than one thousand dollars $1,000.00 and may be liable for a criminal offense.</text>
+      <text>Any person violating <code-cite path="attachments|law|13">this section</code-cite> shall be deemed guilty of a civil fine of not more than one thousand dollars $1,000.00 and may be liable for a criminal offense.</text>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2009-51"/>
     </section>
     <section>
@@ -438,13 +440,13 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.03.150">15</num>
       <heading>Appeals</heading>
-      <text>Every matter herein shall have no right to appeal to the Court of Appeals except for matters related to personal injury and medical expenses as outlined in <code-cite path="§5|C.">Section 5.C</code-cite>.</text>
+      <text>Every matter herein shall have no right to appeal to the Court of Appeals except for matters related to personal injury and medical expenses as outlined in <code-cite path="attachments|law|5|C.">Section 5.C</code-cite>.</text>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2009-51"/>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.03.160">16</num>
-      <heading>Severability &#038; Procedure</heading>
+      <heading>Severability &amp; Procedure</heading>
       <text>If any part of <code-cite path="|attachments|law">this Ordinance</code-cite> shall be held invalid, such part shall be deemed severable and the invalidity thereof shall not affect the remaining parts of <code-cite path="|attachments|law">this ordinance</code-cite>. If any procedure is not outlined herein the Tribe's Rules of Civil Procedure shall govern.</text>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2009-51"/>
     </section>

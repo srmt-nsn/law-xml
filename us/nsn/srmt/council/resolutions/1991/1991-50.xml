@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 1991-50" codify:doc="Saint Regis Mohawk Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 1991-50" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>1991-50</num>
   <heading>Petroleum Fuel Ordinance</heading>
   <meta>
@@ -40,32 +40,38 @@
         <tbody>
           <tr>
             <td>Dated:</td>
-            <td class="text-indent-2"><u>June 28, 1991</u></td>
+            <td class="text-indent-2">
+              <u>June 28, 1991</u>
+            </td>
             <td class="text-indent-2">____________________________</td>
           </tr>
           <tr>
             <td/>
-            <td class="text-indent-2" />
+            <td class="text-indent-2"/>
             <td class="text-indent-2">L. David Jacobs, Head Chief</td>
           </tr>
           <tr>
             <td>Dated:</td>
-            <td class="text-indent-2"><u>July 16, 1991</u></td>
+            <td class="text-indent-2">
+              <u>July 16, 1991</u>
+            </td>
             <td class="text-indent-2">____________________________</td>
           </tr>
           <tr>
             <td/>
-            <td class="text-indent-2" />
+            <td class="text-indent-2"/>
             <td class="text-indent-2">Lincoln C. White</td>
           </tr>
           <tr>
             <td>Dated:</td>
-            <td class="text-indent-2"><u>June 28, 1991</u></td>
+            <td class="text-indent-2">
+              <u>June 28, 1991</u>
+            </td>
             <td class="text-indent-2">____________________________</td>
           </tr>
           <tr>
             <td/>
-            <td class="text-indent-2" />
+            <td class="text-indent-2"/>
             <td class="text-indent-2">Norman J. Tarbe</td>
           </tr>
         </tbody>
@@ -157,7 +163,7 @@
         <codify:insert renumber-paras="true"/>
         <num codify:value="4.06.080">5</num>
         <heading>Tribal Permit Fees</heading>
-        <text>A Tribal Fuel Permit Fee in the sum of Five Hundred Dollars ($500.00) shall be paid by the Applicant upon approval of the application for a permit by the St. Regis Mohawk Tribal Council, Chiefs and shall be paid annually at the time of permit renewal as provided in <code-cite path="§7">Section 7</code-cite> hereinbelow.</text>
+        <text>A Tribal Fuel Permit Fee in the sum of Five Hundred Dollars ($500.00) shall be paid by the Applicant upon approval of the application for a permit by the St. Regis Mohawk Tribal Council, Chiefs and shall be paid annually at the time of permit renewal as provided in <code-cite path="attachments|law|IV|7">Section 7</code-cite> hereinbelow.</text>
       </section>
       <section>
         <codify:insert renumber-paras="true"/>
@@ -165,7 +171,7 @@
         <heading>Tribal Permit Approval Process</heading>
         <text>In determining whether a permit shall be issued, the St. Regis Mohawk Tribal Council shall take into consideration ownership of the property, location of the place of business, any applicable environmental and safety consideration, and the financial stability and experience of the applicant. The applicant shall be both the owner and the operator of the business. The St. Regis Mohawk Tribal Council shall limit the number of Tribal Permits and locations in the manner to adequately service the area and their determination as to whether or not a Tribal Permit shall be issued is final.</text>
       </section>
-      <section>
+      <section xmlns:ns200="https://open.law/schemas/cache" ns200:ref-path="attachments|law|IV|7">
         <codify:insert renumber-paras="true"/>
         <num codify:value="4.06.100">7</num>
         <heading>Tribal Permit Reporting</heading>
@@ -199,7 +205,7 @@
         <codify:insert renumber-paras="true"/>
         <num codify:value="4.06.150">12</num>
         <heading>Compliance with Applicable Laws</heading>
-        <text>Any permittee who shall fail to comply with the terms of <code-cite path="|attachments|law">this ordinance</code-cite> shall have his permit cancelled or suspended. Written notification of the grounds for said cancellation shall be given at least five days prior to a hearing held before the Tribal Council or their designated committee as provided for in <code-cite path="§17">Section 17</code-cite> below to determine if <code-cite path="|attachments|law">this ordinance</code-cite> has been violated. Cancellation or suspension by said committee may be appealed to the Tribal Council.</text>
+        <text>Any permittee who shall fail to comply with the terms of <code-cite path="|attachments|law">this ordinance</code-cite> shall have his permit cancelled or suspended. Written notification of the grounds for said cancellation shall be given at least five days prior to a hearing held before the Tribal Council or their designated committee as provided for in <code-cite path="attachments|law|IV|17">Section 17</code-cite> below to determine if <code-cite path="|attachments|law">this ordinance</code-cite> has been violated. Cancellation or suspension by said committee may be appealed to the Tribal Council.</text>
       </section>
       <section>
         <codify:insert renumber-paras="true"/>
@@ -225,7 +231,7 @@
         <heading>Effective Date</heading>
         <text><code-cite path="|attachments|law">This ordinance</code-cite> shall be effective upon it passage and approval. Any and all prior ordinances, resolutions, regulations or other form of control of the St. Regis Mohawk Tribe of the State of New York whether written or unwritten, which authorize, prohibit, or deal with the transport, handling, storage or sale of gasoline and other petroleum products are hereby repealed and have no further force or effort. No Tribal ordinance or regulation shall be applied in a manner inconsistent with the provisions of <code-cite path="|attachments|law">this ordinance</code-cite>.</text>
       </section>
-      <section>
+      <section xmlns:ns201="https://open.law/schemas/cache" ns201:ref-path="attachments|law|IV|17">
         <codify:insert renumber-paras="true"/>
         <num codify:value="4.06.200">17</num>
         <heading>Enforcement</heading>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2021-69" codify:doc="Saint Regis Mohawk Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2021-69" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2021-69</num>
   <heading>To Amend the Saint Regis Mohawk Tribe Land Laws and Land Dispute Ordinance</heading>
   <meta>
@@ -81,7 +81,7 @@
     </text>
   </procedural-data>
   <attachment id="law">
-    <codified:at path="12.01" />
+    <codified:at path="12.01"/>
     <heading>Saint Regis Mohawk Tribe Land Laws and Land Dispute Ordinance</heading>
     <para codify:tag="section">
       <codify:insert/>
@@ -93,7 +93,7 @@
       <annotation type="History">Res. No. 2016-91</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert renumber-paras="true" />
+      <codify:insert renumber-paras="true"/>
       <num codify:value="12.01.020">II.</num>
       <text codify:tag="heading" codify:value="Authority and Purpose">
         <strong>AUTHORITY AND PURPOSE</strong>
@@ -113,7 +113,7 @@
       <annotation type="History">Res. No. 2016-91</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert renumber-paras="true" />
+      <codify:insert renumber-paras="true"/>
       <num codify:value="12.01.030">III.</num>
       <text codify:tag="heading" codify:value="Definitions">
         <strong>DEFINITIONS</strong>
@@ -173,7 +173,7 @@
       <annotation type="History">Res. No. 2016-91</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert renumber-paras="true" />
+      <codify:insert renumber-paras="true"/>
       <num codify:value="12.01.040">IV.</num>
       <text codify:tag="heading" codify:value="Tribal Law, Customs and Practices">
         <strong>TRIBAL LAW, CUSTOMS AND PRACTICES</strong>
@@ -408,7 +408,7 @@
       <annotation type="History">Res. No. 2016-91</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert renumber-paras="true" />
+      <codify:insert renumber-paras="true"/>
       <num codify:value="12.01.050">V.</num>
       <text codify:tag="heading" codify:value="Land Dispute Claim Procedures">
         <strong>LAND DISPUTE CLAIM PROCEDURES</strong>

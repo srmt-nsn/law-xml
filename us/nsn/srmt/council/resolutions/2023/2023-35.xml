@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2023-35" codify:doc="Saint Regis Mohawk Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2023-35" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2023-35</num>
   <heading>To Amend the Tribal Residency Ordinance</heading>
   <meta>
@@ -100,7 +100,7 @@
     <codified:at path="8.04"/>
     <heading>Saint Regis Mohawk Tribe Residency Ordinance</heading>
     <para codify:tag="section">
-      <codify:insert  renumber-paras="true"/>
+      <codify:insert renumber-paras="true"/>
       <num codify:value="8.04.010">I.</num>
       <text codify:tag="heading" codify:value="Title">
         <strong>TITLE</strong>
@@ -109,7 +109,7 @@
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert  renumber-paras="true"/>
+      <codify:insert renumber-paras="true"/>
       <num codify:value="8.04.020">II.</num>
       <text codify:tag="heading" codify:value="Authority and Purpose">
         <strong>AUTHORITY AND PURPOSE</strong>
@@ -133,7 +133,7 @@
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert  renumber-paras="true"/>
+      <codify:insert renumber-paras="true"/>
       <num codify:value="8.04.030">III.</num>
       <text codify:tag="heading" codify:value="Definitions">
         <strong>DEFINITIONS</strong>
@@ -261,7 +261,7 @@
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert  renumber-paras="true"/>
+      <codify:insert renumber-paras="true"/>
       <num codify:value="8.04.040">IV.</num>
       <text codify:tag="heading" codify:value="General Provisions">
         <strong>GENERAL PROVISIONS</strong>
@@ -309,7 +309,7 @@
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert  renumber-paras="true"/>
+      <codify:insert renumber-paras="true"/>
       <num codify:value="8.04.050">V.</num>
       <text codify:tag="heading" codify:value="Tribal Residency Board">
         <strong>TRIBAL RESIDENCY BOARD</strong>
@@ -389,7 +389,7 @@
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert  renumber-paras="true"/>
+      <codify:insert renumber-paras="true"/>
       <num codify:value="8.04.060">VI.</num>
       <text codify:tag="heading" codify:value="Residency Permits">
         <strong>RESIDENCY PERMITS</strong>
@@ -489,7 +489,7 @@
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert  renumber-paras="true"/>
+      <codify:insert renumber-paras="true"/>
       <num codify:value="8.04.070">VII.</num>
       <text codify:tag="heading" codify:value="Board Review of Applications">
         <strong>BOARD REVIEW OF APPLICATIONS</strong>
@@ -585,7 +585,7 @@
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert  renumber-paras="true"/>
+      <codify:insert renumber-paras="true"/>
       <num codify:value="8.04.080">VIII.</num>
       <text codify:tag="heading" codify:value="Revocation of Permits">
         <strong>REVOCATION OF PERMITS</strong>
@@ -657,7 +657,7 @@
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert  renumber-paras="true"/>
+      <codify:insert renumber-paras="true"/>
       <num codify:value="8.04.090">IX.</num>
       <text codify:tag="heading" codify:value="Appeals">
         <strong>APPEALS</strong>
@@ -681,7 +681,7 @@
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert  renumber-paras="true"/>
+      <codify:insert renumber-paras="true"/>
       <num codify:value="8.04.100">X.</num>
       <text codify:tag="heading" codify:value="Enforcement and Penalties">
         <strong>ENFORCEMENT AND PENALTIES</strong>
@@ -733,7 +733,7 @@
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert  renumber-paras="true"/>
+      <codify:insert renumber-paras="true"/>
       <num codify:value="8.04.110">XI.</num>
       <text codify:tag="heading" codify:value="Regulations">
         <strong>REGULATIONS</strong>
@@ -745,7 +745,7 @@
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert  renumber-paras="true"/>
+      <codify:insert renumber-paras="true"/>
       <num codify:value="8.04.120">XII.</num>
       <text codify:tag="heading" codify:value="Effective Date">
         <strong>EFFECTIVE DATE</strong>
@@ -757,7 +757,7 @@
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert  renumber-paras="true"/>
+      <codify:insert renumber-paras="true"/>
       <num codify:value="8.04.130">XIII.</num>
       <text codify:tag="heading" codify:value="Amendments">
         <strong>AMENDMENTS</strong>
@@ -769,7 +769,7 @@
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert  renumber-paras="true"/>
+      <codify:insert renumber-paras="true"/>
       <num codify:value="8.04.140">XIV.</num>
       <text codify:tag="heading" codify:value="Severability">
         <strong>SEVERABILITY</strong>
@@ -781,7 +781,7 @@
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
     <para codify:tag="section">
-      <codify:insert  renumber-paras="true"/>
+      <codify:insert renumber-paras="true"/>
       <num codify:value="8.04.150">XV.</num>
       <text codify:tag="heading" codify:value="Repeal of Prior Laws">
         <strong>REPEAL OF PRIOR LAWS</strong>

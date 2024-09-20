@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2021-47" codify:doc="Saint Regis Mohawk Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2021-47" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2021-47</num>
   <heading>To Amend the Saint Regis Mohawk Tribe Probate Law</heading>
   <meta>
@@ -276,7 +276,7 @@
         </para>
         <annotation type="History">Res. No. 2017-52</annotation>
       </section>
-      <section>
+      <section xmlns:ns59="https://open.law/schemas/cache" ns59:ref-path="attachments|law|1|1.5">
         <codify:insert path="1"/>
         <num codify:value="12.02.050">1.5</num>
         <heading>False Statements and Fraud</heading>
@@ -286,7 +286,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text><u>Fraudulent Conduct.</u> If a person engages in fraudulent conduct during a probate proceeding, anyone harmed by that conduct may bring an action for damages or other remedies against the person carrying out the fraud and against anyone who has benefitted from the fraud whether innocent or not. A claim for fraud will be barred unless commenced within five years after the discovery of the fraud. <code-cite path="§1.5">This section</code-cite> does not apply to any fraud that may have been committed against a deceased during his/her lifetime and which may affect the distribution of the estate.</text>
+          <text><u>Fraudulent Conduct.</u> If a person engages in fraudulent conduct during a probate proceeding, anyone harmed by that conduct may bring an action for damages or other remedies against the person carrying out the fraud and against anyone who has benefitted from the fraud whether innocent or not. A claim for fraud will be barred unless commenced within five years after the discovery of the fraud. <code-cite path="attachments|law|1|1.5">This section</code-cite> does not apply to any fraud that may have been committed against a deceased during his/her lifetime and which may affect the distribution of the estate.</text>
         </para>
         <annotation type="History">Res. No. 2017-52</annotation>
       </section>
@@ -386,7 +386,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text><u>Limited Administration.</u> If a person dies and his/her heirs and/or beneficiaries need certain limited relief that cannot await full probate of the estate the Tribal Court may allow heirs, beneficiaries, creditors, the Tribe, or other interested party to obtain a special appointment with notice to heirs to address that limited purpose. Tribal Court shall develop a petition for such purpose, determine each case for a limited appointment in its discretion and shall set limits in its order of appointment. The order of appointment shall be recorded in the Tribal Clerk's office in the same manner as outlined in <code-cite path="§3.5|(b)">Section 3.5(b)</code-cite>. If there is a subsequent estate that is probated, the limited administration and whatever action was taken shall be included in the decedent's inventory of assets. The Tribal Court's decision regarding a limited appointment is not considered a final decision for purposes of an appeal.</text>
+          <text><u>Limited Administration.</u> If a person dies and his/her heirs and/or beneficiaries need certain limited relief that cannot await full probate of the estate the Tribal Court may allow heirs, beneficiaries, creditors, the Tribe, or other interested party to obtain a special appointment with notice to heirs to address that limited purpose. Tribal Court shall develop a petition for such purpose, determine each case for a limited appointment in its discretion and shall set limits in its order of appointment. The order of appointment shall be recorded in the Tribal Clerk's office in the same manner as outlined in <code-cite path="attachments|law|3|3.5|(b)">Section 3.5(b)</code-cite>. If there is a subsequent estate that is probated, the limited administration and whatever action was taken shall be included in the decedent's inventory of assets. The Tribal Court's decision regarding a limited appointment is not considered a final decision for purposes of an appeal.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -435,7 +435,7 @@
         </para>
         <annotation type="History">Res. No. 2017-52</annotation>
       </section>
-      <section>
+      <section xmlns:ns61="https://open.law/schemas/cache" ns61:ref-path="attachments|law|2|2.2">
         <codify:insert path="2"/>
         <num codify:value="12.02.090">2.2</num>
         <heading>Evidence as to Death</heading>
@@ -476,7 +476,7 @@
           <text><u>Petition Requirements</u>. The petition shall meet the following requirements:</text>
           <para>
             <num>(1)</num>
-            <text>Contents. The petition will be in writing, signed by the petitioner, and include a death certificate or some other proof of death as set forth in <code-cite path="§2.2">Section 2.2</code-cite>.</text>
+            <text>Contents. The petition will be in writing, signed by the petitioner, and include a death certificate or some other proof of death as set forth in <code-cite path="attachments|law|2|2.2">Section 2.2</code-cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -514,7 +514,7 @@
           <text><u>Order of Inheritance</u>. When a Tribal Member dies without leaving a Will, the following order of inheritance shall apply:</text>
           <para>
             <num>(1)</num>
-            <text>Surviving Spouse. A surviving Tribal Member spouse shall inherit the real property interest in Reservation land and all other property owned by the deceased spouse. A non- member spouse may only inherit a life estate in real property as provided for in <code-cite path="§5.1">Section 5.1</code-cite> below but may inherit all of a deceased Member's personal property. A person who is divorced from the deceased or whose marriage to the deceased has been officially annulled is not considered a surviving spouse unless, by virtue of a subsequent marriage, he/she is married to the deceased at the time of death. A decree of separation, which does not terminate the status of husband and wife, is not a divorce for purposes of <code-cite path="|attachments|law">this Probate Law</code-cite>.</text>
+            <text>Surviving Spouse. A surviving Tribal Member spouse shall inherit the real property interest in Reservation land and all other property owned by the deceased spouse. A non- member spouse may only inherit a life estate in real property as provided for in <code-cite path="attachments|law|5|5.1">Section 5.1</code-cite> below but may inherit all of a deceased Member's personal property. A person who is divorced from the deceased or whose marriage to the deceased has been officially annulled is not considered a surviving spouse unless, by virtue of a subsequent marriage, he/she is married to the deceased at the time of death. A decree of separation, which does not terminate the status of husband and wife, is not a divorce for purposes of <code-cite path="|attachments|law">this Probate Law</code-cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -612,7 +612,7 @@
         </para>
         <annotation type="History">Res. No. 2017-52</annotation>
       </section>
-      <section>
+      <section xmlns:ns65="https://open.law/schemas/cache" ns65:ref-path="attachments|law|3|3.4">
         <codify:insert path="3"/>
         <num codify:value="12.02.130">3.4</num>
         <heading>Appointment of Administrator</heading>
@@ -654,7 +654,7 @@
           <num>(a)</num>
           <text><u>Order</u>. Once the Administrator takes the oath, the Tribal Court shall issue an Order of Appointment to the Administrator as proof of the appointment. Within seven (7) days, the Administrator shall provide a copy of the Order to the Tribal Clerk to be recorded either by delivering it in person or by certified mail.</text>
         </para>
-        <para>
+        <para xmlns:ns60="https://open.law/schemas/cache" ns60:ref-path="attachments|law|3|3.5|(b)">
           <num>(b)</num>
           <text><u>Record of Order</u>. The Tribal Clerk shall record the Order of Appointment as Administrator in the Tribal Recording Book, including a copy of the Order in the records. The Tribal Clerk shall note the Tribal Recording book number and page number on a copy of the Order and return it to the Administrator for his/her records.</text>
         </para>
@@ -851,7 +851,7 @@
             <text>Interested Party. A Will or any provision thereof is not invalid because the Will is signed by a party with an interest in the Will, so long as the Will is also signed by two other disinterested witnesses. An "Interested Witness" means any of the following: (A) an heir; (B) a beneficiary; (C) a person named as Executor; or (D) a person named as Executor in the Will of the deceased.</text>
           </para>
         </para>
-        <para>
+        <para xmlns:ns64="https://open.law/schemas/cache" ns64:ref-path="attachments|law|4|4.1|(e)">
           <num>(e)</num>
           <text>
             <u>Self-Proved Will.</u>
@@ -950,7 +950,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text><u>Children Left Out of a Will</u>. If a Willmaker mistakenly leaves a child out of his/her Will, or fails to provide for any children born or adopted after the Will is signed, the child who has been left out shall receive a share in the estate equal in value to that which he would have received had the person died without a Will. In satisfying a share provided for in this section, the other devises made by the Will shall be reduced according to the rules governing the distribution of an estate in <code-cite path="§4.8|(d)">Section 4.8(d)</code-cite>. A child who is excluded, however, shall not receive a share if it appears from the Will that the child was left out intentionally or the person making the Will expressed the intention to and did provide for the child outside of the Will. The burden of proof shall be by a preponderance of the evidence and it shall be on the excluded child seeking a share of the estate.</text>
+          <text><u>Children Left Out of a Will</u>. If a Willmaker mistakenly leaves a child out of his/her Will, or fails to provide for any children born or adopted after the Will is signed, the child who has been left out shall receive a share in the estate equal in value to that which he would have received had the person died without a Will. In satisfying a share provided for in this section, the other devises made by the Will shall be reduced according to the rules governing the distribution of an estate in <code-cite path="attachments|law|4|4.8|(d)">Section 4.8(d)</code-cite>. A child who is excluded, however, shall not receive a share if it appears from the Will that the child was left out intentionally or the person making the Will expressed the intention to and did provide for the child outside of the Will. The burden of proof shall be by a preponderance of the evidence and it shall be on the excluded child seeking a share of the estate.</text>
         </para>
         <para>
           <num>(g)</num>
@@ -963,7 +963,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>If a Will fails to provide for a surviving spouse who married the person making the Will after the Will was signed, the spouse shall receive the same share of the estate the spouse would have received if the deceased left no Will. In satisfying a share provided for in this section, the other devises made by the Will shall be reduced according to the rules governing the distribution of an estate in <code-cite path="§4.8|(d)">Section 4.8(d)</code-cite>.</text>
+            <text>If a Will fails to provide for a surviving spouse who married the person making the Will after the Will was signed, the spouse shall receive the same share of the estate the spouse would have received if the deceased left no Will. In satisfying a share provided for in this section, the other devises made by the Will shall be reduced according to the rules governing the distribution of an estate in <code-cite path="attachments|law|4|4.8|(d)">Section 4.8(d)</code-cite>.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -1023,7 +1023,7 @@
           <text><u>Petition Requirements</u>. The petition shall meet the following requirements:</text>
           <para>
             <num>(1)</num>
-            <text>Contents. The petition will be in writing, be signed by the petitioner, and include a death certificate or some other proof of death as set forth in <code-cite path="§2.2">Section 2.2</code-cite> and the original Will.</text>
+            <text>Contents. The petition will be in writing, be signed by the petitioner, and include a death certificate or some other proof of death as set forth in <code-cite path="attachments|law|2|2.2">Section 2.2</code-cite> and the original Will.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -1049,7 +1049,7 @@
           </text>
           <para>
             <num>(1)</num>
-            <text>Self-Proving. If a Will is self-proving as provided for in <code-cite path="§4.1|(e)">Section 4.1(e)</code-cite>, the person filing the petition need not file any separate evidence from the witnesses to the Will.</text>
+            <text>Self-Proving. If a Will is self-proving as provided for in <code-cite path="attachments|law|4|4.1|(e)">Section 4.1(e)</code-cite>, the person filing the petition need not file any separate evidence from the witnesses to the Will.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -1074,7 +1074,7 @@
           <num>(b)</num>
           <text><u>Uncontested Will</u>. If, after thirty (30) days, no objections have been filed, the Court may consider the Will to be uncontested, and may proceed based on the petition and supporting documents or evidence.</text>
         </para>
-        <para>
+        <para xmlns:ns66="https://open.law/schemas/cache" ns66:ref-path="attachments|law|4|4.5|(c)">
           <num>(c)</num>
           <text><u>Contested Will</u>. In order to contest a Will, an interested party must file an objection in writing setting forth the basis of the objections. Anyone objecting to a Will shall have the burden of proof. The Petitioner or any other interested party shall have twenty (20) days to file a reply to the objections. The Tribal Court shall take no further action with respect to the probate of the estate until a hearing has been held on any objections, such hearing to be held within thirty (30) days of the last pleadings filed.</text>
         </para>
@@ -1094,7 +1094,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text><u>When No Executor is Named</u>. If there is no Executor named, an Executor shall be appointed based upon the same procedure used to appoint Administrator in <code-cite path="§3.4">Section 3.4</code-cite> above.</text>
+          <text><u>When No Executor is Named</u>. If there is no Executor named, an Executor shall be appointed based upon the same procedure used to appoint Administrator in <code-cite path="attachments|law|3|3.4">Section 3.4</code-cite> above.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1208,7 +1208,7 @@
             </para>
           </para>
         </para>
-        <para>
+        <para xmlns:ns63="https://open.law/schemas/cache" ns63:ref-path="attachments|law|4|4.8|(d)">
           <num>(d)</num>
           <text>
             <u>Insufficient Estate and Reduction of Shares.</u>
@@ -1274,7 +1274,7 @@
       <prefix>CHAPTER</prefix>
       <num>5</num>
       <heading>STATUS OF NON-MEMBER OR NON-INDIAN</heading>
-      <section>
+      <section xmlns:ns62="https://open.law/schemas/cache" ns62:ref-path="attachments|law|5|5.1">
         <codify:insert path="5"/>
         <num codify:value="12.02.240">5.1</num>
         <heading>Tribal Council Action</heading>
@@ -1316,7 +1316,7 @@
         <codify:insert path="6"/>
         <num codify:value="12.02.260">6.2</num>
         <heading>Appeals</heading>
-        <text>All final decisions of the Tribal Court regarding <code-cite path="|attachments|law">this Law</code-cite> shall be appealable to the Saint Regis Mohawk Tribe Appellate Court. No interlocutory appeals of <code-cite path="|attachments|law">this Law</code-cite> shall be permitted except for appeals concerning <code-cite path="§4.5|(c)">Section 4.5(c)</code-cite>.</text>
+        <text>All final decisions of the Tribal Court regarding <code-cite path="|attachments|law">this Law</code-cite> shall be appealable to the Saint Regis Mohawk Tribe Appellate Court. No interlocutory appeals of <code-cite path="|attachments|law">this Law</code-cite> shall be permitted except for appeals concerning <code-cite path="attachments|law|4|4.5|(c)">Section 4.5(c)</code-cite>.</text>
         <annotation type="History">Res. No. 2017-52</annotation>
       </section>
       <section>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2020-28" codify:doc="Saint Regis Mohawk Tribal Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2020-28" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2020-28</num>
   <heading>Amend the Saint Regis Mohawk Tribe Police Commission Act</heading>
   <meta>
@@ -84,7 +84,7 @@
     </text>
   </procedural-data>
   <attachment id="law">
-    <codified:at path="3.02" />
+    <codified:at path="3.02"/>
     <heading>Saint Regis Mohawk Tribe Police Commission Act</heading>
     <section>
       <codify:insert/>
@@ -291,7 +291,7 @@
             <text>Be willing to maintain communication through technology and be accessible.</text>
           </para>
         </para>
-        <para>
+        <para xmlns:ns67="https://open.law/schemas/cache" ns67:ref-path="attachments|law|7|C.|2.">
           <num>2.</num>
           <text>All Commission members and candidates shall not:</text>
           <para>
@@ -338,17 +338,17 @@
         <annotation type="History">Res. No. 2018-49</annotation>
       </annotations>
     </section>
-    <section>
+    <section xmlns:ns69="https://open.law/schemas/cache" ns69:ref-path="attachments|law|8">
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.02.080">8</num>
       <heading>Removal of Commissioners</heading>
       <para>
         <num>A.</num>
-        <text>In the event a Commissioner violates any provisions contained in <code-cite path="§7|C.|2.">Section 7 C. 2.</code-cite>, he or she shall be removed by Tribal Council.</text>
+        <text>In the event a Commissioner violates any provisions contained in <code-cite path="attachments|law|7|C.|2.">Section 7 C. 2.</code-cite>, he or she shall be removed by Tribal Council.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>When a Commissioner fails to meet the duties outlined in <code-cite path="§11">Section 11</code-cite>, the Commission shall meet to determine whether a Commissioner shall be recommended for removal or for any other discipline to the Tribal Council.</text>
+        <text>When a Commissioner fails to meet the duties outlined in <code-cite path="attachments|law|11">Section 11</code-cite>, the Commission shall meet to determine whether a Commissioner shall be recommended for removal or for any other discipline to the Tribal Council.</text>
       </para>
       <para>
         <num>C.</num>
@@ -389,17 +389,17 @@
       <codify:insert/>
       <num codify:value="3.02.100">10</num>
       <heading>Confidentiality</heading>
-      <text>All Commissioners shall not reveal any confidential information regarding personnel matters, investigations, and disciplinary hearings. Sharing of confidential information shall result in the removal pursuant to <code-cite path="§8">Section 8</code-cite>.</text>
+      <text>All Commissioners shall not reveal any confidential information regarding personnel matters, investigations, and disciplinary hearings. Sharing of confidential information shall result in the removal pursuant to <code-cite path="attachments|law|8">Section 8</code-cite>.</text>
       <annotations>
         <annotation type="History">Res. No. 2014-10</annotation>
         <annotation type="History">Res. No. 2018-49</annotation>
       </annotations>
     </section>
-    <section>
+    <section xmlns:ns68="https://open.law/schemas/cache" ns68:ref-path="attachments|law|11">
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.02.110">11</num>
       <heading>Duties of the Commission</heading>
-      <para>
+      <para ns68:ref-path="attachments|law|11|A.">
         <num>A.</num>
         <text>The Commission shall appoint, supervise, discipline, and terminate the Chief of Police of the Saint Regis Mohawk Tribal Police Department.</text>
       </para>
@@ -437,7 +437,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>A member of the Commission may participate in hiring and promotion decisions of the Police Department, but the Chief of Police retains the authority to select a candidate. The actions of the Chief of Police must be consistent with departmental policies, the Tribe's current policies and procedures including the Employee Handbook or any amendments thereto. The Commission may terminate Police Department Personnel and Officers consistent with <code-cite path="§16">Section 16</code-cite> herein.</text>
+        <text>A member of the Commission may participate in hiring and promotion decisions of the Police Department, but the Chief of Police retains the authority to select a candidate. The actions of the Chief of Police must be consistent with departmental policies, the Tribe's current policies and procedures including the Employee Handbook or any amendments thereto. The Commission may terminate Police Department Personnel and Officers consistent with <code-cite path="attachments|law|16">Section 16</code-cite> herein.</text>
       </para>
       <para>
         <num>G.</num>
@@ -449,7 +449,7 @@
       </para>
       <para>
         <num>I.</num>
-        <text>The Commission may be involved in complaints against Department Personnel and Officers as outlined in the Police Manual and herein at <code-cite path="§16">Section 16</code-cite>. As outlined in Police Manual Section 1100 the Commission may hear appeals regarding certain disciplinary decisions involving Police Personnel reporting directly to the Chief of Police. It shall not oversee any complaints involving conduct or discipline relating to the Tribe's Employee Handbook unless such a review is outlined in the Tribe's Employee Handbook.</text>
+        <text>The Commission may be involved in complaints against Department Personnel and Officers as outlined in the Police Manual and herein at <code-cite path="attachments|law|16">Section 16</code-cite>. As outlined in Police Manual Section 1100 the Commission may hear appeals regarding certain disciplinary decisions involving Police Personnel reporting directly to the Chief of Police. It shall not oversee any complaints involving conduct or discipline relating to the Tribe's Employee Handbook unless such a review is outlined in the Tribe's Employee Handbook.</text>
       </para>
       <para>
         <num>J.</num>
@@ -479,7 +479,7 @@
         <num>P.</num>
         <text>The Commission shall work towards increasing public awareness of the Commission and the Police Department to include providing public notice of its monthly meetings, provided that all hearings involving disciplinary matters shall be held in executive (closed) session.</text>
       </para>
-      <para>
+      <para ns68:ref-path="attachments|law|11|Q.">
         <num>Q.</num>
         <text>The Commission, for any reason, may request that an independent police auditor be appointed by the Tribal Council to monitor a particular complaint or investigation.</text>
       </para>
@@ -487,7 +487,7 @@
         <num>R.</num>
         <text>The Commission shall provide a report to the Tribal Council of its individual member's activities on a monthly basis. It shall also provide a monthly report to the Tribal Council to include, but not limited to, statistics on the number of complaints and disciplinary actions it has heard, and any other issues the Commission or the Tribal Council may deem important and appropriate.</text>
       </para>
-      <para>
+      <para ns68:ref-path="attachments|law|11|S.">
         <num>S.</num>
         <text>The Commission shall conduct a yearly evaluation of the Department. It shall be submitted by June 1st of each year. The Commission may hire an outside evaluator to assist with it. The evaluation shall include, but is not limited to:</text>
         <para>
@@ -517,7 +517,7 @@
       </para>
       <para>
         <num>T.</num>
-        <text>To coincide with the Department's annual evaluation from <code-cite path="§11|S.">Section 11.S</code-cite>, the Commission shall submit to the Tribal Council an annual report. The annual report shall include a summary of each member's individual activities and should include, but is not limited to, the number of complaints filed and resolved by the Commission, the number of disciplinary actions it oversaw, changes in policies and procedures or recommendations for such changes, goals and needed resources for the following year.</text>
+        <text>To coincide with the Department's annual evaluation from <code-cite path="attachments|law|11|S.">Section 11.S</code-cite>, the Commission shall submit to the Tribal Council an annual report. The annual report shall include a summary of each member's individual activities and should include, but is not limited to, the number of complaints filed and resolved by the Commission, the number of disciplinary actions it oversaw, changes in policies and procedures or recommendations for such changes, goals and needed resources for the following year.</text>
       </para>
       <para>
         <num>U.</num>
@@ -541,19 +541,19 @@
         <annotation type="History">Res. No. 2018-49</annotation>
       </annotations>
     </section>
-    <section>
+    <section xmlns:ns73="https://open.law/schemas/cache" ns73:ref-path="attachments|law|13">
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.02.130">13</num>
       <heading>Appointment, Supervision, Discipline of the Chief of Police</heading>
       <para>
         <num>A.</num>
-        <text>In accordance with <code-cite path="§11|A.">Section 11. A.</code-cite> the Police Commission appoints, supervises, disciplines, and may terminate the Chief of Police.</text>
+        <text>In accordance with <code-cite path="attachments|law|11|A.">Section 11. A.</code-cite> the Police Commission appoints, supervises, disciplines, and may terminate the Chief of Police.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>The Chief of Police is an employee of the Saint Regis Mohawk Tribe. As such, he/she is subject to the Tribe's policies and procedures including, but not limited to, the Employee Handbook with its amendments and the Whistleblower Policy. In addition, he/she also is subject to any ratified policies and procedures or Police Manual of the Department. For any conduct that is proscribed in the Tribe's Employee Handbook it will control any complaint or disciplinary process. For any conduct that is proscribed under the Tribal Police's Police Manual it will control any complaint or disciplinary process and the Commission will determine whether to proceed with any disciplinary charges as outlined herein at <code-cite path="§13|G.">(G)</code-cite>.</text>
+        <text>The Chief of Police is an employee of the Saint Regis Mohawk Tribe. As such, he/she is subject to the Tribe's policies and procedures including, but not limited to, the Employee Handbook with its amendments and the Whistleblower Policy. In addition, he/she also is subject to any ratified policies and procedures or Police Manual of the Department. For any conduct that is proscribed in the Tribe's Employee Handbook it will control any complaint or disciplinary process. For any conduct that is proscribed under the Tribal Police's Police Manual it will control any complaint or disciplinary process and the Commission will determine whether to proceed with any disciplinary charges as outlined herein at <code-cite path="attachments|law|13|G.">(G)</code-cite>.</text>
       </para>
-      <para>
+      <para xmlns:ns72="https://open.law/schemas/cache" ns72:ref-path="attachments|law|13|C.">
         <num>C.</num>
         <text>The Police Commission shall work with the Human Resources Department and follow the procedures in the Employee Handbook for any conduct that is proscribed in the Employee Handbook.</text>
       </para>
@@ -570,14 +570,14 @@
         </para>
         <para>
           <num>3.</num>
-          <text>The Commission shall interview any candidates that meet the criteria for Chief of Police as per <code-cite path="§13|C.">Section 13. C</code-cite>.</text>
+          <text>The Commission shall interview any candidates that meet the criteria for Chief of Police as per <code-cite path="attachments|law|13|C.">Section 13. C</code-cite>.</text>
         </para>
         <para>
           <num>4.</num>
           <text>Upon finding a qualified candidate, the Commission upon notice to Tribal Council shall appoint a Chief of Police.</text>
         </para>
       </para>
-      <para>
+      <para ns73:ref-path="attachments|law|13|E.">
         <num>E.</num>
         <text>The Chief of Police must meet the following requirements.</text>
         <para>
@@ -599,7 +599,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>To coincide with the Department's annual evaluation from <code-cite path="§11|Q.">Section 11.Q</code-cite>, the Commission shall conduct a yearly evaluation of the Chief of Police. It shall be submitted by February fifteenth (15th) of each year. The Commission may hire an outside evaluator to assist with the evaluation. The evaluation shall include, but is not limited to:</text>
+        <text>To coincide with the Department's annual evaluation from <code-cite path="attachments|law|11|Q.">Section 11.Q</code-cite>, the Commission shall conduct a yearly evaluation of the Chief of Police. It shall be submitted by February fifteenth (15th) of each year. The Commission may hire an outside evaluator to assist with the evaluation. The evaluation shall include, but is not limited to:</text>
         <para>
           <num>1.</num>
           <text>Interviews with Department personnel and officers.</text>
@@ -617,7 +617,7 @@
           <text>A review of any updated policies and procedures that the Chief of Police may have initiated.</text>
         </para>
       </para>
-      <para>
+      <para xmlns:ns71="https://open.law/schemas/cache" ns71:ref-path="attachments|law|13|G.">
         <num>G.</num>
         <text>Disciplinary charges against the Chief of Police may be filed by the Commission based upon an Internal Affairs investigation or as a result of the Commission's oversight of the Chief of Police.</text>
         <para>
@@ -676,7 +676,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Police Officer or Personnel complaints against the Chief of Police shall be filed with the Commission. The Commission's Chair or his/her designee shall oversee the investigation. If the Chair or the Commission determines it is necessary, an independent investigator may be appointed to assist in the investigation. The Commission shall notify the complainant in writing of the investigation. The Chair shall ensure the complaint is investigated and reported to the Commission. The Commission shall determine whether any disciplinary action needs to be taken and notify the complainant whether the complaint was sustained or unfounded pursuant to the procedures set forth above in <code-cite path="§13">Section 13</code-cite>.</text>
+        <text>Police Officer or Personnel complaints against the Chief of Police shall be filed with the Commission. The Commission's Chair or his/her designee shall oversee the investigation. If the Chair or the Commission determines it is necessary, an independent investigator may be appointed to assist in the investigation. The Commission shall notify the complainant in writing of the investigation. The Chair shall ensure the complaint is investigated and reported to the Commission. The Commission shall determine whether any disciplinary action needs to be taken and notify the complainant whether the complaint was sustained or unfounded pursuant to the procedures set forth above in <code-cite path="attachments|law|13">Section 13</code-cite>.</text>
       </para>
       <para>
         <num>D.</num>
@@ -713,14 +713,14 @@
       </para>
       <para>
         <num>F.</num>
-        <text>Complaints against the Chief of Police shall be filed with the Commission who shall forward them to Internal Affairs to investigate, if warranted. If an investigation is warranted, the Commission's Chair or his/her designee shall oversee the investigation. If the Commission determines it is necessary, they may appoint an external investigator. The Commission shall notify the complainant in writing of the investigation. Once an investigation is complete, the Commission shall determine whether any disciplinary action needs to be taken and notify the complainant whether the complaint was sustained or unfounded. The process outlined in <code-cite path="§13|E.">Section 13 E</code-cite> shall apply to disciplinary actions against the Chief of Police.</text>
+        <text>Complaints against the Chief of Police shall be filed with the Commission who shall forward them to Internal Affairs to investigate, if warranted. If an investigation is warranted, the Commission's Chair or his/her designee shall oversee the investigation. If the Commission determines it is necessary, they may appoint an external investigator. The Commission shall notify the complainant in writing of the investigation. Once an investigation is complete, the Commission shall determine whether any disciplinary action needs to be taken and notify the complainant whether the complaint was sustained or unfounded. The process outlined in <code-cite path="attachments|law|13|E.">Section 13 E</code-cite> shall apply to disciplinary actions against the Chief of Police.</text>
       </para>
       <annotations>
         <annotation type="History">Res. No. 2014-10</annotation>
         <annotation type="History">Res. No. 2018-49</annotation>
       </annotations>
     </section>
-    <section>
+    <section xmlns:ns70="https://open.law/schemas/cache" ns70:ref-path="attachments|law|16">
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.02.160">16</num>
       <heading>Disciplinary Hearing Procedures Involving Officers and Personnel, Other than Chief of Police</heading>
