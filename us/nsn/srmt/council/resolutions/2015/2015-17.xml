@@ -343,7 +343,7 @@
       <heading>Short Title</heading>
       <text><code-cite path="|attachments|law">This Act</code-cite> shall be known and may be cited as the Saint Regis Mohawk Communications Regulatory Act (and herein referred to as the "Act").</text>
     </section>
-    <section xmlns:ns106="https://open.law/schemas/cache" ns106:ref-path="attachments|law|2.2">
+    <section>
       <codify:insert path="2" renumber-paras="true"/>
       <num codify:value="7.04.030">2.2</num>
       <heading>Purpose</heading>
@@ -445,7 +445,7 @@
       <heading>Duties of the Commission</heading>
       <text>The Commission shall abide by the operating procedures and duties as set forth in <code-cite path="|attachments|law">this Act</code-cite> and in the Commission By-Laws as approved by the Saint Regis Mohawk Tribal Council.</text>
     </section>
-    <section xmlns:ns107="https://open.law/schemas/cache" ns107:ref-path="attachments|law|2.9">
+    <section>
       <codify:insert path="2" renumber-paras="true"/>
       <num codify:value="7.04.100">2.9</num>
       <heading>Powers of the Commission</heading>
@@ -705,7 +705,7 @@
         <text>An entity certified as a Reseller is only authorized to provide services through resale.</text>
       </para>
     </section>
-    <section xmlns:ns108="https://open.law/schemas/cache" ns108:ref-path="attachments|law|6.3">
+    <section>
       <codify:insert path="6" renumber-paras="true"/>
       <num codify:value="7.04.240">6.3</num>
       <heading>Application for Cpcn</heading>
@@ -798,7 +798,7 @@
         </para>
       </para>
     </section>
-    <section xmlns:ns109="https://open.law/schemas/cache" ns109:ref-path="attachments|law|6.4">
+    <section>
       <codify:insert path="6" renumber-paras="true"/>
       <num codify:value="7.04.250">6.4</num>
       <heading>Approval of Cpcn</heading>
@@ -827,7 +827,7 @@
       <heading>Non-Exclusivity of Franchise</heading>
       <text>The Commission may issue one or more nonexclusive Franchises within its jurisdiction. The Commission shall not unreasonably refuse to award additional competitive Franchises. No Franchise shall be exclusive, except the wholesale broadband franchise currently exercised by Saint Regis Mohawk Tribe, which may be transferred to a wholly owned Tribal LLC.</text>
     </section>
-    <section xmlns:ns110="https://open.law/schemas/cache" ns110:ref-path="attachments|law|7.3">
+    <section>
       <codify:insert path="7" renumber-paras="true"/>
       <num codify:value="7.04.280">7.3</num>
       <heading>Franchise Application</heading>
@@ -1006,7 +1006,7 @@
         <text>In the event that any Franchise fee is not paid on or before the dates specified herein, the franchisee shall pay as additional compensation an interest charge, computed from such due date, at the annual rate equal to the United States prime rate as of the date of delinquency plus 3.5% from the date the quarterly payment was due.</text>
       </para>
     </section>
-    <section xmlns:ns111="https://open.law/schemas/cache" ns111:ref-path="attachments|law|7.8">
+    <section>
       <codify:insert path="7" renumber-paras="true"/>
       <num codify:value="7.04.330">7.8</num>
       <heading>Franchise Renewal</heading>
@@ -1069,7 +1069,7 @@
         <text>Topics which may be discussed at any regular or special performance evaluation session may include but need not be limited to Communications Service, video programming, free or discounted services, system performance, customer complaints, service rate structures, application of new technologies, privacy, line extension policies, the franchise fee, penalties, franchisee or Commission rules and regulations, amendments to this chapter, and judicial and administrative rulings.</text>
       </para>
     </section>
-    <section xmlns:ns112="https://open.law/schemas/cache" ns112:ref-path="attachments|law|7.10">
+    <section>
       <codify:insert path="7" renumber-paras="true"/>
       <num codify:value="7.04.350">7.10</num>
       <heading>Forfeiture or Revocation</heading>
@@ -1238,7 +1238,7 @@
       <num>8</num>
       <heading>Transfer, Ownership, and Authority to Issue Stock</heading>
     </section>
-    <section xmlns:ns113="https://open.law/schemas/cache" ns113:ref-path="attachments|law|8.1">
+    <section>
       <codify:insert path="8" renumber-paras="true"/>
       <num codify:value="7.04.380">8.1</num>
       <heading>Applicability</heading>
@@ -1251,7 +1251,7 @@
         <text><code-cite path="attachments|law|8.1">This Section</code-cite> shall only apply when a the holder of a CPCN issued by the Commission operates exclusively within jurisdiction of the Saint Regis Mohawk Tribe or is not otherwise subject to the transfer and ownership of stock restrictions of the New York Public Service Commission.</text>
       </para>
     </section>
-    <section xmlns:ns114="https://open.law/schemas/cache" ns114:ref-path="attachments|law|8.2">
+    <section>
       <codify:insert path="8" renumber-paras="true"/>
       <num codify:value="7.04.390">8.2</num>
       <heading>Transfer or Ownership or Stock</heading>
@@ -1288,7 +1288,7 @@
         <text>Every contract, assignment, transfer, or agreement for transfer of any stock by or through any person or corporation to any corporation, company, association, partnership, or person in violation of any provision of this chapter shall be void and of no effect unless and until it is deemed effective by the Commission.</text>
       </para>
     </section>
-    <section xmlns:ns115="https://open.law/schemas/cache" ns115:ref-path="attachments|law|8.3">
+    <section>
       <codify:insert path="8" renumber-paras="true"/>
       <num codify:value="7.04.400">8.3</num>
       <heading>Authority to Issue Stock, Bonds, and Other Forms of Indebtedness</heading>
@@ -1396,7 +1396,7 @@
         <text>No corporation may hereafter issue any bonds against or as a lien upon any contract for consolidation or merger.</text>
       </para>
     </section>
-    <section xmlns:ns116="https://open.law/schemas/cache" ns116:ref-path="attachments|law|8.6">
+    <section>
       <codify:insert path="8" renumber-paras="true"/>
       <num codify:value="7.04.430">8.6</num>
       <heading>Application for Authority</heading>
@@ -1432,7 +1432,7 @@
         <text>Any reorganization agreement before it becomes effective shall be amended so that the amount of capitalization shall conform to the amount authorized by the Commission.</text>
       </para>
     </section>
-    <section xmlns:ns117="https://open.law/schemas/cache" ns117:ref-path="attachments|law|9.3">
+    <section>
       <codify:insert path="9" renumber-paras="true"/>
       <num codify:value="7.04.460">9.3</num>
       <heading>Application for Authority</heading>
@@ -1612,7 +1612,7 @@
         </para>
       </para>
     </section>
-    <section xmlns:ns118="https://open.law/schemas/cache" ns118:ref-path="attachments|law|10.3">
+    <section>
       <codify:insert path="10" renumber-paras="true"/>
       <num codify:value="7.04.490">10.3</num>
       <heading>Rates</heading>
@@ -1722,13 +1722,13 @@
       <heading>Obscene or Harassing Telephone Calls</heading>
       <text>It shall be unlawful for any Person, with intent to annoy, abuse, threaten, or harass any Person at the called number to: make any comment, request, suggestion or proposal which is obscene, lewd, lascivious, filthy, or indecent; make a telephone call, whether or not conversation ensues, without disclosing upon request of the Person called the identity of the caller; make or cause the telephone of another repeatedly or continuously to ring; make repeated telephone calls, during which no conversation ensues; knowingly permit any telephone under his or her control to be used for any purpose prohibited by <code-cite path="|attachments|law">this Act</code-cite>.</text>
     </section>
-    <section xmlns:ns119="https://open.law/schemas/cache" ns119:ref-path="attachments|law|14.4">
+    <section>
       <codify:insert path="14" renumber-paras="true"/>
       <num codify:value="7.04.6110">14.4</num>
       <heading>Obtaining Communications Services Fraudulently; Penalty</heading>
       <text>No Person shall tamper with, or make connection with, the equipment providing Communications Services by mechanical, electrical, acoustical, or other means with intent to avoid payment of the lawful charges for such service. In addition to other sanctions provided in <code-cite path="|attachments|law">the Act</code-cite>, any Person violating the provisions of <code-cite path="attachments|law|14.4">this Section</code-cite> shall be liable to the Communications Service Provider for reasonable damages plus reasonable attorneys' fees and costs.</text>
     </section>
-    <section xmlns:ns120="https://open.law/schemas/cache" ns120:ref-path="attachments|law|14.5">
+    <section>
       <codify:insert path="14" renumber-paras="true"/>
       <num codify:value="7.04.620">14.5</num>
       <heading>Obscenity-Indecency; Penalties</heading>

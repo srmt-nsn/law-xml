@@ -98,7 +98,7 @@
       <heading>Definitions</heading>
       <text>There are no words or phrases of that require statutory definition as part of this enactment.</text>
     </section>
-    <section xmlns:ns142="https://open.law/schemas/cache" ns142:ref-path="attachments|law|IV">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.02.040">IV</num>
       <heading>[Rule 1] Filing and Notice</heading>
@@ -184,7 +184,7 @@
         <text>For the purposes of meeting the deadline set in this Rule, a civil suit is started when the complaint is filed with the Clerk of the Court.</text>
       </para>
     </section>
-    <section xmlns:ns143="https://open.law/schemas/cache" ns143:ref-path="attachments|law|IX">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.02.090">IX</num>
       <heading>[Rule 6] Commencement of a Lawsuit; Complaints; Proof of Service; Filing Fee; Summons</heading>
@@ -235,7 +235,7 @@
         <text>In addition to or as a way of raising a defense to the complaint, a defendant may file a complaint/counterclaim against plaintiff, following the same rules which apply to complaints.</text>
       </para>
     </section>
-    <section xmlns:ns141="https://open.law/schemas/cache" ns141:ref-path="attachments|law|XII">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.02.120">XII</num>
       <heading>[Rule 9] Preliminary Injunctions and Temporary Restraining Orders</heading>
@@ -355,7 +355,7 @@
         <text>No offer of settlement or other statement which is made by a party during a pretrial conference may be used as evidence against that party if settlement is not then achieved. Agreements reached as a result of a pretrial conference shall be put in writing and signed by all parties. Such agreement shall be made part of the final judgment issued by the judge.</text>
       </para>
     </section>
-    <section xmlns:ns140="https://open.law/schemas/cache" ns140:ref-path="attachments|law|XVI">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.02.160">XVI</num>
       <heading>[Rule 13] Motions</heading>
@@ -409,7 +409,7 @@
         <text>A witness who responds to a civil subpoena shall be entitled to a fee of Thirty Dollars ($30.00) for each day or partial day that he or she must appear in court. The judge may, in addition, order that the witness be paid reasonable and necessary travel and living expenses incurred in responding to the subpoena. Witnesses shall be offered full payment of their fees for one day's service at the time they are served with the subpoena. The party requesting the issuance of a subpoena shall tender the fees to the witness upon service of the subpoena.</text>
       </para>
     </section>
-    <section xmlns:ns144="https://open.law/schemas/cache" ns144:ref-path="attachments|law|XVIII">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.02.180">XVIII</num>
       <heading>[Rule 15] Jury Trials</heading>
@@ -521,7 +521,7 @@
         <text>A civil jury verdict must be based upon the agreement of at least six (6) of the seven (7) jurors.</text>
       </para>
     </section>
-    <section xmlns:ns145="https://open.law/schemas/cache" ns145:ref-path="attachments|law|XXI">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.02.210">XXI</num>
       <heading>[Rule 18] Rules of Evidence Governing Trials</heading>
@@ -624,7 +624,7 @@
         <text>Finality: A judgment becomes final when it has been recorded in the Docket Book by the court Clerk. The Court shall establish, by the Rules of the Court, the length of time after issuance of an order within which the Court Clerk must enter the Order in the Docket Book.</text>
       </para>
     </section>
-    <section xmlns:ns146="https://open.law/schemas/cache" ns146:ref-path="attachments|law|XXIII">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.02.230">XXIII</num>
       <heading>[Rule 20] Proceedings After Judgment</heading>

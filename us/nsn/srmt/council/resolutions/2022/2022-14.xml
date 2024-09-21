@@ -422,10 +422,10 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="9.01.070">7</num>
       <heading>Use of Net Gaming Revenues</heading>
-      <para xmlns:ns29="https://open.law/schemas/cache" ns29:ref-path="attachments|law|7|A.">
+      <para>
         <num>A.</num>
         <text>Net revenues from Tribal gaming shall be used only for the following purposes:</text>
-        <para ns29:ref-path="attachments|law|7|A.|1.">
+        <para>
           <num>1.</num>
           <text>To fund Tribal government operations or programs;</text>
         </para>
@@ -433,7 +433,7 @@
           <num>2.</num>
           <text>To provide for the general welfare of the Tribe and its members to include per capita payments if they comply with <code-cite path="attachments|law|8">Section 8</code-cite> below;</text>
         </para>
-        <para ns29:ref-path="attachments|law|7|A.|3.">
+        <para>
           <num>3.</num>
           <text>To promote Tribal economic development;</text>
         </para>
@@ -448,7 +448,7 @@
       </para>
       <annotation type="History">Res. No. 1993-102</annotation>
     </section>
-    <section xmlns:ns28="https://open.law/schemas/cache" ns28:ref-path="attachments|law|8">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="9.01.080">8</num>
       <heading>Per Capita Payments</heading>
@@ -767,7 +767,7 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="9.01.110">11</num>
       <heading>Audits</heading>
-      <para xmlns:ns30="https://open.law/schemas/cache" ns30:ref-path="attachments|law|11|A.">
+      <para>
         <num>A.</num>
         <text>The Commission shall cause to be conducted independent audits of gaming operations annually and shall submit the results of those audits to the NIGC.</text>
       </para>
@@ -890,7 +890,7 @@
           <num>1.</num>
           <text>Full name, other names used (oral or written), social security number, birth date, place of birth, citizenship, gender, and all languages (spoken and/or written);</text>
         </para>
-        <para xmlns:ns32="https://open.law/schemas/cache" ns32:ref-path="attachments|law|17|D.|2.">
+        <para>
           <num>2.</num>
           <text>Currently, and for the previous five (5) years; business and employment positions held, ownership interests in those businesses, business and residential addresses, and driver's license numbers;</text>
         </para>
@@ -914,11 +914,11 @@
           <num>7.</num>
           <text>The name and address of any licensing or regulatory agency with which the person has filed an application for a license or permit related to gaming, whether or not such license or permit was granted;</text>
         </para>
-        <para xmlns:ns33="https://open.law/schemas/cache" ns33:ref-path="attachments|law|17|D.|8.">
+        <para>
           <num>8.</num>
           <text>For each felony for which there is an ongoing prosecution or a conviction, the charge, the name, and address of the court involved, and the date of disposition, if any;</text>
         </para>
-        <para xmlns:ns34="https://open.law/schemas/cache" ns34:ref-path="attachments|law|17|D.|9.">
+        <para>
           <num>9.</num>
           <text>For each misdemeanor conviction or ongoing misdemeanor prosecution (excluding minor traffic violations) within 10 years of the date of the application, the name and address of the court involved and the date of disposition, if any;</text>
         </para>
@@ -1008,7 +1008,7 @@
         <num>A.</num>
         <text>The Commission shall create and maintain an investigative report for each background investigation of a primary management official or key employee.</text>
       </para>
-      <para xmlns:ns35="https://open.law/schemas/cache" ns35:ref-path="attachments|law|19|B.">
+      <para>
         <num>B.</num>
         <text>Investigative reports shall include all of the following information:</text>
         <para>
@@ -1048,7 +1048,7 @@
       </para>
       <annotation type="History">Res. No. 1993-102</annotation>
     </section>
-    <section xmlns:ns31="https://open.law/schemas/cache" ns31:ref-path="attachments|law|21">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="9.01.210">21</num>
       <heading>Notice of Results of Background Investigations</heading>
@@ -1098,7 +1098,7 @@
       </para>
       <annotation type="History">Res. No. 1993-102</annotation>
     </section>
-    <section xmlns:ns36="https://open.law/schemas/cache" ns36:ref-path="attachments|law|22">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="9.01.220">22</num>
       <heading>Granting Gaming Licenses</heading>
@@ -1226,7 +1226,7 @@
       </para>
       <annotation type="History">Res. No. 1993-102</annotation>
     </section>
-    <section xmlns:ns38="https://open.law/schemas/cache" ns38:ref-path="attachments|law|26">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="9.01.260">26</num>
       <heading>Confidentiality</heading>
@@ -1255,7 +1255,7 @@
       </para>
       <annotation type="History">Res. No. 1993-102</annotation>
     </section>
-    <section xmlns:ns37="https://open.law/schemas/cache" ns37:ref-path="attachments|law|28">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="9.01.280">28</num>
       <heading>Licenses for Vendors</heading>

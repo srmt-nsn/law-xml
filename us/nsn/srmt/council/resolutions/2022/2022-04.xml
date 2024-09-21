@@ -303,7 +303,7 @@
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2020-02"/>
       </annotations>
     </section>
-    <section xmlns:ns57="https://open.law/schemas/cache" ns57:ref-path="attachments|law|III">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="5.02.030">III</num>
       <heading>Antidegradation Policy And Implementation Procedures, Mixing Zones, And Allowance For Compliance Schedules</heading>
@@ -761,7 +761,7 @@
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2020-02"/>
       </annotations>
     </section>
-    <section xmlns:ns58="https://open.law/schemas/cache" ns58:ref-path="attachments|law|IV">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="5.02.040">IV</num>
       <heading>General Conditions</heading>

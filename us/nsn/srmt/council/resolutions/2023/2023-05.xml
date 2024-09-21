@@ -2756,7 +2756,7 @@
           <annotation type="History">Res. No. 2022-17</annotation>
         </annotations>
       </section>
-      <section xmlns:ns27="https://open.law/schemas/cache" ns27:ref-path="attachments|law|17|17.02">
+      <section>
         <codify:insert path="17" renumber-paras="true"/>
         <num codify:value="15.02.670">17.02</num>
         <heading>Additional Security</heading>

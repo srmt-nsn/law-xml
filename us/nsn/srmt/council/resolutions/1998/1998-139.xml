@@ -160,7 +160,7 @@
             <text>support of valuable medicinal plants and trees of cultural and economic importance including, but not limited to, Heartweed (<em>Polygonum persicaria</em>) and BlackAsh (<em>Fraxinus nigra</em>).</text>
           </para>
         </para>
-        <para xmlns:ns198="https://open.law/schemas/cache" ns198:ref-path="attachments|law|I|01-0102|5.">
+        <para>
           <num>5.</num>
           <text>Regulation of wetlands, in accordance with the exceptions established in <code-cite path="attachments|law|III|01-0301">§ 01-0301</code-cite> of this ordinance, is consistent with the legitimate interests of farmers and other landowners to graze and water livestock, make reasonable use of water resources, harvest natural products and medicinal plants of the wetlands, selectively cut timber and otherwise engage in the use of land for agricultural purposes.</text>
         </para>
@@ -263,7 +263,7 @@
       <prefix>TITLE</prefix>
       <num>II</num>
       <heading>WETLANDS STUDIES: NOTIFICATION AND MAPS</heading>
-      <section xmlns:ns196="https://open.law/schemas/cache" ns196:ref-path="attachments|law|II|01-0201">
+      <section>
         <codify:insert path="2" renumber-paras="true"/>
         <num codify:value="5.06.040">01-0201</num>
         <heading>Wetlands Inventory</heading>
@@ -301,7 +301,7 @@
       <prefix>TITLE</prefix>
       <num>III</num>
       <heading>WETLANDS REGULATIONS</heading>
-      <section xmlns:ns195="https://open.law/schemas/cache" ns195:ref-path="attachments|law|III|01-0301">
+      <section>
         <codify:insert path="3" renumber-paras="true"/>
         <num codify:value="5.06.050">01-0301</num>
         <heading>Permits</heading>
@@ -314,7 +314,7 @@
           <text>Activities subject to regulation shall include any form of draining, dredging, excavation, removal of soil, mud, sand, shells, gravel or other aggregate from any wetland, either directly or indirectly; erecting any structures, roads, the driving of pilings, or placing of any other obstructions whether or not changing the ebb and flow of the water; any form of pollution, including but not limited to, installing a septic tank, running a stormwater or sanitary sewer outfall, discharging sewage treatment effluent or other liquid wastes into or so as to drain into a wetland; and any other activity which substantially impairs any of the several functions served by wetlands or the benefits derived from wetlands which are set forth in <code-cite path="attachments|law|I|01-0102|5.">section 01-0102(5)</code-cite> of <code-cite path="|attachments|law">this article</code-cite>. These activities are subject to regulation whether or not they occur upon the wetland itself, if, in the discretion of the Environment Division, they inhibit or otherwise substantially affect the function of the wetlands and/or are located within 100 feet from the boundary of such wetland as indicated on the wetlands map.</text>
         </para>
       </section>
-      <section xmlns:ns197="https://open.law/schemas/cache" ns197:ref-path="attachments|law|III|01-0302">
+      <section>
         <codify:insert path="3" renumber-paras="true"/>
         <num codify:value="5.06.060">01-0302</num>
         <heading>Non-Prohibited Discharge of Dredged or Fill Material</heading>
@@ -412,7 +412,7 @@
           <text>For permits whose issuance is reasonably calculated to affect wetlands that straddle Reservation boundaries, or over which jurisdiction is shared with some other governmental entity, the applicant shall forward copies of such application and proposed permit to the governmental entity affected by the issuance of such permit. The applicant shall provide notice to the Environment Division of such forwarding, and the Environment Division must allow at least 21 days for review and comment on such proposed permit prior to its issuance. "Governmental Entity" as used in this sub-part, refers solely and exclusively to the Governments of Akwesasne.</text>
         </para>
       </section>
-      <section xmlns:ns199="https://open.law/schemas/cache" ns199:ref-path="attachments|law|III|01-0304">
+      <section>
         <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="5.06.080">01-0304</num>
         <heading>Granting Permits</heading>
@@ -519,7 +519,7 @@
             <text>To suspend the effectiveness of any order or decision of the Environment Division pending the determination of an appeal in proper cases and on such terms and conditions as the board may require.</text>
           </para>
         </para>
-        <para xmlns:ns194="https://open.law/schemas/cache" ns194:ref-path="attachments|law|IV|01-0402|2.">
+        <para>
           <num>2.</num>
           <text>The board may affirm, remand, or reverse any order or decision of the Environment Division or remand the matter to the Environment Division for further consideration in whole, or in part, or with respect to any party. The Board shall limit its review to whether the order or decision of the Environment Division is:</text>
           <para>

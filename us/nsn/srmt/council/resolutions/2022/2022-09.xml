@@ -744,7 +744,7 @@
           <heading>Powers to Amend</heading>
           <text>An Entity may amend its articles of incorporation if the amendment contains only provisions that might lawfully be contained in original articles of incorporation filed at the time of making the amendment.</text>
         </section>
-        <section xmlns:ns39="https://open.law/schemas/cache" ns39:ref-path="attachments|law|I|6|6.2">
+        <section>
           <codify:insert path="6" renumber-paras="true"/>
           <num codify:value="16.01.250">6.2</num>
           <heading>Articles of Incorporation; Amendment Procedure</heading>
@@ -1127,7 +1127,7 @@
             <text>Doing all other acts incident to liquidation of its business and affairs.</text>
           </para>
         </section>
-        <section xmlns:ns40="https://open.law/schemas/cache" ns40:ref-path="attachments|law|I|7|7.9">
+        <section>
           <codify:insert path="7" renumber-paras="true"/>
           <num codify:value="16.01.340">7.9</num>
           <heading>Known Claims Against Dissolved Entity</heading>
@@ -1172,7 +1172,7 @@
             <text>For purposes of <code-cite path="|attachments|law|I|7|7.9">this section</code-cite> "claim" does not include a contingent liability or a claim based on an event occurring after the effective date of dissolution.</text>
           </para>
         </section>
-        <section xmlns:ns41="https://open.law/schemas/cache" ns41:ref-path="attachments|law|I|7|7.10">
+        <section>
           <codify:insert path="7" renumber-paras="true"/>
           <num codify:value="16.01.350">7.10</num>
           <heading>Unknown Claims Against Dissolved Entity</heading>
@@ -1312,7 +1312,7 @@
         <prefix>CHAPTER</prefix>
         <num>10</num>
         <heading>ANNUAL REPORTS</heading>
-        <section xmlns:ns42="https://open.law/schemas/cache" ns42:ref-path="attachments|law|I|10|10.1">
+        <section>
           <codify:insert path="10" renumber-paras="true"/>
           <num codify:value="16.01.410">10.1</num>
           <heading>Annual Report for Tribal Secretary</heading>
@@ -1426,7 +1426,7 @@
           <heading>Amendment of Articles</heading>
           <text>A Corporation may amend its Article by utilizing the process set forth in <cite doc="Saint Regis Mohawk Tribal Code of Law" path="|16|16.01|6"><span codify:value="Chapter 16.01, Subchapter 6">Title 1, Chapter 6</span></cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
         </section>
-        <section xmlns:ns43="https://open.law/schemas/cache" ns43:ref-path="attachments|law|II|11|11.6">
+        <section>
           <codify:insert path="1" renumber-paras="true"/>
           <num codify:value="16.02.060">11.6</num>
           <heading>Conversion into a Domestic Corporation</heading>
@@ -2264,7 +2264,7 @@
             <text>Written notice of member approval pursuant to <code-cite path="|attachments|law|III|19|19.4">this section</code-cite> shall be given to all members who have not signed the written consent. If written notice is required, member approval pursuant to <code-cite path="|attachments|law|III|19|19.4">this section</code-cite> shall be effective ten days after such written notice is given.</text>
           </para>
         </section>
-        <section xmlns:ns48="https://open.law/schemas/cache" ns48:ref-path="attachments|law|III|19|19.5">
+        <section>
           <codify:insert path="4" renumber-paras="true"/>
           <num codify:value="16.03.250">19.5</num>
           <heading>Notice of Meeting</heading>
@@ -2396,7 +2396,7 @@
             <text>Except as otherwise provided in the articles or bylaws, a written ballot may not be revoked.</text>
           </para>
         </section>
-        <section xmlns:ns55="https://open.law/schemas/cache" ns55:ref-path="attachments|law|III|19|19.9">
+        <section>
           <codify:insert path="4" renumber-paras="true"/>
           <num codify:value="16.03.290">19.9</num>
           <heading>Members' List for Meeting</heading>
@@ -2628,7 +2628,7 @@
             <text>If the corporation does not have members, all the directors (except the initial directors) shall be elected, appointed or designated as provided in the articles or bylaws. If no method of designation or appointment is set forth in the articles or bylaws, the directors (other than the initial directors) shall be elected by the board.</text>
           </para>
         </section>
-        <section xmlns:ns44="https://open.law/schemas/cache" ns44:ref-path="attachments|law|III|20|20.3">
+        <section>
           <codify:insert path="5" renumber-paras="true"/>
           <num codify:value="16.03.390">20.3</num>
           <heading>General Standards for Directors</heading>
@@ -2704,7 +2704,7 @@
           <heading>Duties and Authority of Officers</heading>
           <text>Each officer has the authority and shall perform the duties set forth in the bylaws or, to the extent consistent with the bylaws, the duties and authority prescribed in a resolution of the board or by direction of an officer authorized by the board to prescribe the duties and authority of other officers.</text>
         </section>
-        <section xmlns:ns45="https://open.law/schemas/cache" ns45:ref-path="attachments|law|III|20|20.6">
+        <section>
           <codify:insert path="5" renumber-paras="true"/>
           <num codify:value="16.03.420">20.6</num>
           <heading>Standards of Conduct for Officers</heading>
@@ -2779,7 +2779,7 @@
             <text>"Proceeding" means any threatened, pending, or completed action, suit or proceeding whether civil, criminal, administrative, or investigative and whether formal or informal.</text>
           </para>
         </section>
-        <section xmlns:ns46="https://open.law/schemas/cache" ns46:ref-path="attachments|law|III|21|21.2">
+        <section>
           <codify:insert path="6" renumber-paras="true"/>
           <num codify:value="16.03.440">21.2</num>
           <heading>Authority to Indemnify</heading>
@@ -2939,7 +2939,7 @@
             <text>If the board or the members seek to have the amendment approved by the members by written consent or written ballot, the material soliciting the approval shall contain or be accompanied by a copy or summary of the amendment.</text>
           </para>
         </section>
-        <section xmlns:ns47="https://open.law/schemas/cache" ns47:ref-path="attachments|law|III|22|22.4">
+        <section>
           <codify:insert path="7" renumber-paras="true"/>
           <num codify:value="16.03.510">22.4</num>
           <heading>Class Voting by Members on Amendments</heading>
@@ -3056,7 +3056,7 @@
             <text>If the board or the members seek to have the amendment approved by the members by written consent or written ballot, the material soliciting the approval shall contain or be accompanied by a copy or summary of the amendment.</text>
           </para>
         </section>
-        <section xmlns:ns49="https://open.law/schemas/cache" ns49:ref-path="attachments|law|III|22|22.8">
+        <section>
           <codify:insert path="7" renumber-paras="true"/>
           <num codify:value="16.03.550">22.8</num>
           <heading>Class Voting by Members on Amendments</heading>
@@ -3282,7 +3282,7 @@
           <codify:insert path="12" renumber-paras="true"/>
           <num codify:value="16.03.630">27.1</num>
           <heading>Corporate Records</heading>
-          <para xmlns:ns51="https://open.law/schemas/cache" ns51:ref-path="attachments|law|III|27|27.1|(a)">
+          <para>
             <num>(a)</num>
             <text>A Non-Profit Corporation shall keep as permanent records the following documents:</text>
             <para>
@@ -3302,7 +3302,7 @@
             <num>(b)</num>
             <text>A corporation shall maintain its records in written form or in another form capable of conversion into written form within a reasonable time.</text>
           </para>
-          <para xmlns:ns50="https://open.law/schemas/cache" ns50:ref-path="attachments|law|III|27|27.1|(c)">
+          <para>
             <num>(c)</num>
             <text>A corporation shall keep a copy of the following records at its principal office:</text>
             <para>
@@ -3335,7 +3335,7 @@
             </para>
           </para>
         </section>
-        <section xmlns:ns54="https://open.law/schemas/cache" ns54:ref-path="attachments|law|III|27|27.2">
+        <section>
           <codify:insert path="12" renumber-paras="true"/>
           <num codify:value="16.03.640">27.2</num>
           <heading>Inspection of Records by Members</heading>
@@ -3354,7 +3354,7 @@
               <num>2.</num>
               <text>accounting records of the corporation; and</text>
             </para>
-            <para ns54:ref-path="attachments|law|III|27|27.2|(b)|3.">
+            <para>
               <num>3.</num>
               <text>subject to <code-cite path="attachments|law|III|27|27.4">Section 27.04</code-cite>, the membership list.</text>
             </para>
@@ -3396,7 +3396,7 @@
           <codify:insert path="12" renumber-paras="true"/>
           <num codify:value="16.03.650">27.3</num>
           <heading>Scope of Inspection Rights</heading>
-          <para xmlns:ns52="https://open.law/schemas/cache" ns52:ref-path="attachments|law|III|27|27.3|(a)">
+          <para>
             <num>(a)</num>
             <text>The corporation may impose a reasonable charge, covering the costs of labor and material, for copies of any documents provided to the member. The charge may not exceed the estimated cost of production or reproduction of the records.</text>
           </para>
@@ -3405,7 +3405,7 @@
             <text>The corporation may comply with a member's demand to inspect the record of members under <code-cite path="attachments|law|III|27|27.2|(b)|3.">Section 27.2(b)(3)</code-cite> by providing the member with a list of its members that was compiled no earlier than the date of the member's demand.</text>
           </para>
         </section>
-        <section xmlns:ns53="https://open.law/schemas/cache" ns53:ref-path="attachments|law|III|27|27.4">
+        <section>
           <codify:insert path="12" renumber-paras="true"/>
           <num codify:value="16.03.660">27.4</num>
           <heading>Limitations on Use of Membership List</heading>
@@ -3503,7 +3503,7 @@
           <heading>Applicable Law</heading>
           <text>Except as otherwise specifically provided for herein, the Saint Regis Mohawk Tribe's Rules of Civil Procedure shall apply to any procedure or dispute not otherwise addressed by <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
         </section>
-        <section xmlns:ns56="https://open.law/schemas/cache" ns56:ref-path="attachments|law|IV|28|28.5">
+        <section>
           <codify:insert path="1" renumber-paras="true"/>
           <num codify:value="16.04.050">28.5</num>
           <heading>Fees</heading>

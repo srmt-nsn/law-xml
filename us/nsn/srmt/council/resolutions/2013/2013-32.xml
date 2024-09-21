@@ -298,7 +298,7 @@
         </para>
       </para>
     </section>
-    <section xmlns:ns121="https://open.law/schemas/cache" ns121:ref-path="attachments|law|V">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.01.050">V</num>
       <heading>Removal</heading>
@@ -331,11 +331,11 @@
         </para>
       </para>
     </section>
-    <section xmlns:ns122="https://open.law/schemas/cache" ns122:ref-path="attachments|law|VI">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.01.060">VI</num>
       <heading>Referendums</heading>
-      <para ns122:ref-path="attachments|law|VI|A.">
+      <para>
         <num>A.</num>
         <text>Authority of Members to Initiate Referendums</text>
         <text>Members shall have power to initiate referendums subject to the provisions set forth in <code-cite path="attachments|law|VI">this Section</code-cite> and in any regulations that are issued pursuant to <code-cite path="|attachments|law">this Ordinance</code-cite> ("Initiative").</text>
@@ -367,7 +367,7 @@
           <num>1.</num>
           <text>The Council <strong>may</strong> place any proposed or existing law or question to the membership for a referendum vote by a majority vote of the Chiefs.</text>
         </para>
-        <para ns122:ref-path="attachments|law|VI|B.|2.">
+        <para>
           <num>2.</num>
           <text>The Council <strong>must</strong> place the following issues to the membership through the referendum process:</text>
           <para>

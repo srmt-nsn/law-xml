@@ -232,7 +232,7 @@
           <num>(9)</num>
           <text>"Liquidating trustee" means a person carrying out the winding up of a limited liability company.</text>
         </para>
-        <para xmlns:ns160="https://open.law/schemas/cache" ns160:ref-path="attachments|law|I|101|(10)">
+        <para>
           <num>(10)</num>
           <text>"Manager" means a person who is named as a manager of a limited liability company in, or designated as a manager of a limited liability company pursuant to, a limited liability company agreement or similar instrument under which the limited liability company is formed.</text>
         </para>
@@ -272,7 +272,7 @@
           <num>(19)</num>
           <text>"Tribal Court" means the St. Regis Mohawk Indian Tribal Court established by the Tribe which, until a separate Tribal Court of general jurisdiction is established by the Tribal Council, shall consist of the Tribal Council.</text>
         </para>
-        <para xmlns:ns152="https://open.law/schemas/cache" ns152:ref-path="attachments|law|I|101|(20)">
+        <para>
           <num>(20)</num>
           <text>"Tribe" means the St. Regis Mohawk Indian Tribe.</text>
         </para>
@@ -323,7 +323,7 @@
             <text>Any person intending to organize a foreign limited liability company and intending to have it register within the Reservation and adopt that name.</text>
           </para>
         </para>
-        <para xmlns:ns190="https://open.law/schemas/cache" ns190:ref-path="attachments|law|I|103|(b)">
+        <para>
           <num>(b)</num>
           <text>The reservation of a specified name shall be made by filing with the Secretary an application, executed by the applicant, specifying the name to be reserved and the name and address of the applicant. If the Secretary, in his sole discretion, finds that the name is available for use, the Secretary shall reserve the name for the exclusive use of the applicant for a period of 120 days. Once having so reserved a name, the same applicant may again reserve the same name for successive 120-day periods. The right to the exclusive use of a reserved name may be transferred to any other person by filing in the office of the Secretary a notice of the transfer, executed by the applicant for whom the name was reserved, specifying the name to be transferred and the name and address of the transferee. The reservation of a specified name may be cancelled by filing with the Secretary a notice of cancellation, executed by the applicant or transferee, specifying the name reservation to be cancelled and the name and address of the applicant or transferee. Unless the Secretary finds that any application, notice of transfer, or notice of cancellation filed with the Secretary as required by this subsection does not conform to law, upon receipt of all filing fees required by law the Secretary shall prepare and return to the person who filed such instrument a copy of the filed instrument with a notation thereon of the action taken by the Secretary.</text>
         </para>
@@ -332,7 +332,7 @@
           <text>A fee as set forth in <code-cite path="attachments|law|XI|1105|(a)|(1)">§ 1105(a)(1)</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite> shall be paid at the time of the initial reservation of any name, at the time of the renewal of any such reservation and at the time of the filing of a notice of the transfer or cancellation of any such reservation.</text>
         </para>
       </section>
-      <section xmlns:ns155="https://open.law/schemas/cache" ns155:ref-path="attachments|law|I|104">
+      <section>
         <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="16.05.050">104</num>
         <heading>Registered Office; Registered Agent</heading>
@@ -364,15 +364,15 @@
             </para>
           </para>
         </para>
-        <para ns155:ref-path="attachments|law|I|104|(b)">
+        <para>
           <num>(b)</num>
           <text>A registered agent may change the address of the registered office of the limited liability company(ies) for which it is registered agent to another address within the Reservation by paying a fee as set forth in <code-cite path="attachments|law|XI|1105|(a)|(2)">§ 1105(a)(2)</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite> and filing with the Secretary a certificate, executed by such registered agent, setting forth the address at which such registered agent has maintained the registered office for each of limited liability companies for which it is a registered agent, and further certifying to the new address to which each such registered office will be changed on a given day, and at which new address such registered agent will thereafter maintain the registered office for each of the limited liability companies for which it is a registered agent. Upon the filing of such certificate, the Secretary shall furnish to the registered agent a certified copy of the same under the Secretary's hand and seal of office, and thereafter, or until further change of address, as authorized by law, the registered office within the Reservation of each of the limited liability companies for which the agent is a registered agent shall be located at the new address of the registered agent thereof as given in the certificate. In the event of a change of name of any person acting as a registered agent of a limited liability company, such registered agent shall file with the Secretary a certificate executed by such registered agent setting forth the new name of such registered agent, the name of such registered agent before it was changed, and the address at which such registered agent has maintained the registered office for each of the limited liability companies for which it is a registered agent, and shall pay a fee as set forth in <code-cite path="attachments|law|XI|1105|(a)|(2)">§ 1105(a)(2)</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>. Upon the filing of such certificate, the Secretary shall furnish to the registered agent a certified copy of the certificate under the Secretary's hand and seal of office. A change of name of any person acting as a registered agent of a limited liability company as a result of a merger or consolidation of the registered agent with or into another person which succeeds to its assets and liabilities by operation of law shall be deemed a change of name for purposes of <code-cite path="attachments|law|I|104">this section</code-cite>. Filing a certificate under <code-cite path="attachments|law|I|104">this section</code-cite> shall be deemed to be an amendment of the certificate of formation of each limited liability company affected thereby, and each such limited liability company shall not be required to take any further action with respect thereto to amend its certificate of formation under <code-cite path="attachments|law|II|202">§ 202</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>. Any registered agent filing a certificate under <code-cite path="attachments|law|I|104">this section</code-cite> shall promptly, upon such filing, deliver a copy of any such certificate to each limited liability company affected thereby.</text>
         </para>
-        <para ns155:ref-path="attachments|law|I|104|(c)">
+        <para>
           <num>(c)</num>
           <text>The registered agent of 1 or more limited liability companies may resign and appoint a successor registered agent by paying a fee as set forth in <code-cite path="attachments|law|XI|1105|(a)|(2)">§ 1105(a)(2)</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite> and filing a certificate with the Secretary, stating that it resigns and the name and address of the successor registered agent. There shall be attached to such certificate a statement of each affected limited liability company ratifying and approving such change of registered agent. Upon such filing, the successor registered agent shall become the registered agent of such limited liability companies as have ratified and approved such substitution, and the successor registered agent's address, as stated in such certificate, shall become the address of each such limited liability company's registered office within the Reservation. The Secretary shall then issue a certificate that to the successor registered agent has become the registered agent of the limited liability companies so ratifying and approving such change and setting out the names of such limited liability companies. Filing of such certificate of resignation shall be deemed to be an amendment of the certificate of formation of each limited liability company affected thereby, and each such limited liability company shall not be required to take any further action with respect thereto to amend its certificate of formation under <code-cite path="attachments|law|II|202">§ 202</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>.</text>
         </para>
-        <para ns155:ref-path="attachments|law|I|104|(d)">
+        <para>
           <num>(d)</num>
           <text>The registered agent of 1 or more limited liability companies may resign without appointing a successor registered agent by paying a fee as set forth in <code-cite path="attachments|law|XI|1105|(a)|(2)">§ 1105(a)(2)</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite> and filing a certificate of resignation with the Secretary, but such resignation shall not become effective until 30 days after the certificate is filed. The certificate shall contain a statement that written notice of resignation was given to each affected limited liability company at least 30 days prior to the filing of the certificate by mailing or delivering such notice to the limited liability company at its address last known to the registered agent and shall set forth the date of such notice. After receipt of the notice of the resignation of its registered agent, the limited liability company for which such registered agent was acting shall obtain and designate a new registered agent, to take the place of the registered agent so resigning. If such limited liability company fails to obtain and designate a new registered agent as aforesaid prior to the expiration of the period of 30 days after the filing by the registered agent of the certificate of resignation, the certificate of formation of such limited liability company shall be deemed to be canceled. After the resignation of the registered agent shall have become effective as provided in <code-cite path="attachments|law|I|104">this section</code-cite> and if no new registered agent shall have been obtained and designated in the time and manner aforesaid, service of legal process against each limited liability company for which the resigned registered agent had been acting shall thereafter be upon the Secretary in accordance with <code-cite path="attachments|law|I|105">§ 105</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>.</text>
         </para>
@@ -417,7 +417,7 @@
           <heading>[RESERVED].</heading>
         </para>
       </section>
-      <section xmlns:ns157="https://open.law/schemas/cache" ns157:ref-path="attachments|law|I|105">
+      <section>
         <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="16.05.060">105</num>
         <heading>Service of Process on Domestic Limited Liability Companies</heading>
@@ -430,7 +430,7 @@
           <text>In case the officer whose duty it is to serve legal process cannot by due diligence serve the process in any manner provided for by subsection (a) of <code-cite path="attachments|law|I|105">this section</code-cite>, it shall be lawful to serve the process against the limited liability company upon the Secretary, and such service shall be as effectual for all intents and purposes as if made in any of the ways provided for in subsection (a) of <code-cite path="attachments|law|I|105">this section</code-cite>. In the event that service is effected through the Secretary in accordance with this subsection, the Secretary shall forthwith notify the limited liability company by letter, certified mail, return receipt requested, directed to the limited liability company at its address as it appears on the records relating to such limited liability company on file with the Secretary or, if no such address appears, at its last registered office. Such letter shall enclose a copy of the process and any other papers served on the Secretary pursuant to this subsection. It shall be the duty of the plaintiff in the event of such service to serve process and any other papers in duplicate, to notify the Secretary that service is being effected pursuant to this subsection, and to pay the Secretary the sum of $50 for the use of the Tribe, which sum shall be taxed as part of the costs in the proceeding if the plaintiff shall prevail therein. The Secretary shall maintain an alphabetical record of any such service setting forth the name of the plaintiff and defendant, the ordinance, docket number and nature of the proceeding in which process has been served upon the Secretary, the fact that service has been effected pursuant to this subsection, the return date thereof, and the day and hour when the service was made. The Secretary shall not be required to retain such information for a period longer than 5 years from the Secretary's receipt of the service of process.</text>
         </para>
       </section>
-      <section xmlns:ns158="https://open.law/schemas/cache" ns158:ref-path="attachments|law|I|106">
+      <section>
         <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="16.05.070">106</num>
         <heading>Nature of Business Permitted; Powers</heading>
@@ -459,7 +459,7 @@
         <heading>Indemnification</heading>
         <text>Subject to such standards and restrictions, if any, as are set forth in its limited liability company agreement, a limited liability company may, and shall have the power to, indemnify and hold harmless any member or manager or other person from and against any and all claims and demands whatsoever.</text>
       </section>
-      <section xmlns:ns159="https://open.law/schemas/cache" ns159:ref-path="attachments|law|I|109">
+      <section>
         <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="16.05.100">109</num>
         <heading>Service of Process on Managers and Liquidating Trustees</heading>
@@ -475,7 +475,7 @@
           <num>(c)</num>
           <text>In any action in which any such manager or liquidating trustee has been served with process as hereinabove provided, the time in which a defendant shall be required to appear and file a responsive pleading shall be computed from the date of mailing by the Tribal Court Clerk as provided in subsection (b) of <code-cite path="attachments|law|I|109">this section</code-cite>; however, the Tribal Court in which such action has been commenced may order such continuance or continuances as may be necessary to afford such manager or liquidating trustee reasonable opportunity to defend the action.</text>
         </para>
-        <para ns159:ref-path="attachments|law|I|109|(d)">
+        <para>
           <num>(d)</num>
           <text>(1)   Subject to paragraph 2 of this subsection, in a written limited liability company agreement or other writing, a manager or member must, at a minimum, consent to be subject to the non-exclusive jurisdiction of the Tribal Court and may, in addition, consent to be subject to the nonexclusive jurisdiction of the courts of, or arbitration in, a specified jurisdiction, or the exclusive jurisdiction of the Tribal Court, or the exclusivity of arbitration in a specified jurisdiction or within the Reservation, and to be served with legal process in the manner prescribed in such limited liability company agreement or other writing. Except by agreeing to arbitrate any arbitrable matter in a specified jurisdiction or within the Reservation, a member who is not a manager may not waive its right to maintain a legal action or proceeding in the Tribal Court with respect to matters relating to the organization or internal affairs of a limited liability company.</text>
           <para>
@@ -492,7 +492,7 @@
           <text>The Tribal Court may make all necessary rules respecting the form of process, the manner of issuance and return thereof and such other rules which may be necessary to implement <code-cite path="attachments|law|I|109">this section</code-cite> and are not inconsistent with <code-cite path="attachments|law|I|109">this section</code-cite>.</text>
         </para>
       </section>
-      <section xmlns:ns162="https://open.law/schemas/cache" ns162:ref-path="attachments|law|I|110">
+      <section>
         <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="16.05.110">110</num>
         <heading>Contested Matters Relating to Managers; Contested Votes</heading>
@@ -520,7 +520,7 @@
       <prefix>Chapter</prefix>
       <num>II</num>
       <heading>Formation; Certificate of Formation</heading>
-      <section xmlns:ns150="https://open.law/schemas/cache" ns150:ref-path="attachments|law|II|201">
+      <section>
         <codify:insert path="2" renumber-paras="true"/>
         <num codify:value="16.05.130">201</num>
         <heading>Certificate of Formation</heading>
@@ -561,18 +561,18 @@
           <text>A limited liability company agreement may be entered into either before, after or at the time of the filing of a certificate of formation and, whether entered into before, after or at the time of such filing, may be made effective as of the formation of the limited liability company or at such other time or date as provided in the limited liability company agreement.</text>
         </para>
       </section>
-      <section xmlns:ns156="https://open.law/schemas/cache" ns156:ref-path="attachments|law|II|202">
+      <section>
         <codify:insert path="2" renumber-paras="true"/>
         <num codify:value="16.05.140">202</num>
         <heading>Amendment to Certificate of Formation</heading>
         <para>
           <num>(a)</num>
           <text>A certificate of formation is amended by filing a certificate of amendment thereto in the office of the Secretary. The certificate of amendment shall set forth:</text>
-          <para ns156:ref-path="attachments|law|II|202|(a)|(1)">
+          <para>
             <num>(1)</num>
             <text>The name of the limited liability company; and</text>
           </para>
-          <para ns156:ref-path="attachments|law|II|202|(a)|(2)">
+          <para>
             <num>(2)</num>
             <text>The amendment to the certificate of formation.</text>
           </para>
@@ -590,7 +590,7 @@
           <text>Unless otherwise provided in <code-cite path="|attachments|law">this Ordinance</code-cite> or unless a later effective date or time (which shall be a date or time certain) is provided for in the certificate of amendment, a certificate of amendment shall be effective at the time of its filing with the Secretary.</text>
         </para>
       </section>
-      <section xmlns:ns181="https://open.law/schemas/cache" ns181:ref-path="attachments|law|II|203">
+      <section>
         <codify:insert path="2" renumber-paras="true"/>
         <num codify:value="16.05.150">203</num>
         <heading>Cancellation of Certificate</heading>
@@ -612,7 +612,7 @@
           <text>Any other information the person filing the certificate of cancellation determines.</text>
         </para>
       </section>
-      <section xmlns:ns164="https://open.law/schemas/cache" ns164:ref-path="attachments|law|II|204">
+      <section>
         <codify:insert path="2" renumber-paras="true"/>
         <num codify:value="16.05.160">204</num>
         <heading>Execution</heading>
@@ -642,7 +642,7 @@
           <text>If a person required to execute a limited liability company agreement or amendment thereof fails or refuses to do so, any other person who is adversely affected by the failure or refusal may petition the Tribal Court to direct the execution of the limited liability company agreement or amendment thereof. If the Tribal Court finds that the limited liability company agreement or amendment thereof should be executed and that any person required to execute the limited liability company agreement or amendment thereof has failed or refused to do so, it shall enter an order granting appropriate relief.</text>
         </para>
       </section>
-      <section xmlns:ns163="https://open.law/schemas/cache" ns163:ref-path="attachments|law|II|206">
+      <section>
         <codify:insert path="2" renumber-paras="true"/>
         <num codify:value="16.05.180">206</num>
         <heading>Filing</heading>
@@ -690,7 +690,7 @@
           <num>(b)</num>
           <text>Upon the filing of a certificate of amendment (or judicial decree of amendment), certificate of correction, corrected certificate or restated certificate in the office of the Secretary, or upon the future effective date or time of a certificate of amendment (or judicial decree thereof) or restated certificate, as provided for therein, the certificate of formation shall be amended, corrected or restated as set forth therein. Upon the filing of a certificate of cancellation (or a judicial decree thereof), or a certificate of merger or consolidation which acts as a certificate of cancellation or a certificate of transfer, or upon the future effective date or time of a certificate of cancellation (or a judicial decree thereof) or of a certificate of merger or consolidation which acts as a certificate of cancellation or a certificate of transfer, the certificate of formation is cancelled. Upon the filing of a certificate of conversion to limited liability company or upon the future effective date or time of a certificate of conversion to limited liability company, the entity filing the certificate of conversion to limited liability company is converted to a limited liability company. Upon the filing of a certificate of revival, the limited liability company is revived.</text>
         </para>
-        <para ns163:ref-path="attachments|law|II|206|(c)">
+        <para>
           <num>(c)</num>
           <text>If any certificate filed in accordance with <code-cite path="|attachments|law">this Ordinance</code-cite> provides for a future effective date or time and if, prior to such future effective date or time set forth in such certificate, the transaction is terminated or its terms are amended to change the future effective date or time or any other matter described in such certificate so as to make such certificate false or inaccurate in any respect, such certificate shall, prior to the future effective date or time set forth in such certificate, be terminated or amended by the filing of a certificate of termination or certificate of amendment of such certificate, executed in accordance with <code-cite path="attachments|law|II|204">§ 204</code-cite> of <code-cite path="|attachments|law">this title</code-cite>, which shall identify the certificate which has been terminated or amended and shall state that the certificate has been terminated or the manner in which it has been amended. Upon the filing of a certificate of amendment of a certificate with a future effective date or time, the certificate identified in such certificate of amendment is amended. Upon the filing of a certificate of termination of a certificate with a future effective date or time, the certificate identified in such certificate of termination is terminated.</text>
         </para>
@@ -713,7 +713,7 @@
         <heading>Notice</heading>
         <text>The fact that a certificate of formation is on file in the office of the Secretary is notice that the entity formed in connection with the filing of the certificate of formation is a limited liability company formed under the laws of the Tribe and is notice of all other facts set forth therein which are required to be set forth in a certificate of formation by <code-cite path="attachments|law|II|202|(a)|(1)">§ 201(a)(1)</code-cite> and <code-cite path="attachments|law|II|202|(a)|(2)">(2)</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>.</text>
       </section>
-      <section xmlns:ns168="https://open.law/schemas/cache" ns168:ref-path="attachments|law|II|208">
+      <section>
         <codify:insert path="2" renumber-paras="true"/>
         <num codify:value="16.05.200">208</num>
         <heading>Restated Certificate</heading>
@@ -738,7 +738,7 @@
           <text>Any amendment or change effected in connection with the restatement and integration of the certificate of formation shall be subject to any other provision of <code-cite path="|attachments|law">this Ordinance</code-cite>, not inconsistent with <code-cite path="attachments|law|II|208">this section</code-cite>, which would apply if a separate certificate of amendment were filed to effect such amendment or change.</text>
         </para>
       </section>
-      <section xmlns:ns169="https://open.law/schemas/cache" ns169:ref-path="attachments|law|II|209">
+      <section>
         <codify:insert path="2" renumber-paras="true"/>
         <num codify:value="16.05.210">209</num>
         <heading>Merger and Consolidation</heading>
@@ -746,7 +746,7 @@
           <num>(a)</num>
           <text>As used in <code-cite path="attachments|law|II|209">this section</code-cite>, "other business entity" means a corporation, a statutory trust, or a business trust or association, a real estate investment trust, a common-law trust, or any other unincorporated business, including a partnership (whether general (including a limited liability partnership) or limited (including a limited liability limited partnership)), and a foreign limited liability company, but excluding a domestic limited liability company.</text>
         </para>
-        <para ns169:ref-path="attachments|law|II|209|(b)">
+        <para>
           <num>(b)</num>
           <text>Pursuant to an agreement of merger or consolidation, 1 or more domestic limited liability companies may merge or consolidate with or into 1 or more domestic limited liability companies or 1 or more other business entities formed or organized under the laws of the Tribe or any other tribe or any state or the United States or any foreign country or other foreign jurisdiction, or any combination thereof, with such domestic limited liability company or other business entity as the agreement shall provide being the surviving or resulting domestic limited liability company or other business entity. Unless otherwise provided in the limited liability company agreement, a merger or consolidation shall be approved by each domestic limited liability company which is to merge or consolidate by the members or, if there is more than one class or group of members, then by each class or group of members, in either case, by members who own more than 50 percent of the then current percentage or other interest in the profits of the domestic limited liability company owned by all of the members or by the members in each class or group, as appropriate. In connection with a merger or consolidation hereunder, rights or securities of, or interests in, a domestic limited liability company or other business entity which is a constituent party to the merger or consolidation may be exchanged for or converted into cash, property, rights or securities of, or interests in, the surviving or resulting domestic limited liability company or other business entity or, in addition to or in lieu thereof, may be exchanged for or converted into cash, property, rights or securities of, or interests in, a domestic limited liability company or other business entity which is not the surviving or resulting limited liability company or other business entity in the merger or consolidation or may be cancelled. Notwithstanding prior approval, an agreement of merger or consolidation may be terminated or amended pursuant to a provision for such termination or amendment contained in the agreement of merger or consolidation.</text>
         </para>
@@ -818,7 +818,7 @@
         <heading>Contractual Appraisal Rights</heading>
         <text>A limited liability company agreement or an agreement of merger or consolidation may provide that contractual appraisal rights with respect to a limited liability company interest or another interest in a limited liability company shall be available for any class or group of members or limited liability company interests in connection with any amendment of a limited liability company agreement, any merger or consolidation in which the limited liability company is a constituent party to the merger or consolidation, any conversion of the limited liability company to another business form, any transfer to or domestication in any jurisdiction by the limited liability company, or the sale of all or substantially all of the limited liability company's assets. The Tribal Court shall have jurisdiction to hear and determine any matter relating to any such appraisal rights.</text>
       </section>
-      <section xmlns:ns172="https://open.law/schemas/cache" ns172:ref-path="attachments|law|II|211">
+      <section>
         <codify:insert path="2" renumber-paras="true"/>
         <num codify:value="16.05.230">211</num>
         <heading>Certificate of Correction</heading>
@@ -836,12 +836,12 @@
         <num codify:value="16.05.240">212</num>
         <heading>[Reserved]</heading>
       </section>
-      <section xmlns:ns191="https://open.law/schemas/cache" ns191:ref-path="attachments|law|II|213">
+      <section>
         <codify:insert path="2" renumber-paras="true"/>
         <num codify:value="16.05.250">213</num>
         <heading>[Reserved]</heading>
       </section>
-      <section xmlns:ns192="https://open.law/schemas/cache" ns192:ref-path="attachments|law|II|214">
+      <section>
         <codify:insert path="2" renumber-paras="true"/>
         <num codify:value="16.05.260">214</num>
         <heading>[Reserved]</heading>
@@ -861,7 +861,7 @@
       <prefix>Chapter</prefix>
       <num>III</num>
       <heading>Members</heading>
-      <section xmlns:ns151="https://open.law/schemas/cache" ns151:ref-path="attachments|law|III|301">
+      <section>
         <codify:insert path="3" renumber-paras="true"/>
         <num codify:value="16.05.290">301</num>
         <heading>Admission of Members</heading>
@@ -931,7 +931,7 @@
           <text>If a limited liability company agreement provides for the manner in which it may be amended, including by requiring the approval of a person who is not a party to the limited liability company agreement or the satisfaction of conditions, it may be amended only in that manner or as otherwise permitted by law (provided that the approval of any person may be waived by such person and that any such conditions may be waived by all persons for whose benefit such conditions were intended).</text>
         </para>
       </section>
-      <section xmlns:ns174="https://open.law/schemas/cache" ns174:ref-path="attachments|law|III|303">
+      <section>
         <codify:insert path="3" renumber-paras="true"/>
         <num codify:value="16.05.310">303</num>
         <heading>Liability to 3Rd Parties; No Waivers of Tribal Sovereign Immunity</heading>
@@ -943,7 +943,7 @@
           <num>(b)</num>
           <text>Notwithstanding the provisions of subsection (a) of <code-cite path="attachments|law|III|303">this section</code-cite>, under a limited liability company agreement or under another agreement, a member or manager may agree to be obligated personally for any or all of the debts, obligations and liabilities of the limited liability company.</text>
         </para>
-        <para xmlns:ns161="https://open.law/schemas/cache" ns161:ref-path="attachments|law|III|303|(c)">
+        <para>
           <num>(c)</num>
           <text>Notwithstanding any other provision contained in <code-cite path="|attachments|law">this ordinance</code-cite>:</text>
           <para>
@@ -960,7 +960,7 @@
           <text>Notwithstanding any other provision contained in <code-cite path="|attachments|law">this ordinance</code-cite>, limited liability companies may not dispose of, mortgage, or otherwise encumber real or personal property of the Tribe, except that such limited liability companies may grant a leasehold mortgage or other security interest in such limited liability companies' leasehold interest in any lease of real or personal property of the Tribe to such limited liability company.</text>
         </para>
       </section>
-      <section xmlns:ns149="https://open.law/schemas/cache" ns149:ref-path="attachments|law|III|304">
+      <section>
         <codify:insert path="3" renumber-paras="true"/>
         <num codify:value="16.05.320">304</num>
         <heading>Events of Bankruptcy</heading>
@@ -998,7 +998,7 @@
           <text>Unless otherwise provided in a limited liability company agreement, or with the written consent of all members, 120 days after the commencement of any proceeding against the member seeking reorganization, arrangement, composition, readjustment, liquidation, dissolution or similar relief under any statute, law or regulation, if the proceeding has not been dismissed, or if within 90 days after the appointment without the member's consent or acquiescence of a trustee, receiver or liquidator of the member or of all or any substantial part of the member's properties, the appointment is not vacated or stayed, or within 90 days after the expiration of any such stay, the appointment is not vacated.</text>
         </para>
       </section>
-      <section xmlns:ns175="https://open.law/schemas/cache" ns175:ref-path="attachments|law|III|305">
+      <section>
         <codify:insert path="3" renumber-paras="true"/>
         <num codify:value="16.05.330">305</num>
         <heading>Access to and Confidentiality of Information; Records</heading>
@@ -1150,7 +1150,7 @@
         <heading>Form of Contribution</heading>
         <text>The contribution of a member to a limited liability company may be in cash, property or services rendered, or a promissory note or other obligation to contribute cash or property or to perform services.</text>
       </section>
-      <section xmlns:ns179="https://open.law/schemas/cache" ns179:ref-path="attachments|law|V|502">
+      <section>
         <codify:insert path="5" renumber-paras="true"/>
         <num codify:value="16.05.430">502</num>
         <heading>Liability for Contribution</heading>
@@ -1162,7 +1162,7 @@
           <num>(b)</num>
           <text>Unless otherwise provided in a limited liability company agreement, the obligation of a member to make a contribution or return money or other property paid or distributed in violation of <code-cite path="|attachments|law">this Ordinance</code-cite> may be compromised only by consent of all the members. Notwithstanding the compromise, a creditor of a limited liability company who extends credit, after the entering into of a limited liability company agreement or an amendment thereto which, in either case, reflects the obligation, and before the amendment thereof to reflect the compromise, may enforce the original obligation to the extent that, in extending credit, the creditor reasonably relied on the obligation of a member to make a contribution or return. A conditional obligation of a member to make a contribution or return money or other property to a limited liability company may not be enforced unless the conditions of the obligation have been satisfied or waived as to or by such member. Conditional obligations include contributions payable upon a discretionary call of a limited liability company prior to the time the call occurs.</text>
         </para>
-        <para xmlns:ns176="https://open.law/schemas/cache" ns176:ref-path="attachments|law|V|502|(c)">
+        <para>
           <num>(c)</num>
           <text>A limited liability company agreement may provide that the interest of any member who fails to make any contribution that the member is obligated to make shall be subject to specified penalties for, or specified consequences of, such failure. Such penalty or consequence may take the form of reducing or eliminating the defaulting member's proportionate interest in a limited liability company, subordinating the member's limited liability company interest to that of nondefaulting members, a forced sale of that limited liability company interest, forfeiture of the defaulting member's limited liability company interest, the lending by other members of the amount necessary to meet the defaulting member's commitment, a fixing of the value of the defaulting member's limited liability company interest by appraisal or by formula and redemption or sale of the limited liability company interest at such value, or other penalty or consequence.</text>
         </para>
@@ -1190,13 +1190,13 @@
       <prefix>Chapter</prefix>
       <num>VI</num>
       <heading>Distributions and Resignation</heading>
-      <section xmlns:ns182="https://open.law/schemas/cache" ns182:ref-path="attachments|law|VI|601">
+      <section>
         <codify:insert path="6" renumber-paras="true"/>
         <num codify:value="16.05.470">601</num>
         <heading>Interim Distributions</heading>
         <text>Except as provided in this <span codify:value="Subchapter">Chapter</span>, to the extent and at the times or upon the happening of the events specified in a limited liability company agreement, a member is entitled to receive from a limited liability company distributions before the member's resignation from the limited liability company and before the dissolution and winding up thereof.</text>
       </section>
-      <section xmlns:ns177="https://open.law/schemas/cache" ns177:ref-path="attachments|law|VI|602">
+      <section>
         <codify:insert path="6" renumber-paras="true"/>
         <num codify:value="16.05.480">602</num>
         <heading>Resignation of Manager</heading>
@@ -1208,7 +1208,7 @@
         <heading>Resignation of Member</heading>
         <text>A member may resign from a limited liability company only at the time or upon the happening of events specified in a limited liability company agreement and in accordance with the limited liability company agreement. Notwithstanding anything to the contrary under applicable law, unless a limited liability company agreement provides otherwise, a member may not resign from a limited liability company prior to the dissolution and winding up of the limited liability company. Notwithstanding anything to the contrary under applicable law, a limited liability company agreement may provide that a limited liability company interest may not be assigned prior to the dissolution and winding up of the limited liability company.</text>
       </section>
-      <section xmlns:ns183="https://open.law/schemas/cache" ns183:ref-path="attachments|law|VI|604">
+      <section>
         <codify:insert path="6" renumber-paras="true"/>
         <num codify:value="16.05.500">604</num>
         <heading>Distribution upon Resignation</heading>
@@ -1226,7 +1226,7 @@
         <heading>Right to Distribution</heading>
         <text>Subject to <code-cite path="attachments|law|VI|607">§§ 607</code-cite> and <code-cite path="attachments|law|VIII|804">804</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>, and unless otherwise provided in a limited liability company agreement, at the time a member becomes entitled to receive a distribution, the member has the status of, and is entitled to all remedies available to, a creditor of a limited liability company with respect to the distribution. A limited liability company agreement may provide for the establishment of a record date with respect to allocations and distributions by a limited liability company.</text>
       </section>
-      <section xmlns:ns178="https://open.law/schemas/cache" ns178:ref-path="attachments|law|VI|607">
+      <section>
         <codify:insert path="6" renumber-paras="true"/>
         <num codify:value="16.05.530">607</num>
         <heading>Limitations on Distribution</heading>
@@ -1332,7 +1332,7 @@
         <codify:insert path="7" renumber-paras="true"/>
         <num codify:value="16.05.570">704</num>
         <heading>Right of Assignee to Become Member</heading>
-        <para xmlns:ns173="https://open.law/schemas/cache" ns173:ref-path="attachments|law|VII|704|(a)">
+        <para>
           <num>(a)</num>
           <text>An assignee of a limited liability company interest may become a member as provided in a limited liability company agreement and upon:</text>
           <para>
@@ -1371,19 +1371,19 @@
         <para>
           <num>(a)</num>
           <text>A limited liability company is dissolved and its affairs shall be wound up upon the first to occur of the following:</text>
-          <para xmlns:ns184="https://open.law/schemas/cache" ns184:ref-path="attachments|law|VIII|801|(a)|(1)">
+          <para>
             <num>(1)</num>
             <text>At the time specified in a limited liability company agreement, but if no such time is set forth in the limited liability company agreement, then the limited liability company shall have a perpetual existence;</text>
           </para>
-          <para xmlns:ns185="https://open.law/schemas/cache" ns185:ref-path="attachments|law|VIII|801|(a)|(2)">
+          <para>
             <num>(2)</num>
             <text>Upon the happening of events specified in a limited liability company agreement;</text>
           </para>
-          <para xmlns:ns186="https://open.law/schemas/cache" ns186:ref-path="attachments|law|VIII|801|(a)|(3)">
+          <para>
             <num>(3)</num>
             <text>Unless otherwise provided in a limited liability company agreement, upon the affirmative vote or written consent of the members of the limited liability company or, if there is more than 1 class or group of members, then by each class or group of members, in either case, by members who own more than two-thirds of the then-current percentage or other interest in the profits of the limited liability company owned by all of the members or by the members in each class or group, as appropriate;</text>
           </para>
-          <para xmlns:ns187="https://open.law/schemas/cache" ns187:ref-path="attachments|law|VIII|801|(a)|(4)">
+          <para>
             <num>(4)</num>
             <text>At any time there are no members; provided, that the limited liability company is not dissolved and is not required to be wound up if:</text>
             <para>
@@ -1405,13 +1405,13 @@
           <text>Unless otherwise provided in a limited liability company agreement, the death, retirement, resignation, expulsion, bankruptcy or dissolution of any member or the occurrence of any other event that terminates the continued membership of any member shall not cause the limited liability company to be dissolved or its affairs to be wound up, and upon the occurrence of any such event, the limited liability company shall be continued without dissolution.</text>
         </para>
       </section>
-      <section xmlns:ns180="https://open.law/schemas/cache" ns180:ref-path="attachments|law|VIII|802">
+      <section>
         <codify:insert path="8" renumber-paras="true"/>
         <num codify:value="16.05.600">802</num>
         <heading>Judicial Dissolution</heading>
         <text>On application by or for a member or manager the Tribal Court may decree dissolution of a limited liability company whenever it is not reasonably practicable to carry on the business in conformity with a limited liability company agreement.</text>
       </section>
-      <section xmlns:ns170="https://open.law/schemas/cache" ns170:ref-path="attachments|law|VIII|803">
+      <section>
         <codify:insert path="8" renumber-paras="true"/>
         <num codify:value="16.05.610">803</num>
         <heading>Winding up</heading>
@@ -1424,7 +1424,7 @@
           <text>Upon dissolution of a limited liability company and until the filing of a certificate of cancellation as provided in <code-cite path="attachments|law|II|203">§ 203</code-cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>, the persons winding up the limited liability company's affairs may, in the name of, and for and on behalf of, the limited liability company, prosecute and defend suits, whether civil, criminal or administrative, gradually settle and close the limited liability company's business, dispose of and convey the limited liability company's property, discharge or make reasonable provision for the limited liability company's liabilities, and distribute to the members any remaining assets of the limited liability company, all without affecting the liability of members and managers and without imposing liability on a liquidating trustee.</text>
         </para>
       </section>
-      <section xmlns:ns171="https://open.law/schemas/cache" ns171:ref-path="attachments|law|VIII|804">
+      <section>
         <codify:insert path="8" renumber-paras="true"/>
         <num codify:value="16.05.620">804</num>
         <heading>Distribution of Assets</heading>
@@ -1480,7 +1480,7 @@
         <heading>Trustees or Receivers for Limited Liability Companies; Appointment; Powers; Duties</heading>
         <text>When the certificate of formation of any limited liability company formed under <code-cite path="|attachments|law">this Ordinance</code-cite> shall be canceled by the filing of a certificate of cancellation pursuant to <code-cite path="attachments|law|II|203">§ 203</code-cite> of <code-cite path="|attachments|law">this title</code-cite>, the Tribal Court, on application of any creditor, member or manager of the limited liability company, or any other person who shows good cause therefor, at any time, may either appoint 1 or more of the managers of the limited liability company to be trustees, or appoint 1 or more persons to be receivers, of and for the limited liability company, to take charge of the limited liability company's property, and to collect the debts and property due and belonging to the limited liability company, with the power to prosecute and defend, in the name of the limited liability company, or otherwise, all such suits as may be necessary or proper for the purposes aforesaid, and to appoint an agent or agents under them, and to do all other acts which might be done by the limited liability company, if in being, that may be necessary for the final settlement of the unfinished business of the limited liability company. The powers of the trustees or receivers may be continued as long as the Tribal Court shall think necessary for the purposes aforesaid.</text>
       </section>
-      <section xmlns:ns188="https://open.law/schemas/cache" ns188:ref-path="attachments|law|VIII|806">
+      <section>
         <codify:insert path="8" renumber-paras="true"/>
         <num codify:value="16.05.640">806</num>
         <heading>Revocation of Dissolution</heading>
@@ -1583,30 +1583,30 @@
         <heading>Cases Not Provided for in <code-cite path="|attachments|law">This Ordinance</code-cite> and Persuasive Authority</heading>
         <text>In any case not provided for in <code-cite path="|attachments|law">this Ordinance</code-cite>, the rules of law and equity, including the law merchant, shall constitute persuasive authority, and with the laws of the Tribe, shall govern. <code-cite path="|attachments|law">This Ordinance</code-cite> is based in large part on the Limited Liability Act of the State of Delaware in effect on January 1, 2006, and the judicial construction of such law shall also constitute persuasive authority in the interpretation and application of <code-cite path="|attachments|law">this Ordinance</code-cite> by the Tribal Court.</text>
       </section>
-      <section xmlns:ns189="https://open.law/schemas/cache" ns189:ref-path="attachments|law|XI|1105">
+      <section>
         <codify:insert path="11" renumber-paras="true"/>
         <num codify:value="16.05.730">1105</num>
         <heading>Fees</heading>
         <para>
           <num>(a)</num>
           <text>No document required to be filed under <code-cite path="|attachments|law">this Ordinance</code-cite> shall be effective until the applicable fee required by <code-cite path="attachments|law|XI|1105">this section</code-cite> is paid. The following fees shall be paid to and collected by the Secretary for the use of the Tribe:</text>
-          <para xmlns:ns153="https://open.law/schemas/cache" ns153:ref-path="attachments|law|XI|1105|(a)|(1)">
+          <para>
             <num>(1)</num>
             <text>Upon the receipt for filing of an application for reservation of name, an application for renewal of reservation or a notice of transfer or cancellation of reservation pursuant to <code-cite path="attachments|law|I|103|(b)">§ 103(b)</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>, a fee in the amount of $75.</text>
           </para>
-          <para xmlns:ns154="https://open.law/schemas/cache" ns154:ref-path="attachments|law|XI|1105|(a)|(2)">
+          <para>
             <num>(2)</num>
             <text>Upon the receipt for filing of a certificate under <code-cite path="attachments|law|I|104|(b)">§ 104(b)</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>, a fee in the amount of $50, upon the receipt for filing of a certificate under <code-cite path="attachments|law|I|104|(c)">§ 104(c)</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>, a fee in the amount of $50 and a further fee of $2 for each limited liability company affected by such certificate, and upon the receipt for filing of a certificate under <code-cite path="attachments|law|I|104|(d)">§ 104(d)</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>, a fee in the amount of $2.50.</text>
           </para>
-          <para xmlns:ns165="https://open.law/schemas/cache" ns165:ref-path="attachments|law|XI|1105|(a)|(3)">
+          <para>
             <num>(3)</num>
             <text>Upon the receipt for filing of a certificate of limited liability company domestication under <code-cite path="attachments|law|II|201">§ 201</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>, a certificate of transfer or a certificate of transfer and continuance under <code-cite path="attachments|law|II|213">§ 213</code-cite> of <code-cite path="|attachments|law">this title</code-cite>, a certificate of conversion to limited liability company under <code-cite path="attachments|law|II|214">§ 214</code-cite> of <code-cite path="|attachments|law">this title</code-cite>, a certificate of formation under <code-cite path="attachments|law|II|201">§ 201</code-cite> of <code-cite path="|attachments|law">this title</code-cite>, a fee in the amount of $70; and upon the receipt for filing of a certificate of amendment under <code-cite path="attachments|law|II|202">§ 202</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>, a certificate of cancellation under <code-cite path="attachments|law|II|203">§ 203</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>, a certificate of merger or consolidation under <code-cite path="attachments|law|II|209">§ 209</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>, a restated certificate of formation under <code-cite path="attachments|law|II|208">§ 208</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>, a certificate of amendment of a certificate with a future effective date or time under <code-cite path="attachments|law|II|206|(c)">§ 206(c)</code-cite> of <code-cite path="|attachments|law">this title</code-cite>, a certificate of termination of a certificate with a future effective date or time under <code-cite path="attachments|law|II|206|(c)">§ 206(c)</code-cite> of <code-cite path="|attachments|law">this title</code-cite>, or a certificate of correction under <code-cite path="attachments|law|II|211">§ 211</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>, or a certificate of revival under <code-cite path="attachments|law|XI|1109">§ 1109</code-cite> of <code-cite path="|attachments|law">this ordinance</code-cite>, a fee in the amount of $80.</text>
           </para>
-          <para xmlns:ns166="https://open.law/schemas/cache" ns166:ref-path="attachments|law|XI|1105|(a)|(4)">
+          <para>
             <num>(4)</num>
             <text>For certifying copies of any paper on file as provided for by <code-cite path="|attachments|law">this Ordinance</code-cite>, a fee in the amount of $30 for each copy certified.</text>
           </para>
-          <para xmlns:ns167="https://open.law/schemas/cache" ns167:ref-path="attachments|law|XI|1105|(a)|(5)">
+          <para>
             <num>(5)</num>
             <text>The Secretary may issue photocopies or electronic image copies of instruments on file, as well as instruments, documents and other papers not on file, and for all such photocopies or electronic image copies, whether certified or not, a fee of $10 shall be paid for the 1st page and $2 for each additional page. The Secretary may also issue microfiche copies of instruments on file as well as instruments, documents and other papers not on file, and for each such microfiche a fee of $2 shall be paid therefor.</text>
           </para>
@@ -1681,7 +1681,7 @@
         <num codify:value="16.05.760">1108</num>
         <heading>[Reserved]</heading>
       </section>
-      <section xmlns:ns193="https://open.law/schemas/cache" ns193:ref-path="attachments|law|XI|1109">
+      <section>
         <codify:insert path="11" renumber-paras="true"/>
         <num codify:value="16.05.770">1109</num>
         <heading>Revival of Domestic Limited Liability Company</heading>

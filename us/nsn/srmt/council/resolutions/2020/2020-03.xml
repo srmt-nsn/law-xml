@@ -579,7 +579,7 @@
       <prefix>CHAPTER</prefix>
       <num>4</num>
       <heading>PRACTITIONER CERTIFICATION OF PATIENTS</heading>
-      <section xmlns:ns80="https://open.law/schemas/cache" ns80:ref-path="attachments|law|4|4.1">
+      <section>
         <codify:insert path="4" renumber-paras="true"/>
         <num codify:value="15.03.090">4.1</num>
         <heading>Issuing Certifications (Prescriptions) to Patients</heading>
@@ -614,7 +614,7 @@
             <num>7.</num>
             <text>The patient's name, date of birth, address, telephone number and email address if available;</text>
           </para>
-          <para ns80:ref-path="attachments|law|4|4.1|(a)|8.">
+          <para>
             <num>8.</num>
             <text>The patient's diagnosis, limited solely to the specific severe debilitating or life- threatening condition(s) listed below;</text>
             <para>
@@ -678,7 +678,7 @@
               <text>any other condition added by the Authority (based upon Advisory Board recommendation and Tribal Council approval).</text>
             </para>
           </para>
-          <para ns80:ref-path="attachments|law|4|4.1|(a)|9.">
+          <para>
             <num>9.</num>
             <text>The condition or symptom that is clinically associated with, or is a complication of the severe debilitating or life-threatening condition listed in Paragraph 8, above, of this Subsection. Clinically associated conditions, symptoms or complications are limited solely to:</text>
             <para>
@@ -868,7 +868,7 @@
           </para>
         </para>
       </section>
-      <section xmlns:ns81="https://open.law/schemas/cache" ns81:ref-path="attachments|law|5|5.4">
+      <section>
         <codify:insert path="5" renumber-paras="true"/>
         <num codify:value="15.03.130">5.4</num>
         <heading>Designated Caregiver Registration</heading>
@@ -938,7 +938,7 @@
       <prefix>CHAPTER</prefix>
       <num>6</num>
       <heading>REGISTERED ENTITIES</heading>
-      <section xmlns:ns82="https://open.law/schemas/cache" ns82:ref-path="attachments|law|6|6.1">
+      <section>
         <codify:insert path="6" renumber-paras="true"/>
         <num codify:value="15.03.140">6.1</num>
         <heading>Application for Initial Registration as a Registered Entity</heading>
@@ -1251,7 +1251,7 @@
           <text>Registrations are not transferable or assignable, including, without limitation, to another registered entity.</text>
         </para>
       </section>
-      <section xmlns:ns83="https://open.law/schemas/cache" ns83:ref-path="attachments|law|6|6.5">
+      <section>
         <codify:insert path="6" renumber-paras="true"/>
         <num codify:value="15.03.180">6.5</num>
         <heading>Failure to Operate</heading>
@@ -1264,7 +1264,7 @@
           <text>A registered entity who is required to surrender its registration in accordance with <code-cite path="attachments|law|6|6.5">this section</code-cite> shall not be entitled to any refund of fees paid to the Authority.</text>
         </para>
       </section>
-      <section xmlns:ns84="https://open.law/schemas/cache" ns84:ref-path="attachments|law|6|6.6">
+      <section>
         <codify:insert path="6" renumber-paras="true"/>
         <num codify:value="15.03.190">6.6</num>
         <heading>Registered Entities; General Requirements</heading>
@@ -2021,7 +2021,7 @@
       <prefix>CHAPTER</prefix>
       <num>9</num>
       <heading>SECURITY REQUIREMENTS FOR MANUFACTURING AND DISPENSING FACILITIES</heading>
-      <section xmlns:ns85="https://open.law/schemas/cache" ns85:ref-path="attachments|law|9|9.1">
+      <section>
         <codify:insert path="9" renumber-paras="true"/>
         <num codify:value="15.03.320">9.1</num>
         <heading>General Requirements</heading>
@@ -2082,7 +2082,7 @@
           <text>A registered entity shall ensure that any manufacturing facility and dispensing facility maintains all security system equipment and recordings in a secure location so as to prevent theft, loss, destruction or alterations.</text>
         </para>
       </section>
-      <section xmlns:ns86="https://open.law/schemas/cache" ns86:ref-path="attachments|law|9|9.2">
+      <section>
         <codify:insert path="9" renumber-paras="true"/>
         <num codify:value="15.03.330">9.2</num>
         <heading>Additional Security Requirements</heading>
@@ -2257,7 +2257,7 @@
           <text>Any other analyte as required by the Authority</text>
         </para>
       </section>
-      <section xmlns:ns87="https://open.law/schemas/cache" ns87:ref-path="attachments|law|10|10.3">
+      <section>
         <codify:insert path="10" renumber-paras="true"/>
         <num codify:value="15.03.380">10.3</num>
         <heading>Final Product/Stability Testing</heading>
@@ -2299,7 +2299,7 @@
       <prefix>CHAPTER</prefix>
       <num>11</num>
       <heading>PRICING</heading>
-      <section xmlns:ns88="https://open.law/schemas/cache" ns88:ref-path="attachments|law|11|11.1"><codify:insert path="11" renumber-paras="true"/>&gt;
+      <section><codify:insert path="11" renumber-paras="true"/>&gt;
         <num codify:value="15.03.390">11.1</num><heading>Definitions</heading><para><num>(a)</num><text>For purposes of <code-cite path="attachments|law|11|11.1">this section</code-cite>, the following terms have the following meanings:</text><para><num>1.</num><text>"Cost analysis" shall mean the review and evaluation of the separate cost elements and profit of a proposed price and the application of judgment to determine how well the proposed costs represent what the price per unit for approved medical marijuana products should be, assuming reasonable economy and efficiency.</text></para><para><num>2.</num><text>"Price" shall mean the cost to manufacture, market and distribute approved medical marijuana products plus a reasonable profit.</text></para></para></section>
       <section>
         <codify:insert path="11" renumber-paras="true"/>
@@ -2551,7 +2551,7 @@
           <text>No advertisement may be disseminated if the submitter of the advertisement has received information that has not been widely publicized in medical literature that the use of any approved medical marijuana product may cause fatalities or serious damage to a patient.</text>
         </para>
       </section>
-      <section xmlns:ns89="https://open.law/schemas/cache" ns89:ref-path="attachments|law|12|12.5">
+      <section>
         <codify:insert path="12" renumber-paras="true"/>
         <num codify:value="15.03.480">12.5</num>
         <heading>Other Requirements</heading>
@@ -2585,7 +2585,7 @@
       <prefix>CHAPTER</prefix>
       <num>13</num>
       <heading>REPORTING DISPENSED MEDICAL MARIJUANA PRODUCTS</heading>
-      <section xmlns:ns90="https://open.law/schemas/cache" ns90:ref-path="attachments|law|13|13.1">
+      <section>
         <codify:insert path="13" renumber-paras="true"/>
         <num codify:value="15.03.490">13.1</num>
         <heading>General Requirements</heading>

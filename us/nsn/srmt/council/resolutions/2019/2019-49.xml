@@ -415,7 +415,7 @@
           </para>
         </para>
       </para>
-      <para xmlns:ns95="https://open.law/schemas/cache" ns95:ref-path="attachments|law|II|C.">
+      <para>
         <num>C.</num>
         <text>
           <strong>Service</strong>
@@ -441,7 +441,7 @@
           <text>If the SRMT-CSEU was not the party filing the Summons and Petition, the Clerk of the SRMT Court shall provide a copy of the filed documents to the SRMT-CSEU.</text>
         </para>
       </para>
-      <para xmlns:ns94="https://open.law/schemas/cache" ns94:ref-path="attachments|law|II|D.">
+      <para>
         <num>D.</num>
         <text>
           <strong>Default Judgments</strong>
@@ -526,7 +526,7 @@
             </para>
           </para>
         </para>
-        <para xmlns:ns92="https://open.law/schemas/cache" ns92:ref-path="attachments|law|III|A.|3.">
+        <para>
           <num>3.</num>
           <text>When child support is requested in a petition, the SRMT-CSEU shall prepare a Child Support Worksheet for the parties using the guidelines in <code-cite path="|attachments|law">this Act</code-cite> and the information presented by each party in the Financial Disclosure Form. The Worksheet will provide calculations on the amount of child support that may be requested by the petitioner. All information collected during the mediation shall be kept confidential.</text>
         </para>
@@ -551,7 +551,7 @@
         <annotation type="History">Res. No. 2016-92</annotation>
       </annotations>
     </section>
-    <section xmlns:ns91="https://open.law/schemas/cache" ns91:ref-path="attachments|law|IV">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="11.03.040">IV</num>
       <heading>Paternity</heading>
@@ -793,7 +793,7 @@
         <annotation type="History">Res. No. 2016-92</annotation>
       </annotations>
     </section>
-    <section xmlns:ns93="https://open.law/schemas/cache" ns93:ref-path="attachments|law|V">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="11.03.050">V</num>
       <heading>Establishment of Child Support</heading>
@@ -1096,7 +1096,7 @@
             <text>A referral to any program the Court deems just and proper.</text>
           </para>
         </para>
-        <para ns93:ref-path="attachments|law|V|F.|4.">
+        <para>
           <num>4.</num>
           <text><u>Deviation</u>. There is a rebuttable presumption that the worksheet calculations are correct to support the requested award of child support. However, the Tribal Court has discretion to deviate from the child support calculation based on substantial evidence that the calculation would be harmful to the parent. If the Court decides to deviate from the calculations, the Court shall state in a written order the amount that would have been ordered had the guidelines been followed and the Court must justify such deviation. The Court may only rely on one or more of the following reason(s):</text>
           <para>
@@ -1299,7 +1299,7 @@
         <annotation type="History">Res. No. 2016-92</annotation>
       </annotations>
     </section>
-    <section xmlns:ns96="https://open.law/schemas/cache" ns96:ref-path="attachments|law|VI">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="11.03.060">VI</num>
       <heading>Foreign Orders</heading>

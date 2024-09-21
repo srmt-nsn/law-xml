@@ -189,7 +189,7 @@
         </para>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-58"/>
       </section>
-      <section xmlns:ns3="https://open.law/schemas/cache" ns3:ref-path="attachments|law|2|02.030">
+      <section>
         <codify:insert renumber-paras="true"/>
         <num codify:value="11.02.030">02.030</num>
         <heading>Tribal Court Jurisdiction</heading>
@@ -267,7 +267,7 @@
             <num>1.</num>
             <text>require any party to provide additional information under oath as required by the Tribal Court, including without limitation, on matters pertinent to the jurisdiction and disposition of the case;</text>
           </para>
-          <para xmlns:ns15="https://open.law/schemas/cache" ns15:ref-path="attachments|law|2|02.040|A.|2.">
+          <para>
             <num>2.</num>
             <text>upon its discretion appoint a lawyer for a litigant or interested party in a custody or divorce matter pending before the Court;</text>
           </para>
@@ -275,7 +275,7 @@
             <num>3.</num>
             <text>appoint a lawyer for the child if the Court determines it is necessary;</text>
           </para>
-          <para xmlns:ns16="https://open.law/schemas/cache" ns16:ref-path="attachments|law|2|02.040|A.|4.">
+          <para>
             <num>4.</num>
             <text>appoint a guardian ad litem to represent a child if, at any time in a divorce or custody proceeding, the Court determines that the best Interests of the child are inadequately represented and may order the parties to bear the cost of the guardian ad litem. The guardian ad litem may file a written report and recommendation with the Tribal Court which:</text>
             <para>
@@ -329,7 +329,7 @@
             <num>5.</num>
             <text>both must not currently be married or otherwise in a civil union relationship that provides substantially the same rights, benefits and responsibilities as a marriage;</text>
           </para>
-          <para xmlns:ns1="https://open.law/schemas/cache" ns1:ref-path="attachments|law|2|02.050|A.|6.">
+          <para>
             <num>6.</num>
             <text>they must not be related to the proposed spouse within the fourth degree of consanguinity which is first cousins or closer; and</text>
           </para>
@@ -479,7 +479,7 @@
             <text>A statement that the fully executed marriage license must be filed with the Tribal Court within ten (10) days from the date of the solemnization of the marriage.</text>
           </para>
         </para>
-        <para xmlns:ns2="https://open.law/schemas/cache" ns2:ref-path="attachments|law|2|02.090|B.">
+        <para>
           <num>B.</num>
           <text>A marriage license shall be valid for thirty (30) days from the date of issuance by the Tribal Court.</text>
         </para>
@@ -604,7 +604,7 @@
             <num>2.</num>
             <text>the basis for jurisdiction under <code-cite path="attachments|law|2|02.030">Section 02.030</code-cite>;</text>
           </para>
-          <para xmlns:ns8="https://open.law/schemas/cache" ns8:ref-path="attachments|law|2|02.120|D.|3.">
+          <para>
             <num>3.</num>
             <text>whether the divorce will be contested or uncontested;</text>
           </para>
@@ -747,7 +747,7 @@
         </para>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-58"/>
       </section>
-      <section xmlns:ns4="https://open.law/schemas/cache" ns4:ref-path="attachments|law|2|02.130">
+      <section>
         <codify:insert renumber-paras="true"/>
         <num codify:value="11.02.130">02.130</num>
         <heading>Summons and Service</heading>
@@ -765,11 +765,11 @@
         </para>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-58"/>
       </section>
-      <section xmlns:ns7="https://open.law/schemas/cache" ns7:ref-path="attachments|law|2|02.140">
+      <section>
         <codify:insert renumber-paras="true"/>
         <num codify:value="11.02.140">02.140</num>
         <heading>Answer</heading>
-        <para xmlns:ns5="https://open.law/schemas/cache" ns5:ref-path="attachments|law|2|02.140|A.">
+        <para>
           <num>A.</num>
           <text>The Respondent shall file an answer, except if the divorce is uncontested, with the Tribal Court, or take other action permitted by Tribal law or Tribal Court rules, within twenty (20) calendar days after being served with the summons and a copy of the Petition.  In an uncontested divorce, no answer is required unless the Court issues a notice to appear pursuant to <code-cite path="attachments|law|2|02.130">Subsection 02.130</code-cite>.</text>
         </para>
@@ -857,7 +857,7 @@
         </para>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-58"/>
       </section>
-      <section xmlns:ns6="https://open.law/schemas/cache" ns6:ref-path="attachments|law|2|02.180">
+      <section>
         <codify:insert renumber-paras="true"/>
         <num codify:value="11.02.180">02.180</num>
         <heading>Hearing on Petition</heading>
@@ -998,7 +998,7 @@
         </para>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-58"/>
       </section>
-      <section xmlns:ns9="https://open.law/schemas/cache" ns9:ref-path="attachments|law|2|02.270">
+      <section>
         <codify:insert renumber-paras="true"/>
         <num codify:value="11.02.270">02.270</num>
         <heading>Spousal Maintenance</heading>
@@ -1068,7 +1068,7 @@
         </para>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-58"/>
       </section>
-      <section xmlns:ns10="https://open.law/schemas/cache" ns10:ref-path="attachments|law|2|02.280">
+      <section>
         <codify:insert renumber-paras="true"/>
         <num codify:value="11.02.280">02.280</num>
         <heading>Termination of Spousal Maintenance</heading>
@@ -1114,7 +1114,7 @@
         </para>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-58"/>
       </section>
-      <section xmlns:ns0="https://open.law/schemas/cache" ns0:ref-path="attachments|law|2|02.305">
+      <section>
         <codify:insert renumber-paras="true"/>
         <num codify:value="11.02.305">02.305</num>
         <heading>Saint Regis Mohawk Tribe Uniform Child Custody Jurisdiction Enforcement Act</heading>
@@ -1427,11 +1427,11 @@
         </para>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-58"/>
       </section>
-      <section xmlns:ns11="https://open.law/schemas/cache" ns11:ref-path="attachments|law|2|02.320">
+      <section>
         <codify:insert renumber-paras="true"/>
         <num codify:value="11.02.320">02.320</num>
         <heading>Petition for Child Custody</heading>
-        <para ns11:ref-path="attachments|law|2|02.320|A.">
+        <para>
           <num>A.</num>
           <text>For an action involving children and no divorce, except as otherwise provided below in B, the party seeking relief must attach a verified statement to the petition, stating:</text>
           <para>
@@ -1628,7 +1628,7 @@
         </para>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-58"/>
       </section>
-      <section xmlns:ns12="https://open.law/schemas/cache" ns12:ref-path="attachments|law|2|02.360">
+      <section>
         <codify:insert renumber-paras="true"/>
         <num codify:value="11.02.360">02.360</num>
         <heading>Parenting Time</heading>
@@ -1738,11 +1738,11 @@
         </para>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-58"/>
       </section>
-      <section xmlns:ns13="https://open.law/schemas/cache" ns13:ref-path="attachments|law|2|02.370">
+      <section>
         <codify:insert renumber-paras="true"/>
         <num codify:value="11.02.370">02.370</num>
         <heading>Change in Residence</heading>
-        <para ns13:ref-path="attachments|law|2|02.370|A.">
+        <para>
           <num>A.</num>
           <text>Any child whose custody is governed by Tribal Court and provides for joint custody has, for the purposes of <code-cite path="attachments|law|2|02.370">this Section</code-cite>, a legal residence with each parent.  Except as otherwise provided in <code-cite path="attachments|law|2|02.370">this Section</code-cite>, a parent of any child whose custody is governed by Tribal Court order and provides for joint custody shall not change a legal residence of the child to a location that is more than one-hundred (100) miles from the child's legal residence at the time of the order.</text>
         </para>
@@ -1800,7 +1800,7 @@
         </para>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-58"/>
       </section>
-      <section xmlns:ns14="https://open.law/schemas/cache" ns14:ref-path="attachments|law|2|02.380">
+      <section>
         <codify:insert renumber-paras="true"/>
         <num codify:value="11.02.380">02.380</num>
         <heading>Amendment of Custody Order or Judgment of Divorce Involving Children</heading>

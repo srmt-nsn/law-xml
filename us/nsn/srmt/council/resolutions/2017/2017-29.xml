@@ -154,7 +154,7 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="5.01.030">III.</num>
       <heading codify:value="Enforcement and Penalties">ENFORCEMENT AND PENALTIES</heading>
-      <para xmlns:ns105="https://open.law/schemas/cache" ns105:ref-path="attachments|law|III.|A.">
+      <para>
         <num>A.</num>
         <heading>Notice of Violation</heading>
         <para>
@@ -194,7 +194,7 @@
           <text>In the event that the Tribe and alleged violator fail to agree on the terms of, and execute, an Administrative Consent Order, the alleged violator may request a Tribal Court hearing concerning the alleged violation(s).</text>
         </para>
       </para>
-      <para xmlns:ns104="https://open.law/schemas/cache" ns104:ref-path="attachments|law|III.|C.">
+      <para>
         <num>C.</num>
         <heading>Unilateral Administrative Order</heading>
         <para>
@@ -228,7 +228,7 @@
       </para>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
     </section>
-    <section xmlns:ns103="https://open.law/schemas/cache" ns103:ref-path="attachments|law|IV.">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="5.01.040">IV.</num>
       <heading codify:value="Emergency Abatement Order">EMERGENCY ABATEMENT ORDER</heading>

@@ -90,7 +90,7 @@
       <text><code-cite path="|attachments|law">This Ordinance</code-cite> shall be known as the Amended Animal Control Ordinance.</text>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2009-51"/>
     </section>
-    <section xmlns:ns21="https://open.law/schemas/cache" ns21:ref-path="attachments|law|2">
+    <section>
       <codify:insert/>
       <num codify:value="3.03.020">2</num>
       <heading>Definitions</heading>
@@ -175,7 +175,7 @@
       <text><strong>Wildlife sanctuary</strong> means an area specially designated for the protection of wildlife and wherein it is illegal to interfere in anyway with the natural habitat.</text>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2009-51"/>
     </section>
-    <section xmlns:ns18="https://open.law/schemas/cache" ns18:ref-path="attachments|law|3">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.03.030">3</num>
       <heading>Owner Responsibilities and Offenses</heading>
@@ -233,7 +233,7 @@
       </para>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2009-51"/>
     </section>
-    <section xmlns:ns17="https://open.law/schemas/cache" ns17:ref-path="attachments|law|4">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.03.040">4</num>
       <heading>Exemption</heading>
@@ -252,7 +252,7 @@
         <num>B.</num>
         <text>If the Summons and Notice is for a determination that a dog is "dangerous" the Animal Control Officer shall have the burden to demonstrate the dog is "dangerous" by a preponderance of the evidence. The Animal Control Officer can meet this burden with eyewitness statements, sworn testimony or any other evidence. The evidence does not need to be competent or meet other evidentiary standards, but can be hearsay. Once the Animal Control Officer has met the burden it shifts to the Owner to demonstrate by clear and convincing evidence that the dog is not "dangerous". If a dog has caused Serious Physical Injury then the Animal Control Officer shall file documentation such as medical reports, photographs, or police reports showing Serious Physical Injury and the Owner shall need to rebut the presumption that the dog is "dangerous". The Tribal Court shall then make a written determination whether (1) the dog is "dangerous"; (2) the dog is to be destroyed, if not to be destroyed then the conditions the Owner must abide for ownership; and (3) a fine should be assessed to the Owner.</text>
       </para>
-      <para xmlns:ns23="https://open.law/schemas/cache" ns23:ref-path="attachments|law|5|C.">
+      <para>
         <num>C.</num>
         <text>Once a there is a judicial determination that a dog is dangerous and there has been Serious Physical Injury, the victim may sue the Owner to recover in a separate action for any medical expenses for which the injured party cannot recover from another source and for any veterinarian expenses an Owner's animal may have suffered.</text>
       </para>
@@ -264,7 +264,7 @@
         <num>E.</num>
         <text>The Owner shall pay any applicable fine within 30 days from the date the fine was issued in full satisfaction of the violation.</text>
       </para>
-      <para xmlns:ns19="https://open.law/schemas/cache" ns19:ref-path="attachments|law|5|F.">
+      <para>
         <num>F.</num>
         <text>The fine for a violation of <code-cite path="|attachments|law">this Ordinance</code-cite> shall be $50.00 for a first offense and up to $500.00 for each subsequent offense except as otherwise outlined in <code-cite path="|attachments|law">this Ordinance</code-cite> in <code-cite path="attachments|law|12">Section 12</code-cite>.</text>
       </para>
@@ -391,7 +391,7 @@
       </para>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2009-51"/>
     </section>
-    <section xmlns:ns20="https://open.law/schemas/cache" ns20:ref-path="attachments|law|12">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.03.120">12</num>
       <heading>Wild or Exotic Animals</heading>
@@ -421,7 +421,7 @@
       </para>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2009-51"/>
     </section>
-    <section xmlns:ns22="https://open.law/schemas/cache" ns22:ref-path="attachments|law|13">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.03.130">13</num>
       <heading>Interference</heading>

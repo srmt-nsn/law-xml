@@ -276,7 +276,7 @@
         </para>
         <annotation type="History">Res. No. 2017-52</annotation>
       </section>
-      <section xmlns:ns59="https://open.law/schemas/cache" ns59:ref-path="attachments|law|1|1.5">
+      <section>
         <codify:insert path="1"/>
         <num codify:value="12.02.050">1.5</num>
         <heading>False Statements and Fraud</heading>
@@ -435,7 +435,7 @@
         </para>
         <annotation type="History">Res. No. 2017-52</annotation>
       </section>
-      <section xmlns:ns61="https://open.law/schemas/cache" ns61:ref-path="attachments|law|2|2.2">
+      <section>
         <codify:insert path="2"/>
         <num codify:value="12.02.090">2.2</num>
         <heading>Evidence as to Death</heading>
@@ -612,7 +612,7 @@
         </para>
         <annotation type="History">Res. No. 2017-52</annotation>
       </section>
-      <section xmlns:ns65="https://open.law/schemas/cache" ns65:ref-path="attachments|law|3|3.4">
+      <section>
         <codify:insert path="3"/>
         <num codify:value="12.02.130">3.4</num>
         <heading>Appointment of Administrator</heading>
@@ -654,7 +654,7 @@
           <num>(a)</num>
           <text><u>Order</u>. Once the Administrator takes the oath, the Tribal Court shall issue an Order of Appointment to the Administrator as proof of the appointment. Within seven (7) days, the Administrator shall provide a copy of the Order to the Tribal Clerk to be recorded either by delivering it in person or by certified mail.</text>
         </para>
-        <para xmlns:ns60="https://open.law/schemas/cache" ns60:ref-path="attachments|law|3|3.5|(b)">
+        <para>
           <num>(b)</num>
           <text><u>Record of Order</u>. The Tribal Clerk shall record the Order of Appointment as Administrator in the Tribal Recording Book, including a copy of the Order in the records. The Tribal Clerk shall note the Tribal Recording book number and page number on a copy of the Order and return it to the Administrator for his/her records.</text>
         </para>
@@ -851,7 +851,7 @@
             <text>Interested Party. A Will or any provision thereof is not invalid because the Will is signed by a party with an interest in the Will, so long as the Will is also signed by two other disinterested witnesses. An "Interested Witness" means any of the following: (A) an heir; (B) a beneficiary; (C) a person named as Executor; or (D) a person named as Executor in the Will of the deceased.</text>
           </para>
         </para>
-        <para xmlns:ns64="https://open.law/schemas/cache" ns64:ref-path="attachments|law|4|4.1|(e)">
+        <para>
           <num>(e)</num>
           <text>
             <u>Self-Proved Will.</u>
@@ -1074,7 +1074,7 @@
           <num>(b)</num>
           <text><u>Uncontested Will</u>. If, after thirty (30) days, no objections have been filed, the Court may consider the Will to be uncontested, and may proceed based on the petition and supporting documents or evidence.</text>
         </para>
-        <para xmlns:ns66="https://open.law/schemas/cache" ns66:ref-path="attachments|law|4|4.5|(c)">
+        <para>
           <num>(c)</num>
           <text><u>Contested Will</u>. In order to contest a Will, an interested party must file an objection in writing setting forth the basis of the objections. Anyone objecting to a Will shall have the burden of proof. The Petitioner or any other interested party shall have twenty (20) days to file a reply to the objections. The Tribal Court shall take no further action with respect to the probate of the estate until a hearing has been held on any objections, such hearing to be held within thirty (30) days of the last pleadings filed.</text>
         </para>
@@ -1208,7 +1208,7 @@
             </para>
           </para>
         </para>
-        <para xmlns:ns63="https://open.law/schemas/cache" ns63:ref-path="attachments|law|4|4.8|(d)">
+        <para>
           <num>(d)</num>
           <text>
             <u>Insufficient Estate and Reduction of Shares.</u>
@@ -1274,7 +1274,7 @@
       <prefix>CHAPTER</prefix>
       <num>5</num>
       <heading>STATUS OF NON-MEMBER OR NON-INDIAN</heading>
-      <section xmlns:ns62="https://open.law/schemas/cache" ns62:ref-path="attachments|law|5|5.1">
+      <section>
         <codify:insert path="5"/>
         <num codify:value="12.02.240">5.1</num>
         <heading>Tribal Council Action</heading>

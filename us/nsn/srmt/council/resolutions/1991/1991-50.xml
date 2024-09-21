@@ -171,7 +171,7 @@
         <heading>Tribal Permit Approval Process</heading>
         <text>In determining whether a permit shall be issued, the St. Regis Mohawk Tribal Council shall take into consideration ownership of the property, location of the place of business, any applicable environmental and safety consideration, and the financial stability and experience of the applicant. The applicant shall be both the owner and the operator of the business. The St. Regis Mohawk Tribal Council shall limit the number of Tribal Permits and locations in the manner to adequately service the area and their determination as to whether or not a Tribal Permit shall be issued is final.</text>
       </section>
-      <section xmlns:ns200="https://open.law/schemas/cache" ns200:ref-path="attachments|law|IV|7">
+      <section>
         <codify:insert renumber-paras="true"/>
         <num codify:value="4.06.100">7</num>
         <heading>Tribal Permit Reporting</heading>
@@ -231,7 +231,7 @@
         <heading>Effective Date</heading>
         <text><code-cite path="|attachments|law">This ordinance</code-cite> shall be effective upon it passage and approval. Any and all prior ordinances, resolutions, regulations or other form of control of the St. Regis Mohawk Tribe of the State of New York whether written or unwritten, which authorize, prohibit, or deal with the transport, handling, storage or sale of gasoline and other petroleum products are hereby repealed and have no further force or effort. No Tribal ordinance or regulation shall be applied in a manner inconsistent with the provisions of <code-cite path="|attachments|law">this ordinance</code-cite>.</text>
       </section>
-      <section xmlns:ns201="https://open.law/schemas/cache" ns201:ref-path="attachments|law|IV|17">
+      <section>
         <codify:insert renumber-paras="true"/>
         <num codify:value="4.06.200">17</num>
         <heading>Enforcement</heading>

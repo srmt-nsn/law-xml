@@ -632,7 +632,7 @@
         <text>Person whose presence is essential to the presentation of a party's cause.</text>
       </para>
     </section>
-    <section xmlns:ns138="https://open.law/schemas/cache" ns138:ref-path="attachments|law|XXXVIII">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.04.380">XXXVIII</num>
       <heading>[Rule 35] Hearsay: Definitions</heading>
@@ -664,7 +664,7 @@
       <heading>[Rule 36] Inadmissible</heading>
       <text>Hearsay is not admissible except as provided by these Rules.</text>
     </section>
-    <section xmlns:ns137="https://open.law/schemas/cache" ns137:ref-path="attachments|law|XL">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.04.400">XL</num>
       <heading>[Rule 37] Statements Which Are Not Hearsay</heading>
@@ -822,7 +822,7 @@
         <text>Helpful to a clear understanding of the witness; testimony or a determination of a fact in issue.</text>
       </para>
     </section>
-    <section xmlns:ns136="https://open.law/schemas/cache" ns136:ref-path="attachments|law|XLVI">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.04.460">XLVI</num>
       <heading>[Rule 43] Testimony by Experts</heading>

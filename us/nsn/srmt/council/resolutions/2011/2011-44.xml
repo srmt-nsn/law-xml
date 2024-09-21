@@ -239,7 +239,7 @@
         <text>To do all other things necessary and convenient to carry out its functions, powers and duties expressly set forth in this article.</text>
       </para>
     </section>
-    <section xmlns:ns123="https://open.law/schemas/cache" ns123:ref-path="attachments|law|VI">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.07.060">VI</num>
       <heading>Complaint; Investigation; Hearing and Disposition</heading>
@@ -297,7 +297,7 @@
         <text>The Commission shall notify the complainant of its disposition of the complaint.</text>
       </para>
     </section>
-    <section xmlns:ns124="https://open.law/schemas/cache" ns124:ref-path="attachments|law|VII">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.07.070">VII</num>
       <heading>Confidentiality of Records</heading>

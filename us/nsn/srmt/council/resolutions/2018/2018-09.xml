@@ -122,7 +122,7 @@
         <num>2.</num>
         <text>Motor Vehicle: any vehicle propelled by the use of an internal combustible engine, electricity or motor vehicle fuel.</text>
       </para>
-      <para xmlns:ns102="https://open.law/schemas/cache" ns102:ref-path="attachments|law|II|3.">
+      <para>
         <num>3.</num>
         <text>Official Traffic-Control Devices: all signs, signals, markings and devices placed or erected by authority of a public body or official with the responsibility to regulate, warn or guide traffic.</text>
       </para>
@@ -142,26 +142,26 @@
         <annotation type="History">Res. No. 2012-15</annotation>
       </annotations>
     </section>
-    <section xmlns:ns100="https://open.law/schemas/cache" ns100:ref-path="attachments|law|III">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.01.030">III</num>
       <heading>Offenses</heading>
       <text>The following acts engaged in by an operator of a motor vehicle shall constitute a violation of <code-cite path="|attachments|law">this Act</code-cite>:</text>
-      <para xmlns:ns97="https://open.law/schemas/cache" ns97:ref-path="attachments|law|III|1.">
+      <para>
         <num>1.</num>
         <text>
           <u>FAILURE TO OBEY A TRAFFIC CONTROL DEVICE</u>
         </text>
         <text>It shall be a violation of <code-cite path="|attachments|law">this Act</code-cite> for the operator of a motor vehicle to fail to operate his/her vehicle in accordance with a traffic control device, a posted traffic control sign, within designated and discernable highway markings, or any other traffic control mechanism.</text>
       </para>
-      <para xmlns:ns98="https://open.law/schemas/cache" ns98:ref-path="attachments|law|III|2.">
+      <para>
         <num>2.</num>
         <text>
           <u>FAILURE TO USE OR WEAR SEATBELT OR APPROVED CHILD RESTRAINT DEVICE</u>
         </text>
         <text>It shall be a violation of <code-cite path="|attachments|law">this Act</code-cite> for the operator of a motor vehicle to operate the vehicle without himself or herself and all passengers in the vehicle being secured by appropriate seatbelts, shoulder harnesses or approved child safety restraint systems for children until they reach the age of four (4). No person shall operate a motor vehicle unless all children between the ages of (4) and eight (8) years of age or measuring four feet nine inches (4'9") or less and weighing less than eighty (80) pounds are restrained in a booster seat or other appropriate child safety device that meets applicable Federal Motor Vehicle Safety Standards. Booster seats must be used appropriately with either the latch system or combination lap and shoulder safety belt.</text>
       </para>
-      <para xmlns:ns99="https://open.law/schemas/cache" ns99:ref-path="attachments|law|III|3.">
+      <para>
         <num>3.</num>
         <text>
           <u>DISTRACTED DRIVING</u>
@@ -233,7 +233,7 @@
           <num>(f)</num>
           <text><u>Littering</u>. No operator of a motor vehicle shall throw, dump, deposit or place, or cause to be thrown, dumped, deposited or placed upon any public roadway, or within the limits of the right of way of such roadway, or upon private lands adjacent thereto, any refuse, trash, garbage, rubbish, litter or any nauseous or offensive matter nor shall the operator of a motor vehicle permit anyone within his/her vehicle to do the same.</text>
         </para>
-        <para ns100:ref-path="attachments|law|III|5.|(g)">
+        <para>
           <num>(g)</num>
           <text><u>No driving on shoulder</u>. Except for bicycles and those classes of vehicles required to travel on shoulders, no motor vehicle shall be driven over, across, along, or within any shoulder of any state controlled-access highway except at a location specifically authorized and posted by the Tribe. The foregoing limitation shall not prevent motor vehicles from using shoulders when directed by police officers, flag persons or other emergency responders.</text>
         </para>
@@ -301,7 +301,7 @@
         <annotation type="History">Res. No. 2012-15</annotation>
       </annotations>
     </section>
-    <section xmlns:ns101="https://open.law/schemas/cache" ns101:ref-path="attachments|law|IV">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="3.01.040">IV</num>
       <heading>Off-Road Vehicles</heading>
@@ -309,7 +309,7 @@
         <num>1.</num>
         <text><u>Usage</u>. The operation and operator of an ORV shall be based upon the manufacturer's recommendation.</text>
       </para>
-      <para ns101:ref-path="attachments|law|IV|2.">
+      <para>
         <num>2.</num>
         <text><u>Who must register</u>. ORVs, regardless of purpose, may be operated on the Saint Regis Mohawk Reservation only if the ORV has been registered with the Saint Regis Mohawk Tribe's Compliance Department as outlined herein or if it has been registered and insured with a recognized sovereign government that the Tribe recognizes.</text>
       </para>

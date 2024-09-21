@@ -126,7 +126,7 @@
       <heading>Suspension of Rules</heading>
       <text>Except as provided in <code-cite path="attachments|law|VI">Section 6</code-cite>, Rule 4(b), the Appellate Court may, upon motion for good cause shown, suspend the requirements or provision of any of these Rules in a particular case, and may order proceedings accordingly within its discretion. These Rules shall be liberally construed in the furtherance of justice.</text>
     </section>
-    <section xmlns:ns127="https://open.law/schemas/cache" ns127:ref-path="attachments|law|V">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.05.050">V</num>
       <heading>[Rule 3] Filing and Service</heading>
@@ -151,7 +151,7 @@
         <text>Attorneys or guardians ad litem in the Court or at the administrative hearing will be deemed attorneys and guardians ad litem of the same parties in the Appellate Court until a substitution is made or there has been an appropriate withdrawal. Service of notices, briefs and all paper shall be made, when appropriate under these Rules, on such attorneys or guardians ad litem until a substitution is made and notice given to all other parties.</text>
       </para>
     </section>
-    <section xmlns:ns125="https://open.law/schemas/cache" ns125:ref-path="attachments|law|VI">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.05.060">VI</num>
       <heading>[Rule 4] Computation, Shortening or Extension of Time</heading>
@@ -205,7 +205,7 @@
         <text>Motions shall be considered and decided without oral argument unless otherwise ordered.</text>
       </para>
     </section>
-    <section xmlns:ns128="https://open.law/schemas/cache" ns128:ref-path="attachments|law|VIII">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.05.080">VIII</num>
       <heading>[Rule 6] How Appeals Are to Be Taken</heading>
@@ -235,7 +235,7 @@
         <text>The appellant shall file a copy of the Notice of Appeal with the Tribal Court or the Administrative agency and shall have this copy dated by the Tribal Court clerk or the administrative agency. The Tribal Court or administrative agency shall be notified of the appeal in the above manner no later than the same day the Notice of Appeal is filed with the Appellate Court.</text>
       </para>
     </section>
-    <section xmlns:ns129="https://open.law/schemas/cache" ns129:ref-path="attachments|law|IX">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.05.090">IX</num>
       <heading>[Rule 7] When Appeals May Be Taken</heading>
@@ -267,7 +267,7 @@
         <text>If more than one of the motions is timely filed, the expiration of the time for appeal is to be computed from the date of the entry of the order which disposes of the last remaining motion. When a motion to amend or make additional findings of fact is granted, the time begins to run when the amendment or addition has been accomplished by the Court Order. The same applies to the granting of a motion to amend or alter the judgment. Entry of an order occurs when the judge or hearing officer signs and dates the order.</text>
       </para>
     </section>
-    <section xmlns:ns126="https://open.law/schemas/cache" ns126:ref-path="attachments|law|X">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.05.100">X</num>
       <heading>[Rule 8] Record on Appeal</heading>
@@ -341,7 +341,7 @@
         <text>If prior to the time the record is transmitted, a party files a motion for dismissal, for a stay pending appeal, or for any intermediate order, that party or the party responding to the motion, shall attach to the motion a copy of those portions of the original record which are relevant. The Tribal Court Clerk or administrative agency shall attach to the copy a certification stating that the attached portions of the record are true copies of the Tribal Court or administrative record.</text>
       </para>
     </section>
-    <section xmlns:ns132="https://open.law/schemas/cache" ns132:ref-path="attachments|law|XI">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.05.110">XI</num>
       <heading>[Rule 9] Docketing the Appeal; Filing of the Record</heading>
@@ -361,7 +361,7 @@
         <text>If the appellant fails to timely transmit or to pay the filing fee if a filing fee is required, the Appellate Court shall dismiss the appeal on its own motion.</text>
       </para>
     </section>
-    <section xmlns:ns133="https://open.law/schemas/cache" ns133:ref-path="attachments|law|XII">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.05.120">XII</num>
       <heading>[Rule 10] Briefs</heading>
@@ -444,7 +444,7 @@
         <text>If an appellant does not timely file a brief, the Appellate Court, upon Appellee's motion, may dismiss the appeal. If the appellee does not timely file a brief, the appeal may be decided on the appellate record.</text>
       </para>
     </section>
-    <section xmlns:ns131="https://open.law/schemas/cache" ns131:ref-path="attachments|law|XIV">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.05.140">XIV</num>
       <heading>[Rule 12] Amicus Curiae</heading>
@@ -493,7 +493,7 @@
       <heading>[Rule 16] Notice of Decisions and Orders</heading>
       <text>Immediately after a decision is rendered or an order is made in any appeal, the Clerk of the Appellate Court shall notify all attorneys of record, and any party not represented by an attorney pursuant to <code-cite path="attachments|law|V">Section 5</code-cite>, Rule 3(b). The notice shall state the date on which the decision was rendered or the order made, and shall include a copy of any opinion, memorandum, decision, or order respecting the decision. The date of notice shall be entered in the docket.</text>
     </section>
-    <section xmlns:ns135="https://open.law/schemas/cache" ns135:ref-path="attachments|law|XIX">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.05.190">XIX</num>
       <heading>[Rule 17] Costs and Attorney's Fees</heading>
@@ -734,7 +734,7 @@
         <text>Petitions for extraordinary writs, other than those for mandamus or prohibition, shall conform so far as practicable to the procedures prescribed in subdivision (a), (b), and (c) of this Rule.</text>
       </para>
     </section>
-    <section xmlns:ns134="https://open.law/schemas/cache" ns134:ref-path="attachments|law|XXVIII">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.05.280">XXVIII</num>
       <heading>[Rule 26] Cases Given Priority</heading>
@@ -747,7 +747,7 @@
       <heading>[Rule 27] Withdrawal of Counsel</heading>
       <text>Whenever counsel has once filed papers in an appeal, such counsel shall not be allowed to withdraw from appeal, except by order of the Appellate Court upon written motion showing good cause, notice to the client, and naming new counsel.</text>
     </section>
-    <section xmlns:ns130="https://open.law/schemas/cache" ns130:ref-path="attachments|law|XXX">
+    <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.05.300">XXX</num>
       <heading>[Rule 28] Sanctions</heading>
