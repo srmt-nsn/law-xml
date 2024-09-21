@@ -155,7 +155,7 @@
         <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="7.06.010">A</num>
         <heading>Short Title</heading>
-        <text><code-cite path="|attachments|law">This ordinance</code-cite> shall be known as the St. Regis Mohawk Tribe Mortgage Foreclosure and Eviction Ordinance. Its short title shall be the "Foreclosure Ordinance".</text>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2008-31">This ordinance</code-cite> shall be known as the St. Regis Mohawk Tribe Mortgage Foreclosure and Eviction Ordinance. Its short title shall be the "Foreclosure Ordinance".</text>
       </section>
       <section>
         <codify:insert path="1" renumber-paras="true"/>
@@ -183,7 +183,7 @@
         <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="7.06.030">C</num>
         <heading>Purpose</heading>
-        <text>The purpose of <code-cite path="|attachments|law">this ordinance</code-cite> is to provide recourse to lenders/mortgagees by providing for an orderly and fair method of foreclosing upon mortgages on assignments arising under the St. Regis Mohawk Tribe Land Assignment Ordinance and to provide for an orderly and fair means of evicting those persons found to have committed unlawful detainer.</text>
+        <text>The purpose of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2008-31">this ordinance</code-cite> is to provide recourse to lenders/mortgagees by providing for an orderly and fair method of foreclosing upon mortgages on assignments arising under the St. Regis Mohawk Tribe Land Assignment Ordinance and to provide for an orderly and fair means of evicting those persons found to have committed unlawful detainer.</text>
       </section>
     </container>
     <container>
@@ -517,7 +517,7 @@
         <codify:insert path="4" renumber-paras="true"/>
         <num codify:value="7.06.140">E</num>
         <heading>Default</heading>
-        <text>If a borrower/mortgagor has been in default of ninety (90) days or more and the lender/mortgagee has complied with the procedures set forth in <code-cite path="|attachments|law|IV|B">sections (B)</code-cite> and <code-cite path="|attachments|law|IV|D">(D)</code-cite> of this <span codify:value="subchapter">chapter</span>, the lender/mortgagee may commence a foreclosure proceeding in the Tribal Court by filing a verified complaint as set forth in <code-cite path="|attachments|law|V|A">Chapter V Section (A)</code-cite> of this code.</text>
+        <text>If a borrower/mortgagor has been in default of ninety (90) days or more and the lender/mortgagee has complied with the procedures set forth in <code-cite path="|attachments|law|IV|B" doc="Saint Regis Mohawk Tribe Res. No. 2008-31">sections (B)</code-cite> and <code-cite path="|attachments|law|IV|D" doc="Saint Regis Mohawk Tribe Res. No. 2008-31">(D)</code-cite> of this <span codify:value="subchapter">chapter</span>, the lender/mortgagee may commence a foreclosure proceeding in the Tribal Court by filing a verified complaint as set forth in <code-cite path="|attachments|law|V|A" doc="Saint Regis Mohawk Tribe Res. No. 2008-31">Chapter V Section (A)</code-cite> of this code.</text>
       </section>
     </container>
     <container>
@@ -603,7 +603,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The person giving notice must keep a copy of the notice and proof of service in accordance with <code-cite path="|attachments|law|V|C">this section</code-cite>, by affidavit or other manner recognized by law.</text>
+          <text>The person giving notice must keep a copy of the notice and proof of service in accordance with <code-cite path="|attachments|law|V|C" doc="Saint Regis Mohawk Tribe Res. No. 2008-31">this section</code-cite>, by affidavit or other manner recognized by law.</text>
         </para>
       </section>
     </container>
@@ -753,7 +753,7 @@
         <codify:insert path="8" renumber-paras="true"/>
         <num codify:value="7.06.220">C</num>
         <heading>Summons and Complaint</heading>
-        <text>A copy of the summons and complaint shall be served upon the defendants in a manner provided by the rules of the Tribal Court for the service of civil process, or pursuant to the requirements of <code-cite path="|attachments|law|V|C">Chapter V Section (C)</code-cite> of this Code.</text>
+        <text>A copy of the summons and complaint shall be served upon the defendants in a manner provided by the rules of the Tribal Court for the service of civil process, or pursuant to the requirements of <code-cite path="|attachments|law|V|C" doc="Saint Regis Mohawk Tribe Res. No. 2008-31">Chapter V Section (C)</code-cite> of this Code.</text>
       </section>
       <section>
         <codify:insert path="8" renumber-paras="true"/>
@@ -793,7 +793,7 @@
         <codify:insert path="8" renumber-paras="true"/>
         <num codify:value="7.06.260">G</num>
         <heading>Enforcement</heading>
-        <text>Upon an issuance of an "Order of Repossession" by the Tribal Court, tribal law enforcement officers shall help plaintiffs enforce same by evicting the defendants and their property from the unlawfully occupied estate. In all cases involving the lender or federal agency, the "Order of Repossession" shall be enforced no later than 45 days after a pre-trial proceeding or trial in which the Tribal Court finds against the defendants, subject to a continuance under <code-cite path="|attachments|law|VIII|H">Section (H)</code-cite>, below, and provided that no party exercised the right to cure default or right of first refusal as described in Chapters VI or VII.</text>
+        <text>Upon an issuance of an "Order of Repossession" by the Tribal Court, tribal law enforcement officers shall help plaintiffs enforce same by evicting the defendants and their property from the unlawfully occupied estate. In all cases involving the lender or federal agency, the "Order of Repossession" shall be enforced no later than 45 days after a pre-trial proceeding or trial in which the Tribal Court finds against the defendants, subject to a continuance under <code-cite path="|attachments|law|VIII|H" doc="Saint Regis Mohawk Tribe Res. No. 2008-31">Section (H)</code-cite>, below, and provided that no party exercised the right to cure default or right of first refusal as described in Chapters VI or VII.</text>
       </section>
       <section>
         <codify:insert path="8" renumber-paras="true"/>

@@ -83,13 +83,13 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.01.010">I</num>
       <heading>Title - Tribal Procedures Act</heading>
-      <text><code-cite path="|attachments|law">This Ordinance</code-cite> shall pertain to the government of the Saint Regis Mohawk Tribe (hereafter referred to as "Tribe") and shall be known as the Saint Regis Mohawk "Tribal Procedures Act".</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">This Ordinance</code-cite> shall pertain to the government of the Saint Regis Mohawk Tribe (hereafter referred to as "Tribe") and shall be known as the Saint Regis Mohawk "Tribal Procedures Act".</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.01.020">II</num>
       <heading>Purpose</heading>
-      <text><code-cite path="|attachments|law">This Ordinance</code-cite> will replace the "Act relating to Tribal Council Powers, Procedures, Initiative Referendum, Recall and Removal from Office" commonly referred to as the 1994 Procedures Act. <code-cite path="|attachments|law">This Ordinance</code-cite> significantly revises the 1994 Procedures Act by giving enrolled Tribal Members (hereafter referred to as Members) a greater voice in Tribal Government and making the Tribal Government more transparent and accountable to Members. The Ordinance allows more Member participation in the Tribal Government, makes it much less burdensome for Members to initiate petitions to enact laws, reject laws and place questions before the membership in a referendum process. The Ordinance also makes the Tribal Council's (hereafter referred to as Council) actions more transparent and open by requiring the Council to conduct its business through regular meetings open to the membership. In addition, the Ordinance establishes rules or conduct and procedures for Tribal Monthly Meetings, provides for a process allowing Members to review Tribal budgets and also allows Members access to public Tribal records.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">This Ordinance</code-cite> will replace the "Act relating to Tribal Council Powers, Procedures, Initiative Referendum, Recall and Removal from Office" commonly referred to as the 1994 Procedures Act. <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">This Ordinance</code-cite> significantly revises the 1994 Procedures Act by giving enrolled Tribal Members (hereafter referred to as Members) a greater voice in Tribal Government and making the Tribal Government more transparent and accountable to Members. The Ordinance allows more Member participation in the Tribal Government, makes it much less burdensome for Members to initiate petitions to enact laws, reject laws and place questions before the membership in a referendum process. The Ordinance also makes the Tribal Council's (hereafter referred to as Council) actions more transparent and open by requiring the Council to conduct its business through regular meetings open to the membership. In addition, the Ordinance establishes rules or conduct and procedures for Tribal Monthly Meetings, provides for a process allowing Members to review Tribal budgets and also allows Members access to public Tribal records.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
@@ -163,7 +163,7 @@
       <para>
         <num>C.</num>
         <text>Powers and Duties of the Council</text>
-        <text>The three (3) Chiefs shall exercise all legislative and executive powers of the Tribe including, but not limited to the following; subject to the restrictions set forth in <code-cite path="attachments|law|V">Section V</code-cite>: (Removal) and <code-cite path="attachments|law|VI">Section VI</code-cite>: (Referendum Powers):</text>
+        <text>The three (3) Chiefs shall exercise all legislative and executive powers of the Tribe including, but not limited to the following; subject to the restrictions set forth in <code-cite path="attachments|law|V" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section V</code-cite>: (Removal) and <code-cite path="attachments|law|VI" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section VI</code-cite>: (Referendum Powers):</text>
         <para>
           <num>1.</num>
           <text>To promote and protect the health, safety, education and general welfare of the Tribe.</text>
@@ -338,7 +338,7 @@
       <para>
         <num>A.</num>
         <text>Authority of Members to Initiate Referendums</text>
-        <text>Members shall have power to initiate referendums subject to the provisions set forth in <code-cite path="attachments|law|VI">this Section</code-cite> and in any regulations that are issued pursuant to <code-cite path="|attachments|law">this Ordinance</code-cite> ("Initiative").</text>
+        <text>Members shall have power to initiate referendums subject to the provisions set forth in <code-cite path="attachments|law|VI" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">this Section</code-cite> and in any regulations that are issued pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">this Ordinance</code-cite> ("Initiative").</text>
         <para>
           <num>1.</num>
           <text>A referendum may be called to adopt new laws, reject or amend existing laws, or to pose questions on issues that affect the community.</text>
@@ -597,7 +597,7 @@
       </para>
       <para>
         <num>2.</num>
-        <text>An Ordinance may be proposed by the Council, any Tribal Member or any Department or Program of the Tribe. (A member may also propose an ordinance via the referendum process, refer herein to <code-cite path="attachments|law|VI|A.">Section VI A</code-cite>).</text>
+        <text>An Ordinance may be proposed by the Council, any Tribal Member or any Department or Program of the Tribe. (A member may also propose an ordinance via the referendum process, refer herein to <code-cite path="attachments|law|VI|A." doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section VI A</code-cite>).</text>
       </para>
       <para>
         <num>3.</num>
@@ -625,7 +625,7 @@
       </para>
       <para>
         <num>4.</num>
-        <text>In the event that Tribal Council elects to put the pending Ordinance to a referendum vote or adoption of the Ordinance requires a referendum vote pursuant to <code-cite path="attachments|law|VI|B.|2.">Section VI, B. 2</code-cite>, or the Ordinance has been put forward through the Referendum process, the Referendum Election process shall be followed.</text>
+        <text>In the event that Tribal Council elects to put the pending Ordinance to a referendum vote or adoption of the Ordinance requires a referendum vote pursuant to <code-cite path="attachments|law|VI|B.|2." doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section VI, B. 2</code-cite>, or the Ordinance has been put forward through the Referendum process, the Referendum Election process shall be followed.</text>
       </para>
       <para>
         <num>5.</num>
@@ -880,25 +880,25 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.01.130">XIII</num>
       <heading>Amendment Provision</heading>
-      <text><code-cite path="|attachments|law">This Ordinance</code-cite> may be amended (see <code-cite path="attachments|law|VI">Section VI</code-cite>) by a duly conducted Referendum.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">This Ordinance</code-cite> may be amended (see <code-cite path="attachments|law|VI" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section VI</code-cite>) by a duly conducted Referendum.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.01.140">XIV</num>
       <heading>Severability Clause</heading>
-      <text>The provisions of <code-cite path="|attachments|law">this Ordinance</code-cite> are severable and if any part or provision shall be held void by Tribal court the decision of the Tribal court shall not affect or impair any of the remaining parts or provisions of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+      <text>The provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">this Ordinance</code-cite> are severable and if any part or provision shall be held void by Tribal court the decision of the Tribal court shall not affect or impair any of the remaining parts or provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">this Ordinance</code-cite>.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.01.150">XV</num>
       <heading>Repeal of Prior Laws</heading>
-      <text><code-cite path="|attachments|law">This Ordinance</code-cite> repeals and supersedes all of the "Act relating to Council Powers, Procedures, Initiative Referendum, Recall and Removal from Office" commonly referred to as the 1994 Procedures Act, including amendments, and any other Ordinances, Acts or Laws that are inconsistent herewith.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">This Ordinance</code-cite> repeals and supersedes all of the "Act relating to Council Powers, Procedures, Initiative Referendum, Recall and Removal from Office" commonly referred to as the 1994 Procedures Act, including amendments, and any other Ordinances, Acts or Laws that are inconsistent herewith.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.01.160">XVI</num>
       <heading>Rules of Compliance</heading>
-      <text>Failure to administer or comply with this Tribal Governance Ordinance may result in the implementation of <code-cite path="attachments|law|V">Section V</code-cite>.</text>
+      <text>Failure to administer or comply with this Tribal Governance Ordinance may result in the implementation of <code-cite path="attachments|law|V" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section V</code-cite>.</text>
     </section>
   </attachment>
 </document>

@@ -105,7 +105,7 @@
       <text codify:tag="heading" codify:value="Title">
         <strong>TITLE</strong>
       </text>
-      <text><code-cite path="|attachments|law">This Ordinance</code-cite> shall be known as the "Saint Regis Mohawk Tribe Residency Ordinance".</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">This Ordinance</code-cite> shall be known as the "Saint Regis Mohawk Tribe Residency Ordinance".</text>
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
     <para codify:tag="section">
@@ -124,11 +124,11 @@
       </para>
       <para>
         <num>C.</num>
-        <text><code-cite path="|attachments|law">This Ordinance</code-cite> recognizes and confirms the right of Tribal Members to reside on the Saint Regis Mohawk Indian Reservation and other lands over which the Tribe has jurisdiction (all such lands referred to herein as "Mohawk Territory" or "Territory") without the need for a Permit. <code-cite path="|attachments|law">This Ordinance</code-cite> also recognizes that there may be Non-Tribal Members who might qualify for residency under certain situations</text>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">This Ordinance</code-cite> recognizes and confirms the right of Tribal Members to reside on the Saint Regis Mohawk Indian Reservation and other lands over which the Tribe has jurisdiction (all such lands referred to herein as "Mohawk Territory" or "Territory") without the need for a Permit. <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">This Ordinance</code-cite> also recognizes that there may be Non-Tribal Members who might qualify for residency under certain situations</text>
       </para>
       <para>
         <num>D.</num>
-        <text><code-cite path="|attachments|law">This Ordinance</code-cite> establishes laws for Non-Members to obtain Residency Permits allowing them to reside on Mohawk Territory under the conditions established herein.</text>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">This Ordinance</code-cite> establishes laws for Non-Members to obtain Residency Permits allowing them to reside on Mohawk Territory under the conditions established herein.</text>
       </para>
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
@@ -140,7 +140,7 @@
       </text>
       <para>
         <num>A.</num>
-        <text>The following are definitions of terms and words used in <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>The following are definitions of terms and words used in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite>.</text>
         <para>
           <num>1.</num>
           <text>"Akwesasne Community" means all Tribal Members who reside legally within Mohawk Territory (Akwesasne).</text>
@@ -163,7 +163,7 @@
         </para>
         <para>
           <num>6.</num>
-          <text>"Life Partner", for purposes of <code-cite path="|attachments|law">this Ordinance</code-cite>, means a person who is in a relationship with another person that has all of the characteristics of a legal marriage. Some factors in deciding if a life partnership exists include: legal capacity to marry, length of the relationship, whether the couple is holding themselves out to the community as being married and whether they have joint and holding joint bank accounts and credit cards.</text>
+          <text>"Life Partner", for purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite>, means a person who is in a relationship with another person that has all of the characteristics of a legal marriage. Some factors in deciding if a life partnership exists include: legal capacity to marry, length of the relationship, whether the couple is holding themselves out to the community as being married and whether they have joint and holding joint bank accounts and credit cards.</text>
         </para>
         <para>
           <num>7.</num>
@@ -195,7 +195,7 @@
         </para>
         <para>
           <num>14.</num>
-          <text>"Parent" means the mother or father of a child as defined in <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>"Parent" means the mother or father of a child as defined in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>15.</num>
@@ -203,7 +203,7 @@
         </para>
         <para>
           <num>16.</num>
-          <text>"Private Residence" means a housing unit that is owned by a person rather than a housing unit that is rented or leased by a person. Housing under the Akwesasne Housing Authority will be considered, for purposes of <code-cite path="|attachments|law">this Ordinance</code-cite>, Private rather than Rental residences.</text>
+          <text>"Private Residence" means a housing unit that is owned by a person rather than a housing unit that is rented or leased by a person. Housing under the Akwesasne Housing Authority will be considered, for purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite>, Private rather than Rental residences.</text>
         </para>
         <para>
           <num>17.</num>
@@ -231,7 +231,7 @@
         </para>
         <para>
           <num>23.</num>
-          <text>"Tribal Council", for purposes of <code-cite path="|attachments|law">this Ordinance</code-cite>, means the three duly elected Chiefs of the Saint Regis Mohawk Tribe.</text>
+          <text>"Tribal Council", for purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite>, means the three duly elected Chiefs of the Saint Regis Mohawk Tribe.</text>
         </para>
         <para>
           <num>24.</num>
@@ -351,7 +351,7 @@
         <text><u>Duties</u>. The Board shall, at a minimum, have the following duties and responsibilities:</text>
         <para>
           <num>1.</num>
-          <text>Adopt Board By-Laws and be responsible for performing its duties in accordance with <code-cite path="|attachments|law">this Ordinance</code-cite>, including drafting any regulations or hearing procedures in compliance with Tribal law.</text>
+          <text>Adopt Board By-Laws and be responsible for performing its duties in accordance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite>, including drafting any regulations or hearing procedures in compliance with Tribal law.</text>
         </para>
         <para>
           <num>2.</num>
@@ -359,11 +359,11 @@
         </para>
         <para>
           <num>3.</num>
-          <text>Make all decisions required by the Board as set forth in <code-cite path="|attachments|law">this Ordinance</code-cite> and in Board Regulations. This shall include, at a minimum, decisions regarding qualifications of applications for Residency Permits, renewal and revocation of Permits.</text>
+          <text>Make all decisions required by the Board as set forth in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite> and in Board Regulations. This shall include, at a minimum, decisions regarding qualifications of applications for Residency Permits, renewal and revocation of Permits.</text>
         </para>
         <para>
           <num>4.</num>
-          <text>Maintain accurate and organized records regarding Board activities and all actions the Board takes under <code-cite path="|attachments|law">this Ordinance</code-cite> including all of its decisions regarding residency. This may also include creating a Database of all Residency Permits and related data.</text>
+          <text>Maintain accurate and organized records regarding Board activities and all actions the Board takes under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite> including all of its decisions regarding residency. This may also include creating a Database of all Residency Permits and related data.</text>
         </para>
         <para>
           <num>5.</num>
@@ -380,7 +380,7 @@
       </para>
       <para>
         <num>G.</num>
-        <text><u>Removal of Board Members</u>. Board Members appointed by the Tribal Council may be removed by Tribal Council, either by the Council itself or upon recommendation by the Board. Board Members may be removed based upon violation of any provision of <code-cite path="|attachments|law">this Ordinance</code-cite>, failure to perform duties as a Board Member, excessive absences from Board meetings, failure to recuse oneself due to a conflict of interest or conduct unbecoming a Board Member.</text>
+        <text><u>Removal of Board Members</u>. Board Members appointed by the Tribal Council may be removed by Tribal Council, either by the Council itself or upon recommendation by the Board. Board Members may be removed based upon violation of any provision of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite>, failure to perform duties as a Board Member, excessive absences from Board meetings, failure to recuse oneself due to a conflict of interest or conduct unbecoming a Board Member.</text>
       </para>
       <para>
         <num>H.</num>
@@ -407,7 +407,7 @@
         </para>
         <para>
           <num>3.</num>
-          <text><u>Tenant Permits</u>. These are Permits for Non-Members who reside or seek to reside in Rental Properties, as defined by in the Ordinance. Residency Permits will be required for tenants who rent or lease housing on a "long term basis", as defined in <code-cite path="|attachments|law">this Ordinance</code-cite>. Persons who rent or lease housing on a short term basis may also be required to obtain a Permit under conditions that the Board shall prescribe. The Fee for Tenant Permits will be $50.00, non- refundable and shall be good for the length of the tenant's lease or rental agreement.</text>
+          <text><u>Tenant Permits</u>. These are Permits for Non-Members who reside or seek to reside in Rental Properties, as defined by in the Ordinance. Residency Permits will be required for tenants who rent or lease housing on a "long term basis", as defined in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite>. Persons who rent or lease housing on a short term basis may also be required to obtain a Permit under conditions that the Board shall prescribe. The Fee for Tenant Permits will be $50.00, non- refundable and shall be good for the length of the tenant's lease or rental agreement.</text>
         </para>
       </para>
       <para>
@@ -511,7 +511,7 @@
         </para>
         <para>
           <num>3.</num>
-          <text>If the Board decides to hear comments from Community members who have requested to be heard on the Application, they shall be notify of the date of the Hearing. The hearing under <code-cite path="|attachments|law|VII.">this section</code-cite> shall be conducted in accordance with the provisions provided in the regulations.</text>
+          <text>If the Board decides to hear comments from Community members who have requested to be heard on the Application, they shall be notify of the date of the Hearing. The hearing under <code-cite path="|attachments|law|VII." doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this section</code-cite> shall be conducted in accordance with the provisions provided in the regulations.</text>
         </para>
         <para>
           <num>4.</num>
@@ -652,7 +652,7 @@
       </para>
       <para>
         <num>D.</num>
-        <text><u>Consistency with Exclusion Policy</u>. Grounds for permit revocation set forth above in <code-cite path="|attachments|law|VIII.|B.|1.">Section VIII, B.1</code-cite>-<code-cite path="|attachments|law|VIII.|B.|10.">10</code-cite> are based upon the Tribe's Exclusion Policy as amended from time to time.</text>
+        <text><u>Consistency with Exclusion Policy</u>. Grounds for permit revocation set forth above in <code-cite path="|attachments|law|VIII.|B.|1." doc="Saint Regis Mohawk Tribe Res. No. 2023-35">Section VIII, B.1</code-cite>-<code-cite path="|attachments|law|VIII.|B.|10." doc="Saint Regis Mohawk Tribe Res. No. 2023-35">10</code-cite> are based upon the Tribe's Exclusion Policy as amended from time to time.</text>
       </para>
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
@@ -664,7 +664,7 @@
       </text>
       <para>
         <num>A.</num>
-        <text><u>Appeals</u>. Decisions of the Residency Board denying a Residency Permit, that do not involve enrollment or eligibility determinations, may be appealed to the Saint Regis Mohawk Tribal Court which includes the Tribal Appellate Court. When the Board renders a decision denying a Permit it shall notify the applicant of the right to appeal and provide appeal information. Tribal Court proceedings will, to the extent consistent with <code-cite path="|attachments|law">this Ordinance</code-cite>, follow Tribal Court rules.</text>
+        <text><u>Appeals</u>. Decisions of the Residency Board denying a Residency Permit, that do not involve enrollment or eligibility determinations, may be appealed to the Saint Regis Mohawk Tribal Court which includes the Tribal Appellate Court. When the Board renders a decision denying a Permit it shall notify the applicant of the right to appeal and provide appeal information. Tribal Court proceedings will, to the extent consistent with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite>, follow Tribal Court rules.</text>
       </para>
       <para>
         <num>B.</num>
@@ -703,16 +703,16 @@
         </para>
         <para>
           <num>4.</num>
-          <text>Any other final order, decision or supplemental determination under <code-cite path="|attachments|law">this Ordinance</code-cite> issued to a Person who has violated <code-cite path="|attachments|law">this Ordinance</code-cite></text>
+          <text>Any other final order, decision or supplemental determination under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite> issued to a Person who has violated <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite></text>
         </para>
       </para>
       <para>
         <num>B.</num>
-        <text><u>Exclusion Policy Not Affected</u>. The Tribe's Exclusion Policy shall remain in force and effect and may be enforced against any residents even if they have been issued Permits issued under <code-cite path="|attachments|law">this Ordinance</code-cite>. In such cases, the resident will not have the rights accorded under <code-cite path="|attachments|law|VII.">Section VII, I</code-cite>.</text>
+        <text><u>Exclusion Policy Not Affected</u>. The Tribe's Exclusion Policy shall remain in force and effect and may be enforced against any residents even if they have been issued Permits issued under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite>. In such cases, the resident will not have the rights accorded under <code-cite path="|attachments|law|VII." doc="Saint Regis Mohawk Tribe Res. No. 2023-35">Section VII, I</code-cite>.</text>
       </para>
       <para>
         <num>C.</num>
-        <text><u>Penalties</u>. Any person found to be on the Territory in violation of <code-cite path="|attachments|law">this Ordinance</code-cite> is subject to any or all of the following penalties:</text>
+        <text><u>Penalties</u>. Any person found to be on the Territory in violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite> is subject to any or all of the following penalties:</text>
         <para>
           <num>1.</num>
           <text>Being charged with trespassing under Tribal Law and referral to State Court for criminal prosecution.</text>
@@ -740,7 +740,7 @@
       </text>
       <para>
         <num>A.</num>
-        <text>The Residency Board may issue Regulations as appropriate for the proper administration of <code-cite path="|attachments|law">this Ordinance</code-cite> provided that such regulations are consistent with the provisions in <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>The Residency Board may issue Regulations as appropriate for the proper administration of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite> provided that such regulations are consistent with the provisions in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite>.</text>
       </para>
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
@@ -752,7 +752,7 @@
       </text>
       <para>
         <num>A.</num>
-        <text>Residency Permits will not be required until the Residency Board is seated and until the Board is able to develop Residency Forms, host Community educational meetings and fully apprise the Community of the Ordinance requirements and the Permit process. Within ninety (90) days, after it is seated, the Board shall notify the Community of the date(s) within which Non-Members must apply for and obtain required Permits. In the interim time period after enactment and when the Board is seated, the Tribal Council is authorized to take any actions needed to administer the provisions of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>Residency Permits will not be required until the Residency Board is seated and until the Board is able to develop Residency Forms, host Community educational meetings and fully apprise the Community of the Ordinance requirements and the Permit process. Within ninety (90) days, after it is seated, the Board shall notify the Community of the date(s) within which Non-Members must apply for and obtain required Permits. In the interim time period after enactment and when the Board is seated, the Tribal Council is authorized to take any actions needed to administer the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite>.</text>
       </para>
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
@@ -764,7 +764,7 @@
       </text>
       <para>
         <num>A.</num>
-        <text><code-cite path="|attachments|law">This Ordinance</code-cite> may be amended by: (1) a duly conducted Referendum; or (2) by the Board through a Board Resolution recommending amendment, provided the amendment is confirmed by a vote of the Tribal Council. The amendment shall be processed following the Tribal Procedure Act and include notice to, and review by, the Community. Amendments through a Board Resolution may not change the residency eligibility requirements set forth in the Ordinance.</text>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">This Ordinance</code-cite> may be amended by: (1) a duly conducted Referendum; or (2) by the Board through a Board Resolution recommending amendment, provided the amendment is confirmed by a vote of the Tribal Council. The amendment shall be processed following the Tribal Procedure Act and include notice to, and review by, the Community. Amendments through a Board Resolution may not change the residency eligibility requirements set forth in the Ordinance.</text>
       </para>
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>
@@ -776,7 +776,7 @@
       </text>
       <para>
         <num>A.</num>
-        <text>The provisions of <code-cite path="|attachments|law">this Ordinance</code-cite> shall be severable and if any part or provision shall be held void by any Court of competent jurisdiction, the decision of the Court so holding shall not affect or impair any of the remaining parts or provisions of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>The provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite> shall be severable and if any part or provision shall be held void by any Court of competent jurisdiction, the decision of the Court so holding shall not affect or impair any of the remaining parts or provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-35">this Ordinance</code-cite>.</text>
       </para>
       <annotation type="History">Res. No. 2019-28</annotation>
     </para>

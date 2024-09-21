@@ -341,7 +341,7 @@
       <codify:insert path="2" renumber-paras="true"/>
       <num codify:value="7.04.020">2.1</num>
       <heading>Short Title</heading>
-      <text><code-cite path="|attachments|law">This Act</code-cite> shall be known and may be cited as the Saint Regis Mohawk Communications Regulatory Act (and herein referred to as the "Act").</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">This Act</code-cite> shall be known and may be cited as the Saint Regis Mohawk Communications Regulatory Act (and herein referred to as the "Act").</text>
     </section>
     <section>
       <codify:insert path="2" renumber-paras="true"/>
@@ -349,7 +349,7 @@
       <heading>Purpose</heading>
       <para>
         <num>A.</num>
-        <text>The purposes of <code-cite path="|attachments|law">this Act</code-cite> are:</text>
+        <text>The purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> are:</text>
         <para>
           <num>1.</num>
           <text>To make available efficient, reasonably priced, state-of-the art Communication Services to the people of the Saint Regis Mohawk Tribe;</text>
@@ -365,7 +365,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>The provisions of <code-cite path="|attachments|law">the Act</code-cite> shall be construed and applied in each instance to ensure that the purposes of <code-cite path="|attachments|law">the Act</code-cite> are accomplished in each action that is taken.</text>
+        <text>The provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">the Act</code-cite> shall be construed and applied in each instance to ensure that the purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">the Act</code-cite> are accomplished in each action that is taken.</text>
       </para>
     </section>
     <section>
@@ -374,7 +374,7 @@
       <heading>Jurisdiction</heading>
       <para>
         <num>A.</num>
-        <text>The provisions of <code-cite path="|attachments|law">the Act</code-cite> shall apply within the Tribal Lands of the of the Saint Regis Mohawk Tribe as it exists on the day of the adoption of <code-cite path="|attachments|law">this Act</code-cite>, and as it may be expanded from time to time.</text>
+        <text>The provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">the Act</code-cite> shall apply within the Tribal Lands of the of the Saint Regis Mohawk Tribe as it exists on the day of the adoption of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>, and as it may be expanded from time to time.</text>
       </para>
       <para>
         <num>B.</num>
@@ -385,13 +385,13 @@
       <codify:insert path="2" renumber-paras="true"/>
       <num codify:value="7.04.050">2.4</num>
       <heading>Federal Law Binding</heading>
-      <text>Federal laws currently in force regulating Communications Services which do not preempt the jurisdiction of the Saint Regis Mohawk Tribe to regulate Communications Services shall have the same force and effect and shall be binding and obligatory upon the Saint Regis Mohawk Tribe and any entity operating upon Tribal Land to the extent that said laws fulfill the purposes of <code-cite path="|attachments|law">the Act</code-cite> at set forth in <code-cite path="attachments|law|2.2">Section 2.2</code-cite>, above. To the extent such existing Federal laws may be preempted by the jurisdiction of the Saint Regis Mohawk Tribe, the Commission may enact such laws in the future.</text>
+      <text>Federal laws currently in force regulating Communications Services which do not preempt the jurisdiction of the Saint Regis Mohawk Tribe to regulate Communications Services shall have the same force and effect and shall be binding and obligatory upon the Saint Regis Mohawk Tribe and any entity operating upon Tribal Land to the extent that said laws fulfill the purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">the Act</code-cite> at set forth in <code-cite path="attachments|law|2.2" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">Section 2.2</code-cite>, above. To the extent such existing Federal laws may be preempted by the jurisdiction of the Saint Regis Mohawk Tribe, the Commission may enact such laws in the future.</text>
     </section>
     <section>
       <codify:insert path="2" renumber-paras="true"/>
       <num codify:value="7.04.060">2.5</num>
       <heading>Establishment of Saint Regis Mohawk Telecommunications Regulatory Commission</heading>
-      <text><code-cite path="|attachments|law">This Act</code-cite> hereby establishes the Saint Regis Mohawk Telecommunications Regulatory Commission to carry out the duties of regulating Communications Services within the jurisdiction of the Saint Regis Mohawk Tribe.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">This Act</code-cite> hereby establishes the Saint Regis Mohawk Telecommunications Regulatory Commission to carry out the duties of regulating Communications Services within the jurisdiction of the Saint Regis Mohawk Tribe.</text>
     </section>
     <section>
       <codify:insert path="2" renumber-paras="true"/>
@@ -443,7 +443,7 @@
       <codify:insert path="2" renumber-paras="true"/>
       <num codify:value="7.04.090">2.8</num>
       <heading>Duties of the Commission</heading>
-      <text>The Commission shall abide by the operating procedures and duties as set forth in <code-cite path="|attachments|law">this Act</code-cite> and in the Commission By-Laws as approved by the Saint Regis Mohawk Tribal Council.</text>
+      <text>The Commission shall abide by the operating procedures and duties as set forth in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> and in the Commission By-Laws as approved by the Saint Regis Mohawk Tribal Council.</text>
     </section>
     <section>
       <codify:insert path="2" renumber-paras="true"/>
@@ -451,14 +451,14 @@
       <heading>Powers of the Commission</heading>
       <para>
         <num>A.</num>
-        <text>In accordance with the Commission's By-Laws and as specifically designated in <code-cite path="attachments|law|2.9">this Section</code-cite> or in any rule, regulation, decision, order, or other official pronouncement adopted hereunder, the Commission shall have the power to perform any and all acts necessary and convenient to supervise, monitor, and regulate the provisioning of Communication Services within the jurisdiction of the Saint Regis Mohawk Tribe.</text>
+        <text>In accordance with the Commission's By-Laws and as specifically designated in <code-cite path="attachments|law|2.9" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite> or in any rule, regulation, decision, order, or other official pronouncement adopted hereunder, the Commission shall have the power to perform any and all acts necessary and convenient to supervise, monitor, and regulate the provisioning of Communication Services within the jurisdiction of the Saint Regis Mohawk Tribe.</text>
       </para>
       <para>
         <num>B.</num>
         <text>The Commission shall have the following specific powers:</text>
         <para>
           <num>1.</num>
-          <text>To promulgate such rules and regulations as appropriate for the accomplishment of its purpose and authority, duties and responsibilities pursuant to <code-cite path="|attachments|law">this Act</code-cite>, and to enforce such rules and regulations.</text>
+          <text>To promulgate such rules and regulations as appropriate for the accomplishment of its purpose and authority, duties and responsibilities pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>, and to enforce such rules and regulations.</text>
         </para>
         <para>
           <num>2.</num>
@@ -520,7 +520,7 @@
             <text>The Commission shall establish procedures and requirements for hearings and investigations pertinent to the functions and powers of the Commission, including procedures:</text>
             <para>
               <num>i.</num>
-              <text>To receive, consider, and hear complaints concerning any non-compliance by any person of any provision of <code-cite path="|attachments|law">this Act</code-cite> and/or the rules and regulations, decisions, orders, or other official pronouncements;</text>
+              <text>To receive, consider, and hear complaints concerning any non-compliance by any person of any provision of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> and/or the rules and regulations, decisions, orders, or other official pronouncements;</text>
             </para>
             <para>
               <num>ii.</num>
@@ -534,7 +534,7 @@
         </para>
         <para>
           <num>10.</num>
-          <text>To establish and impose fines and/or any other civil sanction(s) deemed appropriate by the Commission for violations of any provision of <code-cite path="|attachments|law">this Act</code-cite> and/or its rules and regulations, decisions, orders, or other official pronouncements.</text>
+          <text>To establish and impose fines and/or any other civil sanction(s) deemed appropriate by the Commission for violations of any provision of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> and/or its rules and regulations, decisions, orders, or other official pronouncements.</text>
         </para>
       </para>
     </section>
@@ -544,11 +544,11 @@
       <heading>Adoption of Rules and Regulations</heading>
       <para>
         <num>A.</num>
-        <text>The Commission may promulgate rules and regulations in accordance with <code-cite path="|attachments|law">this Act</code-cite> for the purpose of enforcement of <code-cite path="|attachments|law">this Act</code-cite>.</text>
+        <text>The Commission may promulgate rules and regulations in accordance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> for the purpose of enforcement of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>Prior to the adoption by the Commission of any rules and regulations being promulgated in accordance with <code-cite path="|attachments|law">this Act</code-cite>, notice shall be given to the public, including the Saint Regis Mohawk Tribe community and any customer of any provider of Communications Services authorized by <code-cite path="|attachments|law">this Act</code-cite> to provision services on Tribal Land, of such proposed rules or regulations by a method deemed proper by the Commission.</text>
+        <text>Prior to the adoption by the Commission of any rules and regulations being promulgated in accordance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>, notice shall be given to the public, including the Saint Regis Mohawk Tribe community and any customer of any provider of Communications Services authorized by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> to provision services on Tribal Land, of such proposed rules or regulations by a method deemed proper by the Commission.</text>
         <para>
           <num>1.</num>
           <text>Such notice shall include:</text>
@@ -589,23 +589,23 @@
       <heading>Compliance and Enforcement</heading>
       <para>
         <num>A.</num>
-        <text>All persons engaging in any way in activities related to the provisioning of Communications Service within the jurisdiction of the Saint Regis Mohawk Tribe shall comply with the provisions of <code-cite path="|attachments|law">this Act</code-cite> and all decisions or orders, rules and regulations, or other official pronouncements issued pursuant to <code-cite path="|attachments|law">the Act</code-cite>.</text>
+        <text>All persons engaging in any way in activities related to the provisioning of Communications Service within the jurisdiction of the Saint Regis Mohawk Tribe shall comply with the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> and all decisions or orders, rules and regulations, or other official pronouncements issued pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">the Act</code-cite>.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>Members of the public shall have standing to make complaints or inquiries to the Commission about any activities related to Communications Services within the jurisdiction of the Saint Regis Mohawk Tribe in accordance with <span codify:value="Subchapter">Section</span> 4 of <code-cite path="|attachments|law">this Act</code-cite>.</text>
+        <text>Members of the public shall have standing to make complaints or inquiries to the Commission about any activities related to Communications Services within the jurisdiction of the Saint Regis Mohawk Tribe in accordance with <span codify:value="Subchapter">Section</span> 4 of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>.</text>
       </para>
       <para>
         <num>C.</num>
-        <text>Enforcement of <code-cite path="|attachments|law">this Act</code-cite> shall be by the Commission or through the Saint Regis Mohawk Tribal Court. The exhaustion of administrative remedies doctrine will apply to any third party seeking enforcement of <code-cite path="|attachments|law">the Act</code-cite>. The Commission is authorized to seek judicial enforcement through any court of competent jurisdiction, including the Saint Regis Mohawk Tribal Court, of <code-cite path="|attachments|law">the Act</code-cite> without first acting administratively, if circumstances so require.</text>
+        <text>Enforcement of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> shall be by the Commission or through the Saint Regis Mohawk Tribal Court. The exhaustion of administrative remedies doctrine will apply to any third party seeking enforcement of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">the Act</code-cite>. The Commission is authorized to seek judicial enforcement through any court of competent jurisdiction, including the Saint Regis Mohawk Tribal Court, of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">the Act</code-cite> without first acting administratively, if circumstances so require.</text>
       </para>
       <para>
         <num>D.</num>
-        <text>Any nonmember of the Saint Regis Mohawk Tribe who violates any of the provisions of <code-cite path="|attachments|law">this Act</code-cite> may be excluded from Tribal Land.</text>
+        <text>Any nonmember of the Saint Regis Mohawk Tribe who violates any of the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> may be excluded from Tribal Land.</text>
       </para>
       <para>
         <num>E.</num>
-        <text>The Saint Regis Mohawk Tribe reserves the right to pursue any and all remedies to recover any losses incurred as a result of a violation of <code-cite path="|attachments|law">this Act</code-cite>.</text>
+        <text>The Saint Regis Mohawk Tribe reserves the right to pursue any and all remedies to recover any losses incurred as a result of a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>.</text>
       </para>
     </section>
     <section>
@@ -617,7 +617,7 @@
       <codify:insert path="4" renumber-paras="true"/>
       <num codify:value="7.04.130">4.1</num>
       <heading>Complaint</heading>
-      <text>A written complaint may be filed with the Commission by any person, or by the Commission itself, in accordance with the Commission's rules and regulations against any person or entity engaged in a Communications Service over which the Commission has jurisdiction. A complaint will detail the alleged act or omission of the person or entity asserted to be in violation of <code-cite path="|attachments|law">the Act</code-cite> or decision, order, rule or regulation, or other official pronouncements of the Commission and will further contain the remedy or relief sought. A complaint may also be filed by any person regarding the justness or reasonableness of any rates, terms, or conditions.</text>
+      <text>A written complaint may be filed with the Commission by any person, or by the Commission itself, in accordance with the Commission's rules and regulations against any person or entity engaged in a Communications Service over which the Commission has jurisdiction. A complaint will detail the alleged act or omission of the person or entity asserted to be in violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">the Act</code-cite> or decision, order, rule or regulation, or other official pronouncements of the Commission and will further contain the remedy or relief sought. A complaint may also be filed by any person regarding the justness or reasonableness of any rates, terms, or conditions.</text>
     </section>
     <section>
       <codify:insert path="4" renumber-paras="true"/>
@@ -653,7 +653,7 @@
       <codify:insert path="4" renumber-paras="true"/>
       <num codify:value="7.04.190">4.7</num>
       <heading>Jurisdiction of the Saint Regis Mohawk Tribal Court</heading>
-      <text>The Saint Regis Mohawk Tribal Court is vested with jurisdiction (1) over any and all persons subject to <code-cite path="|attachments|law">this Act</code-cite> and (2) to hear and determine any challenge to the validity of <code-cite path="|attachments|law">this Act</code-cite>, either generally or as applied to any person, provided that the provisions of <code-cite path="|attachments|law">this Act</code-cite> and the regulations which may be adopted pursuant thereto are complied with.</text>
+      <text>The Saint Regis Mohawk Tribal Court is vested with jurisdiction (1) over any and all persons subject to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> and (2) to hear and determine any challenge to the validity of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>, either generally or as applied to any person, provided that the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> and the regulations which may be adopted pursuant thereto are complied with.</text>
     </section>
     <section>
       <num>5</num>
@@ -767,7 +767,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>The Commission may charge a fee for filing a CPCN application under <code-cite path="attachments|law|6.3">this Section</code-cite>. Any fee charged under <code-cite path="attachments|law|6.3">this Section</code-cite> will not exceed the Commission's actual costs to process and review the application for CPCN.</text>
+        <text>The Commission may charge a fee for filing a CPCN application under <code-cite path="attachments|law|6.3" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite>. Any fee charged under <code-cite path="attachments|law|6.3" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite> will not exceed the Commission's actual costs to process and review the application for CPCN.</text>
       </para>
       <para>
         <num>C.</num>
@@ -778,7 +778,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>A copy of the applicant's tariff on file with the New York Public Service Commission. If the New York Public Service Commission does not require a tariff from the applicant, then in lieu of filing a tariff the applicant must submit a Customer Service Guide or other listing of terms and conditions consistent with the provisions of <code-cite path="|attachments|law">this Act</code-cite>.</text>
+          <text>A copy of the applicant's tariff on file with the New York Public Service Commission. If the New York Public Service Commission does not require a tariff from the applicant, then in lieu of filing a tariff the applicant must submit a Customer Service Guide or other listing of terms and conditions consistent with the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>.</text>
         </para>
         <para>
           <num>3.</num>
@@ -793,7 +793,7 @@
           </para>
           <para>
             <num>b.</num>
-            <text>The applicant agrees to abide by all laws of <code-cite path="|attachments|law">this Act</code-cite>; any rules and regulations adopted by the Commission; and the laws and regulations of the Saint Regis Mohawk Tribe.</text>
+            <text>The applicant agrees to abide by all laws of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>; any rules and regulations adopted by the Commission; and the laws and regulations of the Saint Regis Mohawk Tribe.</text>
           </para>
         </para>
       </para>
@@ -802,7 +802,7 @@
       <codify:insert path="6" renumber-paras="true"/>
       <num codify:value="7.04.250">6.4</num>
       <heading>Approval of Cpcn</heading>
-      <text>An application for CPCN meeting all requirements of <code-cite path="attachments|law|6.4">this Section</code-cite> will be automatically granted ninety (90) days after filed for approval, unless the Commission, or its designee, determines and informs the applicant in writing within such ninety (90) day period that the public interest requires the Commission's review and its written order.</text>
+      <text>An application for CPCN meeting all requirements of <code-cite path="attachments|law|6.4" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite> will be automatically granted ninety (90) days after filed for approval, unless the Commission, or its designee, determines and informs the applicant in writing within such ninety (90) day period that the public interest requires the Commission's review and its written order.</text>
     </section>
     <section>
       <num>7</num>
@@ -881,7 +881,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>The Commission may charge a fee for filing an application for Franchise. Any fee charged under <code-cite path="attachments|law|7.3">this Section</code-cite> will not exceed the Commission's actual costs to process and review the application for CPCN.</text>
+        <text>The Commission may charge a fee for filing an application for Franchise. Any fee charged under <code-cite path="attachments|law|7.3" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite> will not exceed the Commission's actual costs to process and review the application for CPCN.</text>
       </para>
     </section>
     <section>
@@ -962,7 +962,7 @@
         </para>
         <para>
           <num>13.</num>
-          <text>Reference to Section of <code-cite path="|attachments|law">the Act</code-cite> and Federal law that governs the Franchise;</text>
+          <text>Reference to Section of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">the Act</code-cite> and Federal law that governs the Franchise;</text>
         </para>
         <para>
           <num>14.</num>
@@ -991,7 +991,7 @@
       <text>The franchisee shall pay to the Commission a Franchise fee each quarter under the terms stipulated in the Franchise Agreement.</text>
       <para>
         <num>A.</num>
-        <text>The Franchise fee shall be 2.5% of annual gross revenues derived from the operation of the Communication Services. Gross revenues shall include all revenue derived from the sale of Communications Service within the jurisdiction of the Saint Regis Mohawk Tribe subject to the exclusions listed below. Gross revenues shall not include revenue derived from capital costs of providing public, educational, or governmental programming required by Federal law, revenue derived from cable modem services, or revenue derived from telephone wireline or wireless services. The Commission may waive this fee or any portion of this fee if such waiver is not inconsistent with the purposes of <code-cite path="|attachments|law">this Act</code-cite>.</text>
+        <text>The Franchise fee shall be 2.5% of annual gross revenues derived from the operation of the Communication Services. Gross revenues shall include all revenue derived from the sale of Communications Service within the jurisdiction of the Saint Regis Mohawk Tribe subject to the exclusions listed below. Gross revenues shall not include revenue derived from capital costs of providing public, educational, or governmental programming required by Federal law, revenue derived from cable modem services, or revenue derived from telephone wireline or wireless services. The Commission may waive this fee or any portion of this fee if such waiver is not inconsistent with the purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>.</text>
       </para>
       <para>
         <num>B.</num>
@@ -1010,7 +1010,7 @@
       <codify:insert path="7" renumber-paras="true"/>
       <num codify:value="7.04.330">7.8</num>
       <heading>Franchise Renewal</heading>
-      <text>The Commission may renew a franchise pursuant to the procedures established in <code-cite path="attachments|law|7.8">this Section</code-cite> and applicable Federal law and regulations.</text>
+      <text>The Commission may renew a franchise pursuant to the procedures established in <code-cite path="attachments|law|7.8" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite> and applicable Federal law and regulations.</text>
       <para>
         <num>A.</num>
         <text>During the six-month period which begins with the thirty-sixth (36th) month before the expiration of the Franchise Agreement, the Commission may, on its own initiative, and shall, at the request of a franchisee, commence proceedings which afford the public in the Franchise area appropriate notice and participation for the purposes of identifying future community needs and interests and reviewing the performance of the franchisee under the Franchise Agreement during the then current Franchise term.</text>
@@ -1020,7 +1020,7 @@
         <text>Upon completion of such proceedings, the franchisee may submit a proposal for renewal. Any such proposal shall contain such material as the Commission may require, including proposals for an upgrade of the Communication Services.</text>
         <para>
           <num>1.</num>
-          <text>Upon submittal of a proposal for the renewal of a Franchise Agreement, the Commission shall provide prompt public notice of such proposal and, during the four-month period which begins on the completion of any proceedings, shall either renew the Franchise Agreement or issue a preliminary assessment that the Franchise Agreement should not be renewed and commence at the request of the franchisee or on its own initiative an administrative proceeding to consider whether the franchisee has substantially complied with the material provisions of <code-cite path="|attachments|law">this Act</code-cite>, the existing Franchise Agreement, and applicable law;</text>
+          <text>Upon submittal of a proposal for the renewal of a Franchise Agreement, the Commission shall provide prompt public notice of such proposal and, during the four-month period which begins on the completion of any proceedings, shall either renew the Franchise Agreement or issue a preliminary assessment that the Franchise Agreement should not be renewed and commence at the request of the franchisee or on its own initiative an administrative proceeding to consider whether the franchisee has substantially complied with the material provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>, the existing Franchise Agreement, and applicable law;</text>
         </para>
         <para>
           <num>2.</num>
@@ -1041,7 +1041,7 @@
       </para>
       <para>
         <num>D.</num>
-        <text>Any refusal to renew a Franchise or denial of a proposal for renewal shall be based only on one or more adverse findings made with respect to the factors set forth in Subsection <span codify:value="(c)">C</span> of <code-cite path="attachments|law|7.8">this Section</code-cite>. The Commission may not refuse to renew or premise a denial of renewal upon factors contained in Subsections <span codify:value="(b)">C</span> (1), (2), or (4) of <code-cite path="attachments|law|7.8">this Section</code-cite> unless the Commission has given a franchisee notice of and an opportunity to cure violations or problems or has waived, in writing, its right to object to such violations and problems.</text>
+        <text>Any refusal to renew a Franchise or denial of a proposal for renewal shall be based only on one or more adverse findings made with respect to the factors set forth in Subsection <span codify:value="(c)">C</span> of <code-cite path="attachments|law|7.8" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite>. The Commission may not refuse to renew or premise a denial of renewal upon factors contained in Subsections <span codify:value="(b)">C</span> (1), (2), or (4) of <code-cite path="attachments|law|7.8" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite> unless the Commission has given a franchisee notice of and an opportunity to cure violations or problems or has waived, in writing, its right to object to such violations and problems.</text>
       </para>
       <para>
         <num>E.</num>
@@ -1049,7 +1049,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>Notwithstanding the provisions of <code-cite path="attachments|law|7.8">this Section</code-cite>, a franchisee may submit a proposal for the renewal of a franchise at any time, and the Commission may, after affording the Saint Regis Mohawk Tribe adequate notice and opportunity for comment to, grant or deny such proposal at any time. The denial of a proposal for renewal pursuant to this Subsection shall not affect action on a renewal proposal that is submitted in accordance with Subsections <span codify:value="(a) to (f)">A to F</span> of <code-cite path="attachments|law|7.8">this Section</code-cite>.</text>
+        <text>Notwithstanding the provisions of <code-cite path="attachments|law|7.8" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite>, a franchisee may submit a proposal for the renewal of a franchise at any time, and the Commission may, after affording the Saint Regis Mohawk Tribe adequate notice and opportunity for comment to, grant or deny such proposal at any time. The denial of a proposal for renewal pursuant to this Subsection shall not affect action on a renewal proposal that is submitted in accordance with Subsections <span codify:value="(a) to (f)">A to F</span> of <code-cite path="attachments|law|7.8" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite>.</text>
       </para>
     </section>
     <section>
@@ -1076,10 +1076,10 @@
       <text>The Commission reserves the right to revoke any Franchise Agreement entered hereunder and rescind all rights and privileges associated with the Franchise Agreement.</text>
       <para>
         <num>A.</num>
-        <text>The Commission may revoke the Franchise Agreement under the following circumstances, each of which shall represent a default and breach under <code-cite path="|attachments|law">this Act</code-cite> and Franchise Agreement:</text>
+        <text>The Commission may revoke the Franchise Agreement under the following circumstances, each of which shall represent a default and breach under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> and Franchise Agreement:</text>
         <para>
           <num>1.</num>
-          <text>If the franchisee shall default in the performance of any of the material obligations under <code-cite path="|attachments|law">this Act</code-cite> or under such documents, contracts, and other terms and provisions entered into by and between the Commission and the franchisee.</text>
+          <text>If the franchisee shall default in the performance of any of the material obligations under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> or under such documents, contracts, and other terms and provisions entered into by and between the Commission and the franchisee.</text>
         </para>
         <para>
           <num>2.</num>
@@ -1091,7 +1091,7 @@
         </para>
         <para>
           <num>4.</num>
-          <text>If the franchisee evades any of the provisions of <code-cite path="|attachments|law">this Act</code-cite> or the Franchise Agreement or practices any fraud or deceit upon the Commission or Communication Service subscribers.</text>
+          <text>If the franchisee evades any of the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> or the Franchise Agreement or practices any fraud or deceit upon the Commission or Communication Service subscribers.</text>
         </para>
         <para>
           <num>5.</num>
@@ -1116,7 +1116,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Pending litigation or any appeal to any regulatory body or court having jurisdiction over the franchisee shall not excuse the franchisee from the performance of its obligations under this chapter or the Franchise Agreement. Failure of the franchisee to perform such obligations because of pending litigation or petition may result in forfeiture or revocation pursuant to the provisions of <code-cite path="attachments|law|7.10">this Section</code-cite>.</text>
+        <text>Pending litigation or any appeal to any regulatory body or court having jurisdiction over the franchisee shall not excuse the franchisee from the performance of its obligations under this chapter or the Franchise Agreement. Failure of the franchisee to perform such obligations because of pending litigation or petition may result in forfeiture or revocation pursuant to the provisions of <code-cite path="attachments|law|7.10" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite>.</text>
       </para>
       <para>
         <num>D.</num>
@@ -1164,7 +1164,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>Upon either the expiration or revocation of a Franchise Agreement, the Commission may require the franchisee to continue to operate the system for a period of six (6) months from the date of such expiration or revocation or until such time as is mutually agreed upon. The franchisee shall, as trustee for its successor in interest, continue to operate the Communication Service System under the terms and conditions of <code-cite path="|attachments|law">this Act</code-cite> and the Franchise Agreement and to provide the regular subscriber service and any and all of the services that may be provided at the time. The Commission shall be permitted to seek legal and equitable relief to enforce the provisions of this Subsection.</text>
+        <text>Upon either the expiration or revocation of a Franchise Agreement, the Commission may require the franchisee to continue to operate the system for a period of six (6) months from the date of such expiration or revocation or until such time as is mutually agreed upon. The franchisee shall, as trustee for its successor in interest, continue to operate the Communication Service System under the terms and conditions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> and the Franchise Agreement and to provide the regular subscriber service and any and all of the services that may be provided at the time. The Commission shall be permitted to seek legal and equitable relief to enforce the provisions of this Subsection.</text>
       </para>
       <para>
         <num>G.</num>
@@ -1175,7 +1175,7 @@
       <codify:insert path="7" renumber-paras="true"/>
       <num codify:value="7.04.360">7.11</num>
       <heading>Transfer or Ownership of Control</heading>
-      <text>A franchisee shall not transfer control of its Franchise Agreement or related equipment without prior express approval of the Commission, which shall not be unreasonably withheld. Any transfer of ownership or control of franchisee shall be subject to Chapters 8 and 9 of <code-cite path="|attachments|law">this Act</code-cite>.</text>
+      <text>A franchisee shall not transfer control of its Franchise Agreement or related equipment without prior express approval of the Commission, which shall not be unreasonably withheld. Any transfer of ownership or control of franchisee shall be subject to Chapters 8 and 9 of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>.</text>
       <para>
         <num>A.</num>
         <text>The grantee shall promptly notify the Commission of any actual or proposed transfer.</text>
@@ -1248,7 +1248,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text><code-cite path="attachments|law|8.1">This Section</code-cite> shall only apply when a the holder of a CPCN issued by the Commission operates exclusively within jurisdiction of the Saint Regis Mohawk Tribe or is not otherwise subject to the transfer and ownership of stock restrictions of the New York Public Service Commission.</text>
+        <text><code-cite path="attachments|law|8.1" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">This Section</code-cite> shall only apply when a the holder of a CPCN issued by the Commission operates exclusively within jurisdiction of the Saint Regis Mohawk Tribe or is not otherwise subject to the transfer and ownership of stock restrictions of the New York Public Service Commission.</text>
       </para>
     </section>
     <section>
@@ -1265,19 +1265,19 @@
       </para>
       <para>
         <num>C.</num>
-        <text><code-cite path="attachments|law|8.2">This Section</code-cite> shall not apply</text>
+        <text><code-cite path="attachments|law|8.2" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">This Section</code-cite> shall not apply</text>
         <para>
           <num>1.</num>
           <text>When stock is transferred or held solely for the purpose of serving as collateral security.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>To any corporation lawfully holding a majority of the voting capital stock of any Communications Service Provider at the time it becomes authorized to provision service by <code-cite path="|attachments|law">this Act</code-cite>. Such corporation may, without the consent of the Commission, acquire and hold the remainder of the voting capital stock of such Communications Service Provider, or any portion thereof.</text>
+          <text>To any corporation lawfully holding a majority of the voting capital stock of any Communications Service Provider at the time it becomes authorized to provision service by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>. Such corporation may, without the consent of the Commission, acquire and hold the remainder of the voting capital stock of such Communications Service Provider, or any portion thereof.</text>
         </para>
       </para>
       <para>
         <num>D.</num>
-        <text>The Commission may approve the acquisition of any stock in accordance with <code-cite path="attachments|law|8.2">this Section</code-cite> only if the acquisition is shown to be in the public interest.</text>
+        <text>The Commission may approve the acquisition of any stock in accordance with <code-cite path="attachments|law|8.2" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite> only if the acquisition is shown to be in the public interest.</text>
       </para>
       <para>
         <num>E.</num>
@@ -1317,7 +1317,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>The applicant has certified in the application for authority that a sum equal to the amount to be so transferred was expended for the purposes enumerated in <code-cite path="attachments|law|8.3">this Section</code-cite>.</text>
+          <text>The applicant has certified in the application for authority that a sum equal to the amount to be so transferred was expended for the purposes enumerated in <code-cite path="attachments|law|8.3" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite>.</text>
         </para>
       </para>
       <para>
@@ -1333,12 +1333,12 @@
         </para>
         <para>
           <num>3.</num>
-          <text>The applicant has certified in the application for authority that the proceeds from the exercise of the stock options are needed for one of the purposes enumerated in <code-cite path="attachments|law|8.3">this Section</code-cite>.</text>
+          <text>The applicant has certified in the application for authority that the proceeds from the exercise of the stock options are needed for one of the purposes enumerated in <code-cite path="attachments|law|8.3" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite>.</text>
         </para>
       </para>
       <para>
         <num>D.</num>
-        <text>The issue of stocks, bonds, or other evidences of indebtedness, within the meaning of <code-cite path="attachments|law|8.3">this Section</code-cite>, shall include the sale by any such corporation of any such securities previously issued in compliance with the provisions of <code-cite path="attachments|law|8.3">this Section</code-cite> and subsequently reacquired by such corporation, provided that:</text>
+        <text>The issue of stocks, bonds, or other evidences of indebtedness, within the meaning of <code-cite path="attachments|law|8.3" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite>, shall include the sale by any such corporation of any such securities previously issued in compliance with the provisions of <code-cite path="attachments|law|8.3" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite> and subsequently reacquired by such corporation, provided that:</text>
         <para>
           <num>1.</num>
           <text>For good cause shown, the Commission may exempt from the restriction hereof stocks, bonds, or other evidences of indebtedness;</text>
@@ -1362,7 +1362,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>Communications Providers may issue notes for proper corporate purposes and not in violation of any provision of <code-cite path="|attachments|law">this Act</code-cite> or of any other act, payable at periods of not more than twelve (12) months without the consent of the Commission provided that no such note shall, in whole or in part, directly or indirectly, be refunded by any issue of stock or bonds, or by any evidences of indebtedness running for more than twelve (12) months, without the consent of the Commission.</text>
+        <text>Communications Providers may issue notes for proper corporate purposes and not in violation of any provision of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> or of any other act, payable at periods of not more than twelve (12) months without the consent of the Commission provided that no such note shall, in whole or in part, directly or indirectly, be refunded by any issue of stock or bonds, or by any evidences of indebtedness running for more than twelve (12) months, without the consent of the Commission.</text>
       </para>
       <para>
         <num>G.</num>
@@ -1370,11 +1370,11 @@
       </para>
       <para>
         <num>H.</num>
-        <text>The Commission shall have power to require every corporation to file with the Commission after the issuance of stocks, bonds, notes, or other evidences of indebtedness issued with or without the approval of the Commission as provided in <code-cite path="attachments|law|8.3">this Section</code-cite>, a notice of such transaction in such form as the Commission may prescribe.</text>
+        <text>The Commission shall have power to require every corporation to file with the Commission after the issuance of stocks, bonds, notes, or other evidences of indebtedness issued with or without the approval of the Commission as provided in <code-cite path="attachments|law|8.3" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite>, a notice of such transaction in such form as the Commission may prescribe.</text>
       </para>
       <para>
         <num>I.</num>
-        <text>The Commission shall have no power to authorize the capitalization of any Franchise Agreement or right to be a corporation, nor to authorize the capitalization of any Franchise Agreement or the right to own, operate, or enjoy any franchise whatsoever in excess of the amount (exclusive of any tax or annual charge) actually paid to the Saint Regis Mohawk Tribe, as the consideration of the grant of such franchise or right, nor to authorize the issuance of any stocks or other securities for any purposes other than those enumerated in <code-cite path="attachments|law|8.3">this Section</code-cite>.</text>
+        <text>The Commission shall have no power to authorize the capitalization of any Franchise Agreement or right to be a corporation, nor to authorize the capitalization of any Franchise Agreement or the right to own, operate, or enjoy any franchise whatsoever in excess of the amount (exclusive of any tax or annual charge) actually paid to the Saint Regis Mohawk Tribe, as the consideration of the grant of such franchise or right, nor to authorize the issuance of any stocks or other securities for any purposes other than those enumerated in <code-cite path="attachments|law|8.3" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite>.</text>
       </para>
     </section>
     <section>
@@ -1400,7 +1400,7 @@
       <codify:insert path="8" renumber-paras="true"/>
       <num codify:value="7.04.430">8.6</num>
       <heading>Application for Authority</heading>
-      <text>Any application for authority under <code-cite path="attachments|law|8.6">this Section</code-cite> shall be deemed granted by the Commission forty-five (45) days after such application is made to the Commission for its consent, unless the Commission, or its designee, determines and informs the applicant in writing within such forty-five (45) day period that the public interest requires the Commission's review and its written order.</text>
+      <text>Any application for authority under <code-cite path="attachments|law|8.6" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite> shall be deemed granted by the Commission forty-five (45) days after such application is made to the Commission for its consent, unless the Commission, or its designee, determines and informs the applicant in writing within such forty-five (45) day period that the public interest requires the Commission's review and its written order.</text>
     </section>
     <section>
       <num>9</num>
@@ -1436,7 +1436,7 @@
       <codify:insert path="9" renumber-paras="true"/>
       <num codify:value="7.04.460">9.3</num>
       <heading>Application for Authority</heading>
-      <text>Any application for authority under <code-cite path="attachments|law|9.3">this Section</code-cite> shall be deemed granted by the Commission forty-five (45) days after such application is made to the Commission for its consent, unless the Commission, or its designee, determines and informs the applicant in writing within such forty-five (45) day period that the public interest requires the Commission's review and its written order.</text>
+      <text>Any application for authority under <code-cite path="attachments|law|9.3" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite> shall be deemed granted by the Commission forty-five (45) days after such application is made to the Commission for its consent, unless the Commission, or its designee, determines and informs the applicant in writing within such forty-five (45) day period that the public interest requires the Commission's review and its written order.</text>
     </section>
     <section>
       <num>10</num>
@@ -1452,7 +1452,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>If a Communications Service Provider does not have a tariff on file with the New York Public Service Commission, then the provider must maintain a Customer Service Guide consistent with this <span codify:value="subchapter">Chapter</span> of <code-cite path="|attachments|law">the Act</code-cite>.</text>
+        <text>If a Communications Service Provider does not have a tariff on file with the New York Public Service Commission, then the provider must maintain a Customer Service Guide consistent with this <span codify:value="subchapter">Chapter</span> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">the Act</code-cite>.</text>
       </para>
     </section>
     <section>
@@ -1626,11 +1626,11 @@
       </para>
       <para>
         <num>C.</num>
-        <text>No change shall be made in the charges, classifications, regulations, or practices which have been so filed and published except after one hundred eighty (180) days' notice to the Commission. In its discretion, the Commission may decrease the notice period. The 180-day period specified in <code-cite path="attachments|law|10.3">this Section</code-cite> will not begin to run for any pending request for a change until the effective date of <code-cite path="|attachments|law">this Act</code-cite>. The Commission may reject and refuse to file any schedule entered for filing which does not provide and give lawful notice of its effective date. Any schedule so rejected by the Commission shall be void and its use shall be unlawful.</text>
+        <text>No change shall be made in the charges, classifications, regulations, or practices which have been so filed and published except after one hundred eighty (180) days' notice to the Commission. In its discretion, the Commission may decrease the notice period. The 180-day period specified in <code-cite path="attachments|law|10.3" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite> will not begin to run for any pending request for a change until the effective date of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>. The Commission may reject and refuse to file any schedule entered for filing which does not provide and give lawful notice of its effective date. Any schedule so rejected by the Commission shall be void and its use shall be unlawful.</text>
       </para>
       <para>
         <num>D.</num>
-        <text>Nothing within <code-cite path="attachments|law|10.3">this Section</code-cite> shall prohibit any person providing Communications Service from offering discounts or promotions or establishing rates at a level below that established by the Commission on a non-discriminatory basis, provided at least fifteen (15) days prior to offering such discounts or promotions such discount or promotion will be filed with the Commission in accordance with its rules and regulations.</text>
+        <text>Nothing within <code-cite path="attachments|law|10.3" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite> shall prohibit any person providing Communications Service from offering discounts or promotions or establishing rates at a level below that established by the Commission on a non-discriminatory basis, provided at least fifteen (15) days prior to offering such discounts or promotions such discount or promotion will be filed with the Commission in accordance with its rules and regulations.</text>
       </para>
     </section>
     <section>
@@ -1720,19 +1720,19 @@
       <codify:insert path="14" renumber-paras="true"/>
       <num codify:value="7.04.600">14.3</num>
       <heading>Obscene or Harassing Telephone Calls</heading>
-      <text>It shall be unlawful for any Person, with intent to annoy, abuse, threaten, or harass any Person at the called number to: make any comment, request, suggestion or proposal which is obscene, lewd, lascivious, filthy, or indecent; make a telephone call, whether or not conversation ensues, without disclosing upon request of the Person called the identity of the caller; make or cause the telephone of another repeatedly or continuously to ring; make repeated telephone calls, during which no conversation ensues; knowingly permit any telephone under his or her control to be used for any purpose prohibited by <code-cite path="|attachments|law">this Act</code-cite>.</text>
+      <text>It shall be unlawful for any Person, with intent to annoy, abuse, threaten, or harass any Person at the called number to: make any comment, request, suggestion or proposal which is obscene, lewd, lascivious, filthy, or indecent; make a telephone call, whether or not conversation ensues, without disclosing upon request of the Person called the identity of the caller; make or cause the telephone of another repeatedly or continuously to ring; make repeated telephone calls, during which no conversation ensues; knowingly permit any telephone under his or her control to be used for any purpose prohibited by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>.</text>
     </section>
     <section>
       <codify:insert path="14" renumber-paras="true"/>
       <num codify:value="7.04.6110">14.4</num>
       <heading>Obtaining Communications Services Fraudulently; Penalty</heading>
-      <text>No Person shall tamper with, or make connection with, the equipment providing Communications Services by mechanical, electrical, acoustical, or other means with intent to avoid payment of the lawful charges for such service. In addition to other sanctions provided in <code-cite path="|attachments|law">the Act</code-cite>, any Person violating the provisions of <code-cite path="attachments|law|14.4">this Section</code-cite> shall be liable to the Communications Service Provider for reasonable damages plus reasonable attorneys' fees and costs.</text>
+      <text>No Person shall tamper with, or make connection with, the equipment providing Communications Services by mechanical, electrical, acoustical, or other means with intent to avoid payment of the lawful charges for such service. In addition to other sanctions provided in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">the Act</code-cite>, any Person violating the provisions of <code-cite path="attachments|law|14.4" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Section</code-cite> shall be liable to the Communications Service Provider for reasonable damages plus reasonable attorneys' fees and costs.</text>
     </section>
     <section>
       <codify:insert path="14" renumber-paras="true"/>
       <num codify:value="7.04.620">14.5</num>
       <heading>Obscenity-Indecency; Penalties</heading>
-      <text>It is unlawful for any person providing Communication Services within the jurisdiction of the Saint Regis Mohawk Tribe to broadcast or in any way produce, transmit, process, or distribute by video programming obscene or indecent material. <code-cite path="attachments|law|14.5">This Section</code-cite> will not become effective until the Commission has issued and promulgated rules and regulations defining "obscene" and "indecent."</text>
+      <text>It is unlawful for any person providing Communication Services within the jurisdiction of the Saint Regis Mohawk Tribe to broadcast or in any way produce, transmit, process, or distribute by video programming obscene or indecent material. <code-cite path="attachments|law|14.5" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">This Section</code-cite> will not become effective until the Commission has issued and promulgated rules and regulations defining "obscene" and "indecent."</text>
     </section>
     <section>
       <codify:insert path="14" renumber-paras="true"/>
@@ -1742,31 +1742,31 @@
     </section>
     <section>
       <num>15</num>
-      <heading>Violations of <code-cite path="|attachments|law">the Act</code-cite></heading>
+      <heading>Violations of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">the Act</code-cite></heading>
     </section>
     <section>
       <codify:insert path="15" renumber-paras="true"/>
       <num codify:value="7.04.640">15.1</num>
       <heading>Penalties</heading>
-      <text>Any Communications Services Provider who violates any provision of <code-cite path="|attachments|law">the Act</code-cite> or decision, order, rule or regulation, or other official pronouncement of the Commission issued pursuant to that Act may be subject to a civil fine imposed by the Commission, provided the Commission will have the discretion to suspend, or impose probationary conditions for avoiding, the fine.</text>
+      <text>Any Communications Services Provider who violates any provision of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">the Act</code-cite> or decision, order, rule or regulation, or other official pronouncement of the Commission issued pursuant to that Act may be subject to a civil fine imposed by the Commission, provided the Commission will have the discretion to suspend, or impose probationary conditions for avoiding, the fine.</text>
     </section>
     <section>
       <codify:insert path="15" renumber-paras="true"/>
       <num codify:value="7.04.650">15.2</num>
       <heading>Revocation of Franchise or Cpcn</heading>
-      <text>Non-compliance with provisions of <code-cite path="|attachments|law">this Act</code-cite> or any duly adopted rule, regulation, decision, order, or other official pronouncement of the Commission, or for other good cause found to exist after a full and fair hearing of the Commission shall be cause for revocation or termination of the Franchise and/or CPCN. Notice of such claim or complaint against the franchisee or holder of the CPCN shall be given at least twenty (20) days before hearing with an opportunity for the franchisee to show cause why the franchise or CPCN should not be revoked or terminated.</text>
+      <text>Non-compliance with provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> or any duly adopted rule, regulation, decision, order, or other official pronouncement of the Commission, or for other good cause found to exist after a full and fair hearing of the Commission shall be cause for revocation or termination of the Franchise and/or CPCN. Notice of such claim or complaint against the franchisee or holder of the CPCN shall be given at least twenty (20) days before hearing with an opportunity for the franchisee to show cause why the franchise or CPCN should not be revoked or terminated.</text>
     </section>
     <section>
       <codify:insert path="15" renumber-paras="true"/>
       <num codify:value="7.04.660">15.3</num>
       <heading>Agency</heading>
-      <text>In determining the existence of any offense under <code-cite path="|attachments|law">this Act</code-cite> or the grounds for imposing any civil penalty under the act or omission of any officer, agent, or employee of a Communications Services Provider, within the scope of his or her authority, duties, or employment, shall be deemed to be the act or omission of the person engaged in Communications Services.</text>
+      <text>In determining the existence of any offense under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> or the grounds for imposing any civil penalty under the act or omission of any officer, agent, or employee of a Communications Services Provider, within the scope of his or her authority, duties, or employment, shall be deemed to be the act or omission of the person engaged in Communications Services.</text>
     </section>
     <section>
       <codify:insert path="16" renumber-paras="true"/>
       <num codify:value="7.04.670">16</num>
       <heading>Injunctions; Show Cause Orders; Contempt</heading>
-      <text>The Commission may apply to any court of competent jurisdiction for injunctions to prevent continuing violations of any provision of <code-cite path="|attachments|law">the Act</code-cite> or of any rule, regulation, decision, order, or other official pronouncement of the Commission issued pursuant to that Act, and for show cause orders to enforce any duly issued subpoena of the Commission, and such courts shall have power to grant such injunctions and show cause orders, and to enforce such injunctions and show cause orders by contempt procedure.</text>
+      <text>The Commission may apply to any court of competent jurisdiction for injunctions to prevent continuing violations of any provision of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">the Act</code-cite> or of any rule, regulation, decision, order, or other official pronouncement of the Commission issued pursuant to that Act, and for show cause orders to enforce any duly issued subpoena of the Commission, and such courts shall have power to grant such injunctions and show cause orders, and to enforce such injunctions and show cause orders by contempt procedure.</text>
     </section>
     <section>
       <num>17</num>
@@ -1794,7 +1794,7 @@
       <codify:insert path="17" renumber-paras="true"/>
       <num codify:value="7.04.710">17.4</num>
       <heading>Satellite Dish</heading>
-      <text>Any person using a satellite dish for retransmission of Communications Services for hire, monetary consideration, or reimbursement shall be subject to the provisions of <code-cite path="|attachments|law">this Act</code-cite> except for those systems expressly preempted by applicable federal law as non-regulated.</text>
+      <text>Any person using a satellite dish for retransmission of Communications Services for hire, monetary consideration, or reimbursement shall be subject to the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> except for those systems expressly preempted by applicable federal law as non-regulated.</text>
     </section>
     <section>
       <num>18</num>
@@ -1816,7 +1816,7 @@
       <codify:insert path="18" renumber-paras="true"/>
       <num codify:value="7.04.740">18.3</num>
       <heading>Disputes</heading>
-      <text>Disputes concerning terms and conditions, including rental rates, of the joint use agreement for attachments shall be resolved by the Commission at a full and fair hearing conducted for that purpose pursuant <code-cite path="|attachments|law">this Act</code-cite>, and in accordance with the Commission's rules and regulations.</text>
+      <text>Disputes concerning terms and conditions, including rental rates, of the joint use agreement for attachments shall be resolved by the Commission at a full and fair hearing conducted for that purpose pursuant <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>, and in accordance with the Commission's rules and regulations.</text>
     </section>
     <section>
       <codify:insert path="19" renumber-paras="true"/>
@@ -1845,7 +1845,7 @@
       <codify:insert path="20" renumber-paras="true"/>
       <num codify:value="7.04.770">20.2</num>
       <heading>Emergency</heading>
-      <text>The Commission, upon its determination that an emergency exists, is authorized to take any and all actions necessary to address the emergency notwithstanding any other provision in <code-cite path="|attachments|law">this Act</code-cite>.</text>
+      <text>The Commission, upon its determination that an emergency exists, is authorized to take any and all actions necessary to address the emergency notwithstanding any other provision in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>.</text>
     </section>
     <section>
       <codify:insert path="20" renumber-paras="true"/>
@@ -1857,13 +1857,13 @@
       <codify:insert path="21" renumber-paras="true"/>
       <num codify:value="7.04.790">21</num>
       <heading>Severability</heading>
-      <text>If any provision of <code-cite path="|attachments|law">this Act</code-cite> or the application of such provision shall be held invalid, the remainder of <code-cite path="|attachments|law">the Act</code-cite> and the application of such provisions other than those held invalid shall not be affected thereby.</text>
+      <text>If any provision of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite> or the application of such provision shall be held invalid, the remainder of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">the Act</code-cite> and the application of such provisions other than those held invalid shall not be affected thereby.</text>
     </section>
     <section>
       <codify:insert path="21" renumber-paras="true"/>
       <num codify:value="7.04.800">22</num>
       <heading>Prior Inconsistent Law Superseded</heading>
-      <text>Upon the effective date of <code-cite path="|attachments|law">this Act</code-cite>, all prior inconsistent enactments, laws, rules, policies, ordinances, and regulations of the Saint Regis Mohawk Tribe and all branches, divisions, departments, offices, and political subdivisions thereof, are superseded hereby and/or amended to comply herewith.</text>
+      <text>Upon the effective date of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2015-17">this Act</code-cite>, all prior inconsistent enactments, laws, rules, policies, ordinances, and regulations of the Saint Regis Mohawk Tribe and all branches, divisions, departments, offices, and political subdivisions thereof, are superseded hereby and/or amended to comply herewith.</text>
     </section>
     <section>
       <codify:insert path="21" renumber-paras="true"/>

@@ -87,7 +87,7 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="13.01.010">I</num>
       <heading>Title</heading>
-      <text><code-cite path="|attachments|law">This Ordinance</code-cite> shall be known as the "Saint Regis Mohawk Tribe's Fishing Ordinance" (hereinafter "Fishing Ordinance").</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">This Ordinance</code-cite> shall be known as the "Saint Regis Mohawk Tribe's Fishing Ordinance" (hereinafter "Fishing Ordinance").</text>
       <annotations>
         <annotation type="History">Res. No. 2011-52</annotation>
         <annotation type="History">Res. No. 2014-07</annotation>
@@ -97,7 +97,7 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="13.01.020">II</num>
       <heading>Purpose</heading>
-      <text><code-cite path="|attachments|law">This Fishing Ordinance</code-cite> and regulations promulgated hereunder are designed to protect the Tribe's natural resources including fish and waterways within the Saint Regis Mohawk Tribe's ("SRMT" or "Tribe") jurisdiction including, but not limited to the waters of the St. Lawrence River and the contributories known as the St. Regis River, Raquette River, Salmon River and Grasse River, and to promote the health, welfare, and safety of all Tribal Members.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">This Fishing Ordinance</code-cite> and regulations promulgated hereunder are designed to protect the Tribe's natural resources including fish and waterways within the Saint Regis Mohawk Tribe's ("SRMT" or "Tribe") jurisdiction including, but not limited to the waters of the St. Lawrence River and the contributories known as the St. Regis River, Raquette River, Salmon River and Grasse River, and to promote the health, welfare, and safety of all Tribal Members.</text>
       <annotations>
         <annotation type="History">Res. No. 2011-52</annotation>
         <annotation type="History">Res. No. 2014-07</annotation>
@@ -107,8 +107,8 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="13.01.030">III</num>
       <heading>Authority</heading>
-      <text>The Saint Regis Mohawk Tribal Council ("Tribal Council") has the inherent sovereign power to enact laws governing commercial activity within the Tribe's territory and to adopt laws to protect the health, welfare, and safety of all Tribal Members. Tribal Council with its inherent authority may delegate its authority to the Tribe's Compliance Department to promulgate and enforce fishing regulations. The Compliance Department is hereby delegated authority and is authorized to adopt any regulations it deems necessary to implement <code-cite path="|attachments|law">this Fishing Ordinance</code-cite>.</text>
-      <text>Pursuant to the Compliance Department's delegated authority its actions regarding <code-cite path="|attachments|law">this Fishing Ordinance</code-cite> shall be taken in the Tribe's best interests. These actions are undertaken to ensure the continuation of natural resources such as fish, which are important to the community that may use it as a food source or a source of economic development for Tribal Members.</text>
+      <text>The Saint Regis Mohawk Tribal Council ("Tribal Council") has the inherent sovereign power to enact laws governing commercial activity within the Tribe's territory and to adopt laws to protect the health, welfare, and safety of all Tribal Members. Tribal Council with its inherent authority may delegate its authority to the Tribe's Compliance Department to promulgate and enforce fishing regulations. The Compliance Department is hereby delegated authority and is authorized to adopt any regulations it deems necessary to implement <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite>.</text>
+      <text>Pursuant to the Compliance Department's delegated authority its actions regarding <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite> shall be taken in the Tribe's best interests. These actions are undertaken to ensure the continuation of natural resources such as fish, which are important to the community that may use it as a food source or a source of economic development for Tribal Members.</text>
       <annotations>
         <annotation type="History">Res. No. 2011-52</annotation>
         <annotation type="History">Res. No. 2014-07</annotation>
@@ -118,7 +118,7 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="13.01.040">IV</num>
       <heading>Applicability</heading>
-      <text><code-cite path="|attachments|law">This Fishing Ordinance</code-cite> shall be applicable to Members and Non-Members to participate in fishing activities within the Tribe's jurisdiction.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">This Fishing Ordinance</code-cite> shall be applicable to Members and Non-Members to participate in fishing activities within the Tribe's jurisdiction.</text>
       <annotations>
         <annotation type="History">Res. No. 2011-52</annotation>
         <annotation type="History">Res. No. 2014-07</annotation>
@@ -132,7 +132,7 @@
       <text><strong>"Angling/ Fishing"</strong> means taking fish by hook and line. This includes bait and fly fishing, casting, trolling and the use of landing nets to complete the catch. Anglers must be in immediate attendance when their lines are in the water. An angler may operate no more than two lines with or without a rod, and each line is limited to not more than five lures or baits or a combination of both, and in addition, each line shall not exceed fifteen hook points in any combination of single, double or treble hooks. Snatching, lifting, hooking and use of tip-ups are not angling.</text>
       <text><strong>"Artificial fly"</strong> means a hook with no more than two points dressed with feathers, hair, thread, tinsel or any similar material to which no additional hooks, spinners, spoons or similar devices have been added.</text>
       <text><strong>"Artificial lures or bait"</strong> means artificial imitations of natural bait, man-made flies, spinners, spoons, plugs, jigs and other lures including those that may contain some natural substances such as deer hair and feathers.</text>
-      <text><strong>"Compliance Inspector"</strong> means any staff member of the Compliance Department who is assigned to patrol, monitor and enforce <code-cite path="|attachments|law">this ordinance</code-cite>, either by water vessel or land patrols of Tribal waterways.</text>
+      <text><strong>"Compliance Inspector"</strong> means any staff member of the Compliance Department who is assigned to patrol, monitor and enforce <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this ordinance</code-cite>, either by water vessel or land patrols of Tribal waterways.</text>
       <text><strong>"Black bass"</strong> means both largemouth and smallmouth bass.</text>
       <text><strong>"Blind snatching"</strong> means the taking of fish by snatching when the fish is not visible to the angler.</text>
       <text><strong>"Catch and release"</strong> means catching and immediately releasing the caught fish without harm. Measuring, weighing and photographing of the fish are permitted as long as the fish is not removed from the water for an extended period of time or handled in a manner that could cause it harm. Fish may not be placed in a bucket, tub, live well, on a string or any other holding device.</text>
@@ -229,7 +229,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>A determination that the individual applicant would not likely comply with <code-cite path="|attachments|law">this Fishing Ordinance</code-cite>, or other tribal laws; or</text>
+          <text>A determination that the individual applicant would not likely comply with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite>, or other tribal laws; or</text>
         </para>
         <para>
           <num>3.</num>
@@ -287,7 +287,7 @@
         <text>Charter Fishing Boat Operators and Fishing Guide Applicants - A person desiring to be a Charter Boat Operator or a Fishing Guide on the waters of the Tribe must first apply for a permit and certify to the following requirements and conditions within their registered jurisdiction. The fee is $250.00 for Non-Residents. Resident Member Mohawks or SRMT members application fees shall be $25.00 per season. All applicants must be 21 years of age or older.</text>
         <para>
           <num>1.</num>
-          <text>Display of Charter Boat/Fishing Guide Permit. While operating as a Charter Boat or Fishing Guide, Charter Boat Operators and Fishing Guides must display their SRMT permits on a hat or an outer garment in plain view. Charter Boat Operators and Fishing Guides must present their Charter Boat/Fishing Guide permits upon the request of a Waterways Compliance Officer (WCO) authorized to enforce <code-cite path="|attachments|law">this Fishing Ordinance</code-cite>.</text>
+          <text>Display of Charter Boat/Fishing Guide Permit. While operating as a Charter Boat or Fishing Guide, Charter Boat Operators and Fishing Guides must display their SRMT permits on a hat or an outer garment in plain view. Charter Boat Operators and Fishing Guides must present their Charter Boat/Fishing Guide permits upon the request of a Waterways Compliance Officer (WCO) authorized to enforce <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>2.</num>
@@ -324,11 +324,11 @@
         </text>
         <para>
           <num>1.</num>
-          <text>The Saint Regis Mohawk Tribal Court has the jurisdiction over matters arising under <code-cite path="|attachments|law">this Fishing Ordinance</code-cite>.</text>
+          <text>The Saint Regis Mohawk Tribal Court has the jurisdiction over matters arising under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>In the sole discretion of a Compliance Inspector; any individual found to be violating <code-cite path="|attachments|law">this Fishing Ordinance</code-cite> may be offered the opportunity to comply by completing an application for a Fishing Permit and remitting the appropriate application fee. In his/her discretion, the Compliance Inspector may issue a fine pursuant to <code-cite path="attachments|law|VII|D.">subsection D</code-cite> herein and collect the fine. If such a fine is issued and collected, a record of it will be submitted to Tribal Court for record-keeping.</text>
+          <text>In the sole discretion of a Compliance Inspector; any individual found to be violating <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite> may be offered the opportunity to comply by completing an application for a Fishing Permit and remitting the appropriate application fee. In his/her discretion, the Compliance Inspector may issue a fine pursuant to <code-cite path="attachments|law|VII|D." doc="Saint Regis Mohawk Tribe Res. No. 2023-42">subsection D</code-cite> herein and collect the fine. If such a fine is issued and collected, a record of it will be submitted to Tribal Court for record-keeping.</text>
         </para>
         <para>
           <num>3.</num>
@@ -336,11 +336,11 @@
         </para>
         <para>
           <num>4.</num>
-          <text>If a Compliance Inspector reasonably believes an individual is in violation of <code-cite path="|attachments|law">this Fishing Ordinance</code-cite> or the individual refuses to comply with the Compliance Inspector request he/she shall issue a Notice of Violation with a date certain to appear before Tribal Court. The procedure for Tribal Court is outlined in <code-cite path="attachments|law|VII|C.">section C</code-cite> herein.</text>
+          <text>If a Compliance Inspector reasonably believes an individual is in violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite> or the individual refuses to comply with the Compliance Inspector request he/she shall issue a Notice of Violation with a date certain to appear before Tribal Court. The procedure for Tribal Court is outlined in <code-cite path="attachments|law|VII|C." doc="Saint Regis Mohawk Tribe Res. No. 2023-42">section C</code-cite> herein.</text>
         </para>
         <para>
           <num>5.</num>
-          <text>A Compliance Inspector has the authority and may seize any article or vessel if he or she believes <code-cite path="|attachments|law">this Fishing Ordinance</code-cite> has been violated. Any article seized or ordered forfeited pursuant to <code-cite path="|attachments|law">this Fishing Ordinance</code-cite> shall be held in accordance with SRMT policy and will be remitted to the owner upon a Tribal Court order.</text>
+          <text>A Compliance Inspector has the authority and may seize any article or vessel if he or she believes <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite> has been violated. Any article seized or ordered forfeited pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite> shall be held in accordance with SRMT policy and will be remitted to the owner upon a Tribal Court order.</text>
         </para>
       </para>
       <para>
@@ -352,19 +352,19 @@
         </text>
         <para>
           <num>1.</num>
-          <text>Any Non-Member who does not possess a valid SRMT Non-Member Fishing Permit is in violation of <code-cite path="|attachments|law">this Fishing Ordinance</code-cite>.</text>
+          <text>Any Non-Member who does not possess a valid SRMT Non-Member Fishing Permit is in violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>Any Non-Member determined to be in possession of a species of fish that is not in season (<cite doc="Saint Regis Mohawk Tribal Code of Law" path="13.01|A">Appendix A</cite>) shall be in violation of <code-cite path="|attachments|law">this Fishing Ordinance</code-cite>.</text>
+          <text>Any Non-Member determined to be in possession of a species of fish that is not in season (<cite doc="Saint Regis Mohawk Tribal Code of Law" path="13.01|A">Appendix A</cite>) shall be in violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>3.</num>
-          <text>Any Non-Member found to be in possession of more fish than permitted in the daily limits (<cite doc="Saint Regis Mohawk Tribal Code of Law" path="13.01|A">Appendix A</cite>) shall be in violation of <code-cite path="|attachments|law">this Fishing Ordinance</code-cite>.</text>
+          <text>Any Non-Member found to be in possession of more fish than permitted in the daily limits (<cite doc="Saint Regis Mohawk Tribal Code of Law" path="13.01|A">Appendix A</cite>) shall be in violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>4.</num>
-          <text>Should a Fishing Permit holder be found have previously violated <code-cite path="|attachments|law">this Fishing Ordinance</code-cite> or any other Tribal Law on a recurring basis a Compliance Inspector may seize the Permit immediately, complete a report substantiating the basis for taking the Permit, and may issue a summons to appear in Tribal Court.</text>
+          <text>Should a Fishing Permit holder be found have previously violated <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite> or any other Tribal Law on a recurring basis a Compliance Inspector may seize the Permit immediately, complete a report substantiating the basis for taking the Permit, and may issue a summons to appear in Tribal Court.</text>
         </para>
       </para>
       <para>
@@ -376,7 +376,7 @@
         </text>
         <para>
           <num>1.</num>
-          <text>For every Notice of Violation (Ticket) that a Compliance Inspector issues pursuant to <code-cite path="attachments|law|VII|A.|4.">Section VII.A.4</code-cite>, shall be made returnable to Tribal Court the first Tuesday of the following month at 1:00 pm.</text>
+          <text>For every Notice of Violation (Ticket) that a Compliance Inspector issues pursuant to <code-cite path="attachments|law|VII|A.|4." doc="Saint Regis Mohawk Tribe Res. No. 2023-42">Section VII.A.4</code-cite>, shall be made returnable to Tribal Court the first Tuesday of the following month at 1:00 pm.</text>
         </para>
         <para>
           <num>2.</num>
@@ -384,7 +384,7 @@
         </para>
         <para>
           <num>3.</num>
-          <text>Upon the preponderance of evidence, the Tribal Court shall determine whether a violation under Subsection B or of <code-cite path="|attachments|law">this Fishing Ordinance</code-cite> has occurred. If it determines a violation occurred, the Tribal Court shall determine the amount of the fine and any penalty based upon subsection D that the violator must pay.</text>
+          <text>Upon the preponderance of evidence, the Tribal Court shall determine whether a violation under Subsection B or of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite> has occurred. If it determines a violation occurred, the Tribal Court shall determine the amount of the fine and any penalty based upon subsection D that the violator must pay.</text>
         </para>
       </para>
       <para>
@@ -396,7 +396,7 @@
         </text>
         <para>
           <num>1.</num>
-          <text>Tribal Court may assess the following fines and penalties for violations of <code-cite path="|attachments|law">this Ordinance</code-cite>:</text>
+          <text>Tribal Court may assess the following fines and penalties for violations of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Ordinance</code-cite>:</text>
           <para>
             <num>a.</num>
             <text><strong>First Offense</strong> -A monetary fine of up to Five Hundred dollars ($500.00) and a Thirty-Five dollar ($35.00) administration surcharge as a penalty. When Tribal Court issues the fine it may include a year-long ban from fishing within the Tribe's jurisdiction. For those with permits, if a ban is imposed, the violator shall need to turn in his/her permit.</text>
@@ -432,7 +432,7 @@
             <u>Permit Holder Responsibilities</u>
           </strong>
         </text>
-        <text>Every Non-Member who has obtained a permit under <code-cite path="|attachments|law">this Fishing Ordinance</code-cite> shall:</text>
+        <text>Every Non-Member who has obtained a permit under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite> shall:</text>
         <para>
           <num>1.</num>
           <text>Have the issued Permit on his person at all times when Angling/ Fishing within the jurisdiction of the SRMT</text>
@@ -517,7 +517,7 @@
         </para>
         <para>
           <num>3.</num>
-          <text>All Non-Member tournament participants must follow <code-cite path="|attachments|law">this Fishing Ordinance</code-cite> when fishing within SRMT jurisdiction</text>
+          <text>All Non-Member tournament participants must follow <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite> when fishing within SRMT jurisdiction</text>
         </para>
         <para>
           <num>4.</num>
@@ -531,7 +531,7 @@
             <u>Amendments</u>
           </strong>
         </text>
-        <text><code-cite path="|attachments|law">This Fishing Ordinance</code-cite> may be amended by Tribal Council Resolution. This process shall allow for any changes that may be necessary and shall be within the best interests of the Tribe and shall continue to ensure the health, safety and welfare of Tribal Members and the community.</text>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">This Fishing Ordinance</code-cite> may be amended by Tribal Council Resolution. This process shall allow for any changes that may be necessary and shall be within the best interests of the Tribe and shall continue to ensure the health, safety and welfare of Tribal Members and the community.</text>
       </para>
       <para>
         <num>F.</num>
@@ -540,7 +540,7 @@
             <u>Severability</u>
           </strong>
         </text>
-        <text>The provisions of <code-cite path="|attachments|law">this Fishing Ordinance</code-cite> are severable and if any part or provision shall be held void by any Court of competent jurisdiction. the decision of the Court so holding shall not affect or impair any of the remaining parts or provisions of <code-cite path="|attachments|law">this Fishing Ordinance</code-cite>.</text>
+        <text>The provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite> are severable and if any part or provision shall be held void by any Court of competent jurisdiction. the decision of the Court so holding shall not affect or impair any of the remaining parts or provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite>.</text>
       </para>
       <para>
         <num>G.</num>
@@ -558,7 +558,7 @@
             <u>Effective Date</u>
           </strong>
         </text>
-        <text><code-cite path="|attachments|law">This Fishing Ordinance</code-cite> shall become effective upon enactment</text>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">This Fishing Ordinance</code-cite> shall become effective upon enactment</text>
       </para>
       <annotations>
         <annotation type="History">Res. No. 2011-52</annotation>

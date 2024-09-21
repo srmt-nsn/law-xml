@@ -83,7 +83,7 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.04.010">I</num>
       <heading>Title</heading>
-      <text><code-cite path="|attachments|law">This Ordinance</code-cite> shall be known as the Saint Regis Mohawk Tribal Ethics Ordinance.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">This Ordinance</code-cite> shall be known as the Saint Regis Mohawk Tribal Ethics Ordinance.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
@@ -97,8 +97,8 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.04.030">III</num>
       <heading>Purpose and Policy</heading>
-      <text>The purpose of <code-cite path="|attachments|law">this Ordinance</code-cite> is to require elected officials to be accountable to the tribal membership and to act with integrity and honesty and to maintain high standards of honesty, integrity, fairness and impartiality in their conduct.</text>
-      <text>The Tribal Council and the Tribal Clerk shall act in the best interest of the Saint Regis Mohawk Tribe and the tribal membership. <code-cite path="|attachments|law">This Ordinance</code-cite> is intended to guide the actions of elected officials and provide guidance for the conduct of tribal business, to protect the interests of the tribal membership, and to protect the reputation and integrity of the Tribal Government.</text>
+      <text>The purpose of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> is to require elected officials to be accountable to the tribal membership and to act with integrity and honesty and to maintain high standards of honesty, integrity, fairness and impartiality in their conduct.</text>
+      <text>The Tribal Council and the Tribal Clerk shall act in the best interest of the Saint Regis Mohawk Tribe and the tribal membership. <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">This Ordinance</code-cite> is intended to guide the actions of elected officials and provide guidance for the conduct of tribal business, to protect the interests of the tribal membership, and to protect the reputation and integrity of the Tribal Government.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
@@ -130,7 +130,7 @@
       </para>
       <para>
         <num>7.</num>
-        <text>"Ethics Officer" is the person selected by the Tribe under <code-cite path="|attachments|law">this Ordinance</code-cite> to oversee and coordinate ethics violations. The position is a part-time, as needed basis position, not a full time position.</text>
+        <text>"Ethics Officer" is the person selected by the Tribe under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> to oversee and coordinate ethics violations. The position is a part-time, as needed basis position, not a full time position.</text>
       </para>
       <para>
         <num>8.</num>
@@ -166,7 +166,7 @@
       </para>
       <para>
         <num>16.</num>
-        <text>"Personal Interest" for the purposes of <code-cite path="|attachments|law">this Ordinance</code-cite> means an action taken by a Tribal Council member or the Tribal Clerk which is intended to benefit the Tribal Council member or the Tribal Clerk and/or his or her immediate family rather than the Saint Regis Mohawk Tribe or tribal membership as a whole.</text>
+        <text>"Personal Interest" for the purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> means an action taken by a Tribal Council member or the Tribal Clerk which is intended to benefit the Tribal Council member or the Tribal Clerk and/or his or her immediate family rather than the Saint Regis Mohawk Tribe or tribal membership as a whole.</text>
       </para>
       <para>
         <num>17.</num>
@@ -182,11 +182,11 @@
       </para>
       <para>
         <num>20.</num>
-        <text>"Tribal Clerk" for the purposes of <code-cite path="|attachments|law">this Ordinance</code-cite> shall mean the duly elected Tribal Clerk in his/her official capacity.</text>
+        <text>"Tribal Clerk" for the purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> shall mean the duly elected Tribal Clerk in his/her official capacity.</text>
       </para>
       <para>
         <num>21.</num>
-        <text>"Tribal Council" for the purposes of <code-cite path="|attachments|law">this Ordinance</code-cite> shall mean the duly elected Chiefs and Sub-Chiefs together in their official capacity.</text>
+        <text>"Tribal Council" for the purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> shall mean the duly elected Chiefs and Sub-Chiefs together in their official capacity.</text>
       </para>
       <para>
         <num>22.</num>
@@ -205,7 +205,7 @@
         <num>A.</num>
         <text>Conformity with Applicable Laws</text>
         <text>All elected officials shall comply with all laws which apply to elected officials that are applicable within the jurisdiction of the Tribe. Compliance is required whether or not the laws apply to the Official in his or her individual or official capacity.</text>
-        <text>An elected official who is convicted of a serious crime shall be guilty of violating <code-cite path="|attachments|law">this Ordinance</code-cite>; except that a conviction related to an act of civil disobedience shall subject the official only to investigation under <code-cite path="|attachments|law">this Ordinance</code-cite> which may or may not result in a sanction able violation of <code-cite path="|attachments|law">this Ordinance</code-cite>. A plea of no contest, a plea to a lesser charge or a conviction of a lesser charge may constitute a conviction for purposes of this subsection if the plea or conviction would be sufficient, in a civil context, to support a judgment of said official with regard to the original charge.</text>
+        <text>An elected official who is convicted of a serious crime shall be guilty of violating <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>; except that a conviction related to an act of civil disobedience shall subject the official only to investigation under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> which may or may not result in a sanction able violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>. A plea of no contest, a plea to a lesser charge or a conviction of a lesser charge may constitute a conviction for purposes of this subsection if the plea or conviction would be sufficient, in a civil context, to support a judgment of said official with regard to the original charge.</text>
       </para>
       <para>
         <num>B.</num>
@@ -325,7 +325,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>Subject to the restrictions in <code-cite path="|attachments|law">this Ordinance</code-cite>, elected officials are free to engage in lawful financial transactions to the same extent as any tribal member.</text>
+          <text>Subject to the restrictions in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>, elected officials are free to engage in lawful financial transactions to the same extent as any tribal member.</text>
         </para>
         <para>
           <num>3.</num>
@@ -416,12 +416,12 @@
       <para>
         <num>M.</num>
         <text>Official Statements and Representations</text>
-        <text>Elected Officials shall not make official statements to the media that misrepresent the Tribe or the position of the Tribe. This provision shall not prohibit a Tribal Council member from defending him or herself from a criminal charge or civil claim or testifying as a witness in a legal proceeding, or from responding to allegations concerning conduct made pursuant to <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>Elected Officials shall not make official statements to the media that misrepresent the Tribe or the position of the Tribe. This provision shall not prohibit a Tribal Council member from defending him or herself from a criminal charge or civil claim or testifying as a witness in a legal proceeding, or from responding to allegations concerning conduct made pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>.</text>
       </para>
       <para>
         <num>N.</num>
         <text>Attendance at Meetings</text>
-        <text>A Tribal Council member, and when applicable, the Tribal Clerk, shall attend all regular and special Tribal Council meetings, and all Tribal monthly meetings. A Council member or the Tribal Clerk shall notify the Tribal Council prior to any meeting they will not attend, with a valid excuse. Three (3) unexcused absences during a Tribal Council member's or Tribal Clerk's term shall constitute a violation of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>A Tribal Council member, and when applicable, the Tribal Clerk, shall attend all regular and special Tribal Council meetings, and all Tribal monthly meetings. A Council member or the Tribal Clerk shall notify the Tribal Council prior to any meeting they will not attend, with a valid excuse. Three (3) unexcused absences during a Tribal Council member's or Tribal Clerk's term shall constitute a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>.</text>
       </para>
     </section>
     <section>
@@ -433,7 +433,7 @@
         <text>Persons required to File Annual Disclosure Statements</text>
         <para>
           <num>1.</num>
-          <text>The following persons shall be required to file a Disclosure Statement in accordance with the provisions of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>The following persons shall be required to file a Disclosure Statement in accordance with the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>.</text>
           <para>
             <num>a.</num>
             <text>Three Chiefs</text>
@@ -457,11 +457,11 @@
         <text>Confidentiality of Disclosure Statements</text>
         <para>
           <num>1.</num>
-          <text>Disclosure Statements filed by elected officials shall be kept on record with the Ethics Officer during the term of the elected official. They shall be maintained in the same manner and the same extent as confidential personnel records of the Tribe and shall not be deemed, maintained, nor used for any purpose or in any manner as a public record, nor shall the contents of any Disclosure Statement be made available for inspection or copying by any person in any manner except as required for the determination of relevant information pertaining to examinations, investigations or hearing conducted in accordance with <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>Disclosure Statements filed by elected officials shall be kept on record with the Ethics Officer during the term of the elected official. They shall be maintained in the same manner and the same extent as confidential personnel records of the Tribe and shall not be deemed, maintained, nor used for any purpose or in any manner as a public record, nor shall the contents of any Disclosure Statement be made available for inspection or copying by any person in any manner except as required for the determination of relevant information pertaining to examinations, investigations or hearing conducted in accordance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>Violations of any provisions of <code-cite path="attachments|law|VI">this section</code-cite> shall be punishable in the same manner and to the same extent as provided by any provision of law applicable to unauthorized disclosure of confidential information of any privileged official information or records of the Tribe.</text>
+          <text>Violations of any provisions of <code-cite path="attachments|law|VI" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this section</code-cite> shall be punishable in the same manner and to the same extent as provided by any provision of law applicable to unauthorized disclosure of confidential information of any privileged official information or records of the Tribe.</text>
         </para>
         <para>
           <num>3.</num>
@@ -479,7 +479,7 @@
       <heading>Appointment of Ethics Officer</heading>
       <para>
         <num>A.</num>
-        <text>An Ethics Officer shall be appointed by the Tribal Council within thirty (30) days of the enactment of <code-cite path="|attachments|law">this ordinance</code-cite>.</text>
+        <text>An Ethics Officer shall be appointed by the Tribal Council within thirty (30) days of the enactment of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this ordinance</code-cite>.</text>
       </para>
       <para>
         <num>B.</num>
@@ -530,7 +530,7 @@
       <heading>Ethics Commission</heading>
       <para>
         <num>A.</num>
-        <text>There is hereby established an Ethics Commission for the purposes of administration and enforcement of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>There is hereby established an Ethics Commission for the purposes of administration and enforcement of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>.</text>
       </para>
       <para>
         <num>B.</num>
@@ -629,7 +629,7 @@
         <text>Powers of Ethics Commission</text>
         <para>
           <num>1.</num>
-          <text>The Ethics Commission has the power to make amendments to <code-cite path="|attachments|law">this Ordinance</code-cite> pursuant to <code-cite path="attachments|law|XI">Section XI</code-cite>.</text>
+          <text>The Ethics Commission has the power to make amendments to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> pursuant to <code-cite path="attachments|law|XI" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">Section XI</code-cite>.</text>
         </para>
         <para>
           <num>2.</num>
@@ -664,7 +664,7 @@
           <text>Upon the recommendation of the Ethics Officer, the Ethics Commission may review any non-frivolous complaint and dismiss any allegation that:</text>
           <para>
             <num>a.</num>
-            <text>Contains facts insufficient to constitute a violation of <code-cite path="|attachments|law">this Ordinance</code-cite>; or</text>
+            <text>Contains facts insufficient to constitute a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>; or</text>
           </para>
           <para>
             <num>b.</num>
@@ -687,14 +687,14 @@
       <para>
         <num>G.</num>
         <text>Allegations or Complaints of Ethical Violations</text>
-        <text>Allegations of unethical conduct, as defined in <code-cite path="|attachments|law">this Ordinance</code-cite>, by an elected official, shall be presented to the Ethics Commission through the Ethics Officer and processed in the following manner.</text>
+        <text>Allegations of unethical conduct, as defined in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>, by an elected official, shall be presented to the Ethics Commission through the Ethics Officer and processed in the following manner.</text>
         <para>
           <num>1.</num>
           <text>Allegations of unethical conduct against an elected official shall be made in writing and submitted to the Ethics Officer.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>Any person who believes that an elected official has engaged in unethical conduct as defined by <code-cite path="|attachments|law">this Ordinance</code-cite> may submit a written complaint. The complaint shall specify the elected official against whom a complaint of unethical conduct is being made, and the conduct that is alleged to be unethical. The party making the complaint must provide all details of the allegation including the names of any witnesses and any documentation or other evidence supporting the complaint.</text>
+          <text>Any person who believes that an elected official has engaged in unethical conduct as defined by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> may submit a written complaint. The complaint shall specify the elected official against whom a complaint of unethical conduct is being made, and the conduct that is alleged to be unethical. The party making the complaint must provide all details of the allegation including the names of any witnesses and any documentation or other evidence supporting the complaint.</text>
           <para>
             <num>a.</num>
             <text>Anonymous complaints shall not be received; all complaints must be signed and notarized in accordance with rules and regulations to be established by the Ethics Officer.</text>
@@ -714,7 +714,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>The purpose of the initial review shall be to determine whether the allegation made falls within the scope of <code-cite path="|attachments|law">this Ordinance</code-cite>, whether it is a frivolous complaint and whether the Ethics Commission has jurisdiction to make a determination as to the allegation of unethical conduct. The elected official against whom the allegation is made shall not participate in the initial review.</text>
+          <text>The purpose of the initial review shall be to determine whether the allegation made falls within the scope of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>, whether it is a frivolous complaint and whether the Ethics Commission has jurisdiction to make a determination as to the allegation of unethical conduct. The elected official against whom the allegation is made shall not participate in the initial review.</text>
         </para>
         <para>
           <num>3.</num>
@@ -728,7 +728,7 @@
       <para>
         <num>I.</num>
         <text>Statute of Limitations</text>
-        <text>No complaint shall be considered by the Ethics Commission if more than five (5) years have passed from the date when the alleged violation occurred. Further, the Ethics Commission had no jurisdiction to hear a claim arising out of conduct which occurred prior to the date of enactment of <code-cite path="|attachments|law">this Ordinance</code-cite>, unless such conduct is of a continuing and on-going nature.</text>
+        <text>No complaint shall be considered by the Ethics Commission if more than five (5) years have passed from the date when the alleged violation occurred. Further, the Ethics Commission had no jurisdiction to hear a claim arising out of conduct which occurred prior to the date of enactment of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>, unless such conduct is of a continuing and on-going nature.</text>
       </para>
       <para>
         <num>J.</num>
@@ -740,7 +740,7 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.04.090">IX</num>
       <heading>Sanctions and Penalties</heading>
-      <text>The Ethics Commission may impose a sanction or sanctions against any elected official who is found to have engaged in unethical conduct under <code-cite path="|attachments|law">this Ordinance</code-cite>. Such sanctions may include, but shall not be limited to, the following:</text>
+      <text>The Ethics Commission may impose a sanction or sanctions against any elected official who is found to have engaged in unethical conduct under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>. Such sanctions may include, but shall not be limited to, the following:</text>
       <para>
         <num>1.</num>
         <text>The recommendation of recall election of an elected position forwarded to the Elections Board, the Tribal Council and the Tribal Clerk.</text>
@@ -764,7 +764,7 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="1.04.110">XI</num>
       <heading>Amendment</heading>
-      <text><code-cite path="|attachments|law">This Ordinance</code-cite> shall be amended by a petition presented by a tribal member or by the recommendation of the Tribal Council. The petition or recommendation shall be given to the Ethics Officer who shall form an Ethics Commission to decide whether or not to amend the Ordinance. That decision shall be forwarded to the Tribal Council for amendment.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">This Ordinance</code-cite> shall be amended by a petition presented by a tribal member or by the recommendation of the Tribal Council. The petition or recommendation shall be given to the Ethics Officer who shall form an Ethics Commission to decide whether or not to amend the Ordinance. That decision shall be forwarded to the Tribal Council for amendment.</text>
     </section>
   </attachment>
 </document>

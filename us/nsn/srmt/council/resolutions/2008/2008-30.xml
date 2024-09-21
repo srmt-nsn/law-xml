@@ -141,7 +141,7 @@
         <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="7.07.010">A</num>
         <heading>Short Title</heading>
-        <text><code-cite path="|attachments|law">This ordinance</code-cite> shall be known as the St. Regis Mohawk Tribe Land Assignment Ordinance. Its short title shall be the "Land Assignment Ordinance".</text>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2008-30">This ordinance</code-cite> shall be known as the St. Regis Mohawk Tribe Land Assignment Ordinance. Its short title shall be the "Land Assignment Ordinance".</text>
       </section>
       <section>
         <codify:insert path="1" renumber-paras="true"/>
@@ -169,7 +169,7 @@
         <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="7.07.030">C</num>
         <heading>Purpose</heading>
-        <text>The purpose of <code-cite path="|attachments|law">this ordinance</code-cite> is to convert and structure the current land interests into tribal land assignments so that such may be pledged as security for a mortgage; and to create a land assignment process to protect the interests of the tribal member borrower, the lender, and any federal agency that is involved.</text>
+        <text>The purpose of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2008-30">this ordinance</code-cite> is to convert and structure the current land interests into tribal land assignments so that such may be pledged as security for a mortgage; and to create a land assignment process to protect the interests of the tribal member borrower, the lender, and any federal agency that is involved.</text>
       </section>
     </container>
     <container>
@@ -587,7 +587,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Tribal Court shall have jurisdiction and authority to hear and adjudicate any enforcement action brought pursuant to <code-cite path="|attachments|law|IV|A">this section</code-cite>.</text>
+          <text>Tribal Court shall have jurisdiction and authority to hear and adjudicate any enforcement action brought pursuant to <code-cite path="|attachments|law|IV|A" doc="Saint Regis Mohawk Tribe Res. No. 2008-30">this section</code-cite>.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -742,7 +742,7 @@
           </para>
           <para>
             <num>(h)</num>
-            <text>The index, the log, and the instruments or copies of the instruments duly recorded shall be made available for public inspection during regular Tribal business hours and pursuant to such reasonable rules as the Tribal Council may from time to time adopt. Subject to subsection <span codify:value="(a)(9)">(i)</span> of <code-cite path="|attachments|law|VI|D">this section</code-cite>, the Tribal Clerk shall provide the public copies of the same and upon request, shall certify a copy as true and accurate.</text>
+            <text>The index, the log, and the instruments or copies of the instruments duly recorded shall be made available for public inspection during regular Tribal business hours and pursuant to such reasonable rules as the Tribal Council may from time to time adopt. Subject to subsection <span codify:value="(a)(9)">(i)</span> of <code-cite path="|attachments|law|VI|D" doc="Saint Regis Mohawk Tribe Res. No. 2008-30">this section</code-cite>, the Tribal Clerk shall provide the public copies of the same and upon request, shall certify a copy as true and accurate.</text>
           </para>
           <para>
             <num>(i)</num>

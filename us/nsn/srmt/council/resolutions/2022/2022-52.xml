@@ -19,7 +19,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>pursuant to the Tribal Procedures Act (<cite doc="Saint Regis Mohawk Tribe Res. No. 2013-32" path="§V|B.|2.">TCR 2013-32) Section V.B.2</cite> the Tribal Council called in <cite doc="Saint Regis Mohawk Tribe Res. No. 2022-35">TCR 2022-35</cite> for the Saint Regis Mohawk Tribe Election Board ("Election Board") to conduct a referendum ("Referendum") with the following question: "Do you support the Saint Regis Mohawk Tribal Council adopting the updated Election and Referendum Ordinance" with the proposed amended ordinance attached; and</text>
+      <text>pursuant to the Tribal Procedures Act (<cite doc="Saint Regis Mohawk Tribe Res. No. 2013-32" path="attachments|law|V|B.|2.">TCR 2013-32) Section V.B.2</cite> the Tribal Council called in <cite doc="Saint Regis Mohawk Tribe Res. No. 2022-35">TCR 2022-35</cite> for the Saint Regis Mohawk Tribe Election Board ("Election Board") to conduct a referendum ("Referendum") with the following question: "Do you support the Saint Regis Mohawk Tribal Council adopting the updated Election and Referendum Ordinance" with the proposed amended ordinance attached; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -27,7 +27,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Referendum question was approved by a vote of 47-16 with the Election Board certifying the results (<cite doc="Saint Regis Mohawk Tribe Res. No. 2013-32" path="§X|5.">TCR 2013-32 Section X.5</cite>); and</text>
+      <text>the Referendum question was approved by a vote of 47-16 with the Election Board certifying the results (<cite doc="Saint Regis Mohawk Tribe Res. No. 2013-32" path="attachments|law|X|5.">TCR 2013-32 Section X.5</cite>); and</text>
     </recital>
     <recital>
       <conjunction>NOW, THEREFORE, BE IT RESOLVED,</conjunction>
@@ -84,7 +84,7 @@
       <text codify:tag="heading" codify:value="Purpose">
         <strong>PURPOSE</strong>
       </text>
-      <text>The purpose of <code-cite path="|attachments|law">this Ordinance</code-cite> is to provide uniform and consistent procedures for the management of Saint Regis Mohawk Tribal Elections and Referendums.</text>
+      <text>The purpose of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite> is to provide uniform and consistent procedures for the management of Saint Regis Mohawk Tribal Elections and Referendums.</text>
     </para>
     <para codify:tag="section">
       <codify:insert renumber-paras="true"/>
@@ -98,11 +98,11 @@
       </para>
       <para>
         <num>B.</num>
-        <text>"Alternate Voting Methods" means the different means of voting outlined in <code-cite path="|attachments|law|VIII.">Section VIII</code-cite>.</text>
+        <text>"Alternate Voting Methods" means the different means of voting outlined in <code-cite path="|attachments|law|VIII." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section VIII</code-cite>.</text>
       </para>
       <para>
         <num>C.</num>
-        <text>"Annual Election" means the election held as outlined in <code-cite path="|attachments|law|III.|A.">Section III.A</code-cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>"Annual Election" means the election held as outlined in <code-cite path="|attachments|law|III.|A." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section III.A</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
       </para>
       <para>
         <num>D.</num>
@@ -110,11 +110,11 @@
       </para>
       <para>
         <num>E.</num>
-        <text>"Candidate" means a person who has been nominated at Caucus and has met the eligibility criteria as determined by the Election Board in <code-cite path="|attachments|law|IV.|C.">Section IV.C</code-cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>"Candidate" means a person who has been nominated at Caucus and has met the eligibility criteria as determined by the Election Board in <code-cite path="|attachments|law|IV.|C." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section IV.C</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
       </para>
       <para>
         <num>F.</num>
-        <text>"Caucus" means a duly convened meeting for the purpose of nominating candidates for elected positions by enrolled Tribal members following the processes outlined in <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>"Caucus" means a duly convened meeting for the purpose of nominating candidates for elected positions by enrolled Tribal members following the processes outlined in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
       </para>
       <para>
         <num>G.</num>
@@ -130,11 +130,11 @@
       </para>
       <para>
         <num>J.</num>
-        <text>"Eligible Voter" means anyone who meets the eligibility criteria under <code-cite path="|attachments|law|VII.">Section VII</code-cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>"Eligible Voter" means anyone who meets the eligibility criteria under <code-cite path="|attachments|law|VII." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section VII</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
       </para>
       <para>
         <num>K.</num>
-        <text>"Eligible Voter's List" means a list, compiled by the Tribal Clerk, of enrolled members who meet the eligibility criteria under <code-cite path="|attachments|law|VII.">Section VII</code-cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>"Eligible Voter's List" means a list, compiled by the Tribal Clerk, of enrolled members who meet the eligibility criteria under <code-cite path="|attachments|law|VII." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section VII</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
       </para>
       <para>
         <num>L.</num>
@@ -150,7 +150,7 @@
       </para>
       <para>
         <num>O.</num>
-        <text>"Referendum" means any question posed to Eligible Voters in accordance with <code-cite path="|attachments|law|XV.">Section XV</code-cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>"Referendum" means any question posed to Eligible Voters in accordance with <code-cite path="|attachments|law|XV." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section XV</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
       </para>
       <para>
         <num>P.</num>
@@ -174,7 +174,7 @@
       </para>
       <para>
         <num>U.</num>
-        <text>"Write-In Candidate" means anyone whose name is not on the ballot, but has fulfilled the requirements of <code-cite path="|attachments|law|V.|E.">Section V.F</code-cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>"Write-In Candidate" means anyone whose name is not on the ballot, but has fulfilled the requirements of <code-cite path="|attachments|law|V.|E." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section V.F</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
       </para>
     </para>
     <para codify:tag="section">
@@ -249,7 +249,7 @@
       </para>
       <para>
         <num>H.</num>
-        <text>The Election Board has the authority to remove any individual found in violation of <code-cite path="|attachments|law">this Ordinance</code-cite> from the Polling Area.</text>
+        <text>The Election Board has the authority to remove any individual found in violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite> from the Polling Area.</text>
       </para>
       <para>
         <num>I.</num>
@@ -265,11 +265,11 @@
       </para>
       <para>
         <num>L.</num>
-        <text>Where the Tribal Clerk is required to act under <code-cite path="|attachments|law">this Ordinance</code-cite>, those responsibilities may be designated to the Deputy Tribal Clerk or another designee of the Tribal Clerk.</text>
+        <text>Where the Tribal Clerk is required to act under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>, those responsibilities may be designated to the Deputy Tribal Clerk or another designee of the Tribal Clerk.</text>
       </para>
       <para>
         <num>M.</num>
-        <text>Solely for the purposes of the Tribal Procedures Act (<cite doc="Saint Regis Mohawk Tribe Res. No. 2013-32">TCR 2013-32</cite> or as amended), <code-cite path="|attachments|law|VI.|C.|1.">Section VI.C.1</code-cite> the Election Board includes the Appeal Panel.</text>
+        <text>Solely for the purposes of the Tribal Procedures Act (<cite doc="Saint Regis Mohawk Tribe Res. No. 2013-32">TCR 2013-32</cite> or as amended), <code-cite path="|attachments|law|VI.|C.|1." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section VI.C.1</code-cite> the Election Board includes the Appeal Panel.</text>
       </para>
     </para>
     <para codify:tag="section">
@@ -283,7 +283,7 @@
         <text>Election Board Appointment:</text>
         <para>
           <num>1.</num>
-          <text>The Tribal Council shall appoint members to the Election Board, through a Tribal Council Resolution, which shall consist of three (3) members and up to two (2) alternates. Alternates must meet the requirements of <code-cite path="|attachments|law|IV.|B.">subsection B</code-cite> herein.</text>
+          <text>The Tribal Council shall appoint members to the Election Board, through a Tribal Council Resolution, which shall consist of three (3) members and up to two (2) alternates. Alternates must meet the requirements of <code-cite path="|attachments|law|IV.|B." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">subsection B</code-cite> herein.</text>
         </para>
         <para>
           <num>2.</num>
@@ -306,7 +306,7 @@
           </para>
           <para>
             <num>b.</num>
-            <text>Pass a drug test and meet the criminal background requirements for Candidates, as defined in <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+            <text>Pass a drug test and meet the criminal background requirements for Candidates, as defined in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
           </para>
         </para>
       </para>
@@ -323,11 +323,11 @@
         </para>
         <para>
           <num>3.</num>
-          <text>The Election Board shall adopt by-laws, regulations, and procedures consistent with <code-cite path="|attachments|law">this Ordinance</code-cite>, as necessary, and shall be responsible for performing their duties in accordance with <code-cite path="|attachments|law">this Ordinance</code-cite>, their by-laws, policies, and procedures, including carrying out all aspects of conducting an Election or Referendum. All by-laws, regulations, and procedures adopted by the Election Board shall be listed in an appendix to <code-cite path="|attachments|law">this Ordinance</code-cite> and made publicly available.</text>
+          <text>The Election Board shall adopt by-laws, regulations, and procedures consistent with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>, as necessary, and shall be responsible for performing their duties in accordance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>, their by-laws, policies, and procedures, including carrying out all aspects of conducting an Election or Referendum. All by-laws, regulations, and procedures adopted by the Election Board shall be listed in an appendix to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite> and made publicly available.</text>
         </para>
         <para>
           <num>4.</num>
-          <text>The Election Board shall have the power to conduct all Elections and Referendums free from any outside influence and shall do so in accordance with <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>The Election Board shall have the power to conduct all Elections and Referendums free from any outside influence and shall do so in accordance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>5.</num>
@@ -335,7 +335,7 @@
         </para>
         <para>
           <num>6.</num>
-          <text>The Board shall perform all tasks required of it by <code-cite path="|attachments|law">this Ordinance</code-cite> and shall be responsible for the following:</text>
+          <text>The Board shall perform all tasks required of it by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite> and shall be responsible for the following:</text>
           <para>
             <num>a.</num>
             <text>Provide public notices of the time, date, and place for Caucus, Elections, and Referenda;</text>
@@ -350,7 +350,7 @@
           </para>
           <para>
             <num>d.</num>
-            <text>Confirm Candidates meet the eligibility criteria as prescribed in <code-cite path="|attachments|law|V.">Section V</code-cite> herein with an affidavit prescribed by the Election Board;</text>
+            <text>Confirm Candidates meet the eligibility criteria as prescribed in <code-cite path="|attachments|law|V." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section V</code-cite> herein with an affidavit prescribed by the Election Board;</text>
           </para>
           <para>
             <num>e.</num>
@@ -387,7 +387,7 @@
         </para>
         <para>
           <num>7.</num>
-          <text>The Election Board shall be responsible for maintaining accurate and organized records of all Elections, Referenda, petitions, appeals, and any other materials or documents related to the administration of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>The Election Board shall be responsible for maintaining accurate and organized records of all Elections, Referenda, petitions, appeals, and any other materials or documents related to the administration of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>8.</num>
@@ -395,7 +395,7 @@
         </para>
         <para>
           <num>9.</num>
-          <text>The Election Board may request technical opinions or guidance from appropriate professionals in making decisions under <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>The Election Board may request technical opinions or guidance from appropriate professionals in making decisions under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
         </para>
       </para>
       <para>
@@ -411,7 +411,7 @@
         <text>Election Board Equipment and Materials - Payment of Expenses:</text>
         <para>
           <num>1.</num>
-          <text>According to a budget approved by Tribal Council, the Election Board may procure equipment, supplies, materials, books, papers, and records of any kind, as well as training to conduct elections, as the Election Board deems necessary to facilitate and assist in administering <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>According to a budget approved by Tribal Council, the Election Board may procure equipment, supplies, materials, books, papers, and records of any kind, as well as training to conduct elections, as the Election Board deems necessary to facilitate and assist in administering <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
         </para>
       </para>
     </para>
@@ -430,7 +430,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>Not have been convicted of any serious crime as defined by <code-cite path="|attachments|law">this Ordinance</code-cite> and must sign a release authorizing a criminal background check within three (3) business days of Caucus;</text>
+          <text>Not have been convicted of any serious crime as defined by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite> and must sign a release authorizing a criminal background check within three (3) business days of Caucus;</text>
         </para>
         <para>
           <num>3.</num>
@@ -574,7 +574,7 @@
         </para>
         <para>
           <num>3.</num>
-          <text>Should a Write-In Candidate be declared the winner of an elective position, that Write-In Candidate must meet all requirements specified in <code-cite path="|attachments|law|V.">Section V</code-cite>, except <code-cite path="|attachments|law|V.|A.|1.">V.A.1.</code-cite>, before their election to such position is certified by the Election Board.</text>
+          <text>Should a Write-In Candidate be declared the winner of an elective position, that Write-In Candidate must meet all requirements specified in <code-cite path="|attachments|law|V." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section V</code-cite>, except <code-cite path="|attachments|law|V.|A.|1." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">V.A.1.</code-cite>, before their election to such position is certified by the Election Board.</text>
         </para>
       </para>
     </para>
@@ -692,7 +692,7 @@
           </para>
           <para>
             <num>e.</num>
-            <text>The only elective officials exempt from the provisions of <code-cite path="|attachments|law|VI.">this section</code-cite> shall be non-full time Judges/Justice, who shall be permitted to retain their position as Judges/Justices while otherwise employed or seeking employment, so long as such employment does not constitute a conflict of interest with their appointment as a Judge or Justice.</text>
+            <text>The only elective officials exempt from the provisions of <code-cite path="|attachments|law|VI." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this section</code-cite> shall be non-full time Judges/Justice, who shall be permitted to retain their position as Judges/Justices while otherwise employed or seeking employment, so long as such employment does not constitute a conflict of interest with their appointment as a Judge or Justice.</text>
           </para>
         </para>
       </para>
@@ -834,7 +834,7 @@
       </para>
       <para>
         <num>E.</num>
-        <text>All nominees are responsible for submitting the required paperwork as outlined in <code-cite path="|attachments|law|V.|A.">Section V.A</code-cite> herein and taking their drug test within three (3) business days of Caucus.</text>
+        <text>All nominees are responsible for submitting the required paperwork as outlined in <code-cite path="|attachments|law|V.|A." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section V.A</code-cite> herein and taking their drug test within three (3) business days of Caucus.</text>
       </para>
       <para>
         <num>F.</num>
@@ -857,10 +857,10 @@
       </para>
       <para>
         <num>C.</num>
-        <text>The Election Board shall determine whether each nominee is eligible to be a candidate under each corresponding section of <code-cite path="|attachments|law">this Ordinance</code-cite> by verifying their eligibility in accordance with the following requirements and timelines:</text>
+        <text>The Election Board shall determine whether each nominee is eligible to be a candidate under each corresponding section of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite> by verifying their eligibility in accordance with the following requirements and timelines:</text>
         <para>
           <num>1.</num>
-          <text>For any position having a residency requirement, the residency determinations shall be made within two (2) business days of the close of Caucus. Should a nominee be deemed ineligible, the nominee has until the close of business of the Friday immediately following the Caucus, in which to prove their residency eligibility. The Election Board's decision regarding residency may be appealed to the Appeal Panel pursuant to <code-cite path="|attachments|law|XVI.">Section XVI</code-cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>For any position having a residency requirement, the residency determinations shall be made within two (2) business days of the close of Caucus. Should a nominee be deemed ineligible, the nominee has until the close of business of the Friday immediately following the Caucus, in which to prove their residency eligibility. The Election Board's decision regarding residency may be appealed to the Appeal Panel pursuant to <code-cite path="|attachments|law|XVI." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section XVI</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>2.</num>
@@ -872,7 +872,7 @@
         </para>
         <para>
           <num>4.</num>
-          <text>The Election Board shall render its decision on Serious Crimes, good moral character, and good judgment six (6) business days following Caucus or within three (3) days of receiving the criminal background check report, and the Election Board's decision may be appealed to the Appeal Panel in accordance with <code-cite path="|attachments|law|XVI.">Section XVI</code-cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>The Election Board shall render its decision on Serious Crimes, good moral character, and good judgment six (6) business days following Caucus or within three (3) days of receiving the criminal background check report, and the Election Board's decision may be appealed to the Appeal Panel in accordance with <code-cite path="|attachments|law|XVI." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section XVI</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>5.</num>
@@ -944,7 +944,7 @@
       </para>
       <para>
         <num>G.</num>
-        <text>No person is permitted to leave the polling place with any ballots in their possession. Election officials or Tribal Police shall, upon discovery, seize ballots in the possession of anyone leaving the polling place. Seized ballots will be marked "SEIZED" and "VOID". The provisions of <code-cite path="|attachments|law|XII.">this Section</code-cite> shall not apply to election officials required to move or process ballots as part of their official duties.</text>
+        <text>No person is permitted to leave the polling place with any ballots in their possession. Election officials or Tribal Police shall, upon discovery, seize ballots in the possession of anyone leaving the polling place. Seized ballots will be marked "SEIZED" and "VOID". The provisions of <code-cite path="|attachments|law|XII." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Section</code-cite> shall not apply to election officials required to move or process ballots as part of their official duties.</text>
       </para>
       <para>
         <num>H.</num>
@@ -994,7 +994,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>Report in writing on the backside of the ballot the reason for the rejection citing the sub-section from <code-cite path="|attachments|law|XIII.">this Section</code-cite>. The rejected ballot will be signed by all Election Board members present to confirm the invalidity of the rejected ballot.</text>
+          <text>Report in writing on the backside of the ballot the reason for the rejection citing the sub-section from <code-cite path="|attachments|law|XIII." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Section</code-cite>. The rejected ballot will be signed by all Election Board members present to confirm the invalidity of the rejected ballot.</text>
         </para>
         <para>
           <num>3.</num>
@@ -1074,7 +1074,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>In the event the successful Candidate for a position fails to take office for any reason, including a successful appeal of the Election results, the position will be filled by a Special Election to be held as soon as practicable in accordance with <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>In the event the successful Candidate for a position fails to take office for any reason, including a successful appeal of the Election results, the position will be filled by a Special Election to be held as soon as practicable in accordance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
       </para>
     </para>
     <para codify:tag="section">
@@ -1125,7 +1125,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>Eligibility of voters for a referendum shall be the same as prescribed in <code-cite path="|attachments|law|VII.">Section VII</code-cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>Eligibility of voters for a referendum shall be the same as prescribed in <code-cite path="|attachments|law|VII." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section VII</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
       </para>
       <para>
         <num>G.</num>
@@ -1133,7 +1133,7 @@
       </para>
       <para>
         <num>H.</num>
-        <text>Absentee voting shall be the same as prescribed in <code-cite path="|attachments|law|VIII.">Section VIII</code-cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>Absentee voting shall be the same as prescribed in <code-cite path="|attachments|law|VIII." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section VIII</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
       </para>
       <para>
         <num>I.</num>
@@ -1149,7 +1149,7 @@
       </para>
       <para>
         <num>L.</num>
-        <text>Any appeals to the results of a Referendum shall be dealt with in accordance with <code-cite path="|attachments|law|XIV.">Section XIV</code-cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+        <text>Any appeals to the results of a Referendum shall be dealt with in accordance with <code-cite path="|attachments|law|XIV." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section XIV</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
       </para>
       <para>
         <num>M.</num>
@@ -1235,7 +1235,7 @@
         <text>Appeal Panel Appointment:</text>
         <para>
           <num>1.</num>
-          <text>Appeal Panel Composition: The Tribal Council shall appoint with a Tribal Council Resolution five (5) members to an Appeal Panel whose mandate is to review appeals made pursuant to <code-cite path="|attachments|law">this Ordinance</code-cite>. The Appeal Panel is not considered part of the Election Board and is a standalone decision-making body.</text>
+          <text>Appeal Panel Composition: The Tribal Council shall appoint with a Tribal Council Resolution five (5) members to an Appeal Panel whose mandate is to review appeals made pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>. The Appeal Panel is not considered part of the Election Board and is a standalone decision-making body.</text>
         </para>
         <para>
           <num>2.</num>
@@ -1247,7 +1247,7 @@
         <text>Appeal Panel Qualifications:</text>
         <para>
           <num>1.</num>
-          <text>To serve on the Appeal Panel, members must be Tribally enrolled, must pass a drug test, and meet the criminal background requirements for Candidates, as defined in <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>To serve on the Appeal Panel, members must be Tribally enrolled, must pass a drug test, and meet the criminal background requirements for Candidates, as defined in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
         </para>
       </para>
       <para>
@@ -1255,7 +1255,7 @@
         <text>Appeal Panel Powers, Oath and Responsibilities:</text>
         <para>
           <num>1.</num>
-          <text>Upon accepting an appointment, each Appeal Panel member shall take and sign an oath that shall become part of the Appeal Panel's records stating that they will serve according to the best of their ability and shall make every effort to undertake review of the Election Board's decisions and to faithfully execute <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>Upon accepting an appointment, each Appeal Panel member shall take and sign an oath that shall become part of the Appeal Panel's records stating that they will serve according to the best of their ability and shall make every effort to undertake review of the Election Board's decisions and to faithfully execute <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>2.</num>
@@ -1263,11 +1263,11 @@
         </para>
         <para>
           <num>3.</num>
-          <text>The Appeal Panel shall adopt by-laws, regulations, and procedures consistent with <code-cite path="|attachments|law">this Ordinance</code-cite>, as necessary, and shall be responsible for performing their duties in accordance with <code-cite path="|attachments|law">this Ordinance</code-cite>, their by-laws, policies, and procedures, including carrying out all aspects of reviewing appeals.</text>
+          <text>The Appeal Panel shall adopt by-laws, regulations, and procedures consistent with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>, as necessary, and shall be responsible for performing their duties in accordance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>, their by-laws, policies, and procedures, including carrying out all aspects of reviewing appeals.</text>
         </para>
         <para>
           <num>4.</num>
-          <text>The Appeal Panel shall have the power to review submitted appeals free from any outside influence and shall do so in accordance with <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>The Appeal Panel shall have the power to review submitted appeals free from any outside influence and shall do so in accordance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>5.</num>
@@ -1291,7 +1291,7 @@
         </para>
         <para>
           <num>8.</num>
-          <text>The Appeal Panel shall hear the following appeals under <code-cite path="|attachments|law">this Ordinance</code-cite>, including:</text>
+          <text>The Appeal Panel shall hear the following appeals under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite>, including:</text>
           <para>
             <num>a.</num>
             <text>Decisions regarding the determination of Candidate eligibility, including determinations regarding a Candidate's residency; and</text>
@@ -1305,7 +1305,7 @@
             </para>
             <para>
               <num>ii.</num>
-              <text>That there was a violation of <code-cite path="|attachments|law">this Ordinance</code-cite> in the conduct of the Referendum or Election that may have changed the result; and</text>
+              <text>That there was a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite> in the conduct of the Referendum or Election that may have changed the result; and</text>
             </para>
             <para>
               <num>iii.</num>
@@ -1338,7 +1338,7 @@
         <text>General Provisions:</text>
         <para>
           <num>1.</num>
-          <text>Any appeals of any decision made by the Election Board pursuant to <code-cite path="|attachments|law">this Ordinance</code-cite> must be in writing, addressed to the Appeal Panel within five (5) business days of the Election Board's decision, and include the prescribed filing fee.</text>
+          <text>Any appeals of any decision made by the Election Board pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">this Ordinance</code-cite> must be in writing, addressed to the Appeal Panel within five (5) business days of the Election Board's decision, and include the prescribed filing fee.</text>
         </para>
         <para>
           <num>2.</num>
@@ -1346,7 +1346,7 @@
         </para>
         <para>
           <num>3.</num>
-          <text>The Appeal Panel shall determine if an appeal filed has merit to warrant a hearing and shall conduct a hearing according to the provisions in <code-cite path="|attachments|law|XVI.">Section XVI.</code-cite> and hearing procedures adopted by the Appeal Panel.</text>
+          <text>The Appeal Panel shall determine if an appeal filed has merit to warrant a hearing and shall conduct a hearing according to the provisions in <code-cite path="|attachments|law|XVI." doc="Saint Regis Mohawk Tribe Res. No. 2022-52">Section XVI.</code-cite> and hearing procedures adopted by the Appeal Panel.</text>
         </para>
         <para>
           <num>4.</num>
@@ -1478,7 +1478,7 @@
       </text>
       <para>
         <num>A.</num>
-        <text><code-cite path="|attachments|law">This Ordinance</code-cite> may be amended by:</text>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">This Ordinance</code-cite> may be amended by:</text>
         <para>
           <num>1.</num>
           <text>A duly conducted Referendum; or</text>
@@ -1495,7 +1495,7 @@
       <text codify:tag="heading" codify:value="Repealer">
         <strong>REPEALER</strong>
       </text>
-      <text><code-cite path="|attachments|law">This Ordinance</code-cite> shall supersede and replace all prior Ordinances, or portions thereof, adopted by the Saint Regis Mohawk Tribe, as they pertain to the matters contained herein.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-52">This Ordinance</code-cite> shall supersede and replace all prior Ordinances, or portions thereof, adopted by the Saint Regis Mohawk Tribe, as they pertain to the matters contained herein.</text>
     </para>
   </attachment>
 </document>

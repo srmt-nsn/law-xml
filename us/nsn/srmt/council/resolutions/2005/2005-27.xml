@@ -86,7 +86,7 @@
       <text codify:tag="heading" codify:value="Title">
         <strong>TITLE</strong>
       </text>
-      <text><code-cite path="|attachments|law">This ordinance</code-cite> shall be known as the Saint Regis Mohawk Pawnbroker Ordinance.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2005-27">This ordinance</code-cite> shall be known as the Saint Regis Mohawk Pawnbroker Ordinance.</text>
     </para>
     <para codify:tag="section">
       <codify:insert renumber-paras="true"/>
@@ -287,7 +287,7 @@
       </text>
       <para>
         <num>A.</num>
-        <text>The Compliance Department may enter an order imposing one or more fines or penalties set forth in paragraph <span codify:value="(b)">B</span> of <code-cite path="|attachments|law|VII.">this section</code-cite> if the Compliance Department finds that a pawnbroker:</text>
+        <text>The Compliance Department may enter an order imposing one or more fines or penalties set forth in paragraph <span codify:value="(b)">B</span> of <code-cite path="|attachments|law|VII." doc="Saint Regis Mohawk Tribe Res. No. 2005-27">this section</code-cite> if the Compliance Department finds that a pawnbroker:</text>
         <para>
           <num>1.</num>
           <text>Violated or is operating in violation of any provisions of this regulation or of the rules adopted or orders issued pursuant to this regulation;</text>
@@ -311,7 +311,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>If the Compliance Department makes a finding as set forth in paragraph <span codify:value="(a)">A</span> of <code-cite path="|attachments|law|VII.">this section</code-cite>, the Compliance Department may enter an order doing one or more of the following:</text>
+        <text>If the Compliance Department makes a finding as set forth in paragraph <span codify:value="(a)">A</span> of <code-cite path="|attachments|law|VII." doc="Saint Regis Mohawk Tribe Res. No. 2005-27">this section</code-cite>, the Compliance Department may enter an order doing one or more of the following:</text>
         <para>
           <num>1.</num>
           <text>Issuing a Notice of Noncompliance or Violation;</text>
@@ -335,7 +335,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>If the Compliance Department enters an order pursuant to Paragraph <span codify:value="(b)">B</span> of <code-cite path="|attachments|law|VII.">this section</code-cite>, such order shall be evidence of a lack of good standing and may be considered in other licensing determinations.</text>
+        <text>If the Compliance Department enters an order pursuant to Paragraph <span codify:value="(b)">B</span> of <code-cite path="|attachments|law|VII." doc="Saint Regis Mohawk Tribe Res. No. 2005-27">this section</code-cite>, such order shall be evidence of a lack of good standing and may be considered in other licensing determinations.</text>
       </para>
       <para>
         <num>D.</num>
@@ -350,7 +350,7 @@
       </text>
       <para>
         <num>A.</num>
-        <text>At the time the pawnbroker enters into any pawn or purchase transaction, the pawnbroker shall complete a pawnbroker transaction form for such transaction, including an indication of whether the transaction is a pawn or a purchase, and the pledgor or seller shall sign such completed form. The pawnbroker transaction form shall be created in triplicate. The Compliance Department must approve the design and format of the pawnbroker transaction form, which must be 8 ½ inches x 11 inches in size and elicit the information required under <code-cite path="|attachments|law|VIII.">this section</code-cite>. In completing the pawnbroker transaction form, the pawnbroker shall record the following information, which must be typed or legibly written in the English language.</text>
+        <text>At the time the pawnbroker enters into any pawn or purchase transaction, the pawnbroker shall complete a pawnbroker transaction form for such transaction, including an indication of whether the transaction is a pawn or a purchase, and the pledgor or seller shall sign such completed form. The pawnbroker transaction form shall be created in triplicate. The Compliance Department must approve the design and format of the pawnbroker transaction form, which must be 8 ½ inches x 11 inches in size and elicit the information required under <code-cite path="|attachments|law|VIII." doc="Saint Regis Mohawk Tribe Res. No. 2005-27">this section</code-cite>. In completing the pawnbroker transaction form, the pawnbroker shall record the following information, which must be typed or legibly written in the English language.</text>
       </para>
       <para>
         <num>B.</num>
@@ -548,7 +548,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>If pledged goods are redeemed within the original 30-day period, a pawnbroker is entitled to the amount specified in paragraph <span codify:value="(a)">A</span> of <code-cite path="|attachments|law|X.">this section</code-cite>. Any unused pawn service charge paid in advance by the pledgor shall be refunded by the pawnbroker.</text>
+        <text>If pledged goods are redeemed within the original 30-day period, a pawnbroker is entitled to the amount specified in paragraph <span codify:value="(a)">A</span> of <code-cite path="|attachments|law|X." doc="Saint Regis Mohawk Tribe Res. No. 2005-27">this section</code-cite>. Any unused pawn service charge paid in advance by the pledgor shall be refunded by the pawnbroker.</text>
       </para>
       <para>
         <num>D.</num>
@@ -708,11 +708,11 @@
       </para>
       <para>
         <num>B.</num>
-        <text>If any provision of <code-cite path="|attachments|law">this ordinance</code-cite> or its application is held to be invalid, the remainder of the ordinance shall not be affected.</text>
+        <text>If any provision of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2005-27">this ordinance</code-cite> or its application is held to be invalid, the remainder of the ordinance shall not be affected.</text>
       </para>
       <para>
         <num>C.</num>
-        <text>The Compliance Department will propose and the Saint Regis Mohawk Tribal Council may adopt regulations and forms necessary to implement the provisions of <code-cite path="|attachments|law">this ordinance</code-cite>.</text>
+        <text>The Compliance Department will propose and the Saint Regis Mohawk Tribal Council may adopt regulations and forms necessary to implement the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2005-27">this ordinance</code-cite>.</text>
       </para>
       <para>
         <num>D.</num>

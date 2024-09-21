@@ -80,8 +80,8 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.06.010">1</num>
       <heading>Purpose</heading>
-      <text><code-cite path="|attachments|law">The Code</code-cite> contains rules of high standards of conduct binding on the judges of the Saint Regis Mohawk Tribal Court so that the integrity and independence of the judiciary is preserved. <code-cite path="|attachments|law">The Code</code-cite> is interpreted in accordance with applicable law and procedures and with consideration of relevant facts and circumstances.</text>
-      <text><code-cite path="|attachments|law">The Code</code-cite> is enforced by the Judicial Oversight Commission of the Saint Regis Mohawk Tribe by appropriate disciplinary measures, if determined necessary by them, while safeguarding the right of judges to decide cases independently and promoting public confidence in the integrity and honor of the Saint Regis Mohawk Tribal Court system.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2014-02">The Code</code-cite> contains rules of high standards of conduct binding on the judges of the Saint Regis Mohawk Tribal Court so that the integrity and independence of the judiciary is preserved. <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2014-02">The Code</code-cite> is interpreted in accordance with applicable law and procedures and with consideration of relevant facts and circumstances.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2014-02">The Code</code-cite> is enforced by the Judicial Oversight Commission of the Saint Regis Mohawk Tribe by appropriate disciplinary measures, if determined necessary by them, while safeguarding the right of judges to decide cases independently and promoting public confidence in the integrity and honor of the Saint Regis Mohawk Tribal Court system.</text>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2011-44"/>
     </section>
     <section>
@@ -302,14 +302,14 @@
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.06.080">8</num>
       <heading>Amendment</heading>
-      <text><code-cite path="|attachments|law">This Act</code-cite> may be amended by the Tribal Council.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2014-02">This Act</code-cite> may be amended by the Tribal Council.</text>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2011-44"/>
     </section>
     <section>
       <codify:insert renumber-paras="true"/>
       <num codify:value="2.06.090">9</num>
       <heading>Severability</heading>
-      <text>If any word, clause, phrase, sentence, subsection, section, or other provision of <code-cite path="|attachments|law">this Code</code-cite> is held invalid by a court of competent jurisdiction, the invalidity shall not affect any other provisions or applications of this law that can be given effect without the invalid provision.</text>
+      <text>If any word, clause, phrase, sentence, subsection, section, or other provision of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2014-02">this Code</code-cite> is held invalid by a court of competent jurisdiction, the invalidity shall not affect any other provisions or applications of this law that can be given effect without the invalid provision.</text>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2011-44"/>
     </section>
   </attachment>

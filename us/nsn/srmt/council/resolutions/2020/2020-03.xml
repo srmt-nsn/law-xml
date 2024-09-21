@@ -243,7 +243,7 @@
         <codify:insert path="1" renumber-paras="true"/>
         <num codify:value="15.03.010">1.1</num>
         <heading>Title</heading>
-        <text><code-cite path="|attachments|law">This Ordinance</code-cite> shall be known as the "Saint Regis Mohawk Tribe Medical Marijuana Ordinance".</text>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">This Ordinance</code-cite> shall be known as the "Saint Regis Mohawk Tribe Medical Marijuana Ordinance".</text>
       </section>
       <section>
         <codify:insert path="1" renumber-paras="true"/>
@@ -268,7 +268,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text><code-cite path="|attachments|law">This Ordinance</code-cite> establishes a comprehensive Tribal regulatory process over all aspects of medical marijuana use including, but not limited to, possession, acquisition, use, delivery, transfer, transportation, manufacture, and sale of medical marijuana on Tribal Territory. To administer this process, the Tribe herein establishes two regulatory bodies: (1) the Akwesasne Public Health Authority that will serve as the administrator of the rules and regulations; and (2) the Akwesasne Medical Marijuana Advisory Board that will act as an advisory body on scientific and technical matters.</text>
+          <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">This Ordinance</code-cite> establishes a comprehensive Tribal regulatory process over all aspects of medical marijuana use including, but not limited to, possession, acquisition, use, delivery, transfer, transportation, manufacture, and sale of medical marijuana on Tribal Territory. To administer this process, the Tribe herein establishes two regulatory bodies: (1) the Akwesasne Public Health Authority that will serve as the administrator of the rules and regulations; and (2) the Akwesasne Medical Marijuana Advisory Board that will act as an advisory body on scientific and technical matters.</text>
         </para>
       </section>
       <section>
@@ -277,7 +277,7 @@
         <heading>Definitions</heading>
         <para>
           <num>(a)</num>
-          <text>The following are definitions of terms and words used in <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>The following are definitions of terms and words used in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>.</text>
           <para>
             <num>1.</num>
             <text>"Tribal Territory" or "Territory" means all lands within the 1796 Treaty with the Seven Nations of Canada (97 Stat. 55) and includes any other lands over which the Tribe exercises jurisdiction.</text>
@@ -288,7 +288,7 @@
           </para>
           <para>
             <num>3.</num>
-            <text>"Tribal Council", for purposes of <code-cite path="|attachments|law">this Ordinance</code-cite>, means the three duly elected Chiefs of the Saint Regis Mohawk Tribe.</text>
+            <text>"Tribal Council", for purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>, means the three duly elected Chiefs of the Saint Regis Mohawk Tribe.</text>
           </para>
           <para>
             <num>4.</num>
@@ -300,7 +300,7 @@
           </para>
           <para>
             <num>6.</num>
-            <text>"Medical Marijuana" means all parts of the plant of the genus Cannabis, whether growing or not; the seeds thereof; the resin extracted from any part of the plant; and every compound, manufacture, salt, derivative, mixture, or preparation of the plant, its seeds or resin, intended for a certified medical use. Any form of medical marijuana not approved by the Authority pursuant to <code-cite path="|attachments|law">this Ordinance</code-cite> is expressly prohibited. It does not include the mature stalks of the plant, fiber produced from the stalks, oil or cake made from the seeds of the plant, any other compound, manufacture, salt, derivative, mixture, or preparation of the mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of the plant which is incapable of germination.</text>
+            <text>"Medical Marijuana" means all parts of the plant of the genus Cannabis, whether growing or not; the seeds thereof; the resin extracted from any part of the plant; and every compound, manufacture, salt, derivative, mixture, or preparation of the plant, its seeds or resin, intended for a certified medical use. Any form of medical marijuana not approved by the Authority pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite> is expressly prohibited. It does not include the mature stalks of the plant, fiber produced from the stalks, oil or cake made from the seeds of the plant, any other compound, manufacture, salt, derivative, mixture, or preparation of the mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of the plant which is incapable of germination.</text>
           </para>
           <para>
             <num>7.</num>
@@ -335,18 +335,18 @@
         <heading>Akwesasne Public Health Authority</heading>
         <para>
           <num>(a)</num>
-          <text>The Tribal Council establishes the Akwesasne Public Health Authority ("Authority") as the regulatory body to administer the provisions of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>The Tribal Council establishes the Akwesasne Public Health Authority ("Authority") as the regulatory body to administer the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>(b)</num>
           <text>The powers and duties of the Authority shall include, but not be limited to:</text>
           <para>
             <num>1.</num>
-            <text>Administer the provisions of <code-cite path="|attachments|law">this Ordinance</code-cite> including making and enforcing all decisions of the Authority;</text>
+            <text>Administer the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite> including making and enforcing all decisions of the Authority;</text>
           </para>
           <para>
             <num>2.</num>
-            <text>Accept, review, approve, or disapprove applications required under <code-cite path="|attachments|law">this Ordinance</code-cite> including, but not limited to, applications for registration of certified patients, practitioners, registered entities;</text>
+            <text>Accept, review, approve, or disapprove applications required under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite> including, but not limited to, applications for registration of certified patients, practitioners, registered entities;</text>
           </para>
           <para>
             <num>3.</num>
@@ -513,7 +513,7 @@
         <heading>Other Board Requirements</heading>
         <para>
           <num>(a)</num>
-          <text>No member of the Authority or Advisory Board shall actively participate in, or be employed by, a Registered Entity or any other entity or business that is subject to regulation under <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>No member of the Authority or Advisory Board shall actively participate in, or be employed by, a Registered Entity or any other entity or business that is subject to regulation under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -525,7 +525,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Members of the Authority and Advisory Board may be removed by Tribal Council, either by the Council itself or upon recommendation by a board. Members may be removed based upon violation of any provision of <code-cite path="|attachments|law">this Ordinance</code-cite>, failure to perform duties as a Member, excessive absences from meetings, failure to recuse oneself due to a conflict of interest or conduct unbecoming a Member.</text>
+          <text>Members of the Authority and Advisory Board may be removed by Tribal Council, either by the Council itself or upon recommendation by a board. Members may be removed based upon violation of any provision of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>, failure to perform duties as a Member, excessive absences from meetings, failure to recuse oneself due to a conflict of interest or conduct unbecoming a Member.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -753,7 +753,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Practitioners shall utilize a form developed by the Authority for the certification required in <code-cite path="attachments|law|4|4.1">this Section</code-cite>. The practitioner shall date and place his or her handwritten signature upon the printed certification, and provide the printed certification to the patient. The practitioner shall also maintain a copy of the signed certification in the patient's medical record.</text>
+          <text>Practitioners shall utilize a form developed by the Authority for the certification required in <code-cite path="attachments|law|4|4.1" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Section</code-cite>. The practitioner shall date and place his or her handwritten signature upon the printed certification, and provide the printed certification to the patient. The practitioner shall also maintain a copy of the signed certification in the patient's medical record.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -775,14 +775,14 @@
         <heading>Patient Eligibility for Registration Cards</heading>
         <para>
           <num>(a)</num>
-          <text>The following persons are eligible to be "certified patients" under <code-cite path="|attachments|law">this Ordinance</code-cite> to obtain Registration Identification Cards:</text>
+          <text>The following persons are eligible to be "certified patients" under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite> to obtain Registration Identification Cards:</text>
           <para>
             <num>1.</num>
             <text>Persons who are enrolled or eligible for enrollment in the Tribe as determined by the Tribe's Enrollment Code and as certified by the Tribal Clerk;</text>
           </para>
           <para>
             <num>2.</num>
-            <text>Any person who is resident of New York State who is certified under <code-cite path="|attachments|law">this Ordinance</code-cite>;</text>
+            <text>Any person who is resident of New York State who is certified under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>;</text>
           </para>
           <para>
             <num>3.</num>
@@ -790,12 +790,12 @@
           </para>
           <para>
             <num>4.</num>
-            <text>Any person who is certified by the Authority under <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+            <text>Any person who is certified by the Authority under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>.</text>
           </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>The Authority is authorized to add eligible persons to the above list after consultation with the Advisory Board and approval of the Tribal Council following the amendment procedures under <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>The Authority is authorized to add eligible persons to the above list after consultation with the Advisory Board and approval of the Tribal Council following the amendment procedures under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -929,7 +929,7 @@
           </para>
           <para>
             <num>2.</num>
-            <text>in accordance <code-cite path="attachments|law|5|5.4">this Section</code-cite>, fails to provide complete or factually accurate information in support of his or her initial or renewal application.</text>
+            <text>in accordance <code-cite path="attachments|law|5|5.4" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Section</code-cite>, fails to provide complete or factually accurate information in support of his or her initial or renewal application.</text>
           </para>
         </para>
       </section>
@@ -974,7 +974,7 @@
             </para>
             <para>
               <num>c.</num>
-              <text>a standard operating procedure manual for all methods used from cultivation of the medical marijuana through packaging, sealing and labeling of each lot of medical marijuana product. The procedures shall include use of good agricultural practices (GAPs). Standard operating procedures shall be able to be validated to demonstrate that the applicant will be able to produce and dispense consistent and reproducible medical marijuana product such that, for each form of each brand produced, there is homogeneity, absence of contamination and reproducibility of the brand profile in each lot as defined in <code-cite path="|attachments|law">this Ordinance</code-cite>;</text>
+              <text>a standard operating procedure manual for all methods used from cultivation of the medical marijuana through packaging, sealing and labeling of each lot of medical marijuana product. The procedures shall include use of good agricultural practices (GAPs). Standard operating procedures shall be able to be validated to demonstrate that the applicant will be able to produce and dispense consistent and reproducible medical marijuana product such that, for each form of each brand produced, there is homogeneity, absence of contamination and reproducibility of the brand profile in each lot as defined in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>;</text>
             </para>
             <para>
               <num>d.</num>
@@ -1030,7 +1030,7 @@
             </para>
             <para>
               <num>d.</num>
-              <text>a security plan indicating how the applicant will comply with the security requirement in <code-cite path="|attachments|law">this Ordinance</code-cite> and any other applicable law, rule, or regulation; and</text>
+              <text>a security plan indicating how the applicant will comply with the security requirement in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite> and any other applicable law, rule, or regulation; and</text>
             </para>
             <para>
               <num>e.</num>
@@ -1092,7 +1092,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>An application under <code-cite path="attachments|law|6|6.1">this section</code-cite> may be amended while the matter is pending before the Authority, if approved by the Authority upon good cause shown.</text>
+          <text>An application under <code-cite path="attachments|law|6|6.1" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this section</code-cite> may be amended while the matter is pending before the Authority, if approved by the Authority upon good cause shown.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -1105,7 +1105,7 @@
         <heading>Consideration of Registered Entities Applications</heading>
         <para>
           <num>(a)</num>
-          <text>Applicants for approval to operate as registered entities shall submit an application to the Authority, containing the information required in <code-cite path="attachments|law|6|6.1">Subsection 6.1</code-cite>, below, in a manner and format determined by the Authority.</text>
+          <text>Applicants for approval to operate as registered entities shall submit an application to the Authority, containing the information required in <code-cite path="attachments|law|6|6.1" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">Subsection 6.1</code-cite>, below, in a manner and format determined by the Authority.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1166,7 +1166,7 @@
         <para>
           <num>(f)</num>
           <text>Upon application to the Authority, a registered entity's registration may be amended. The Authority shall consider whether to grant or deny the application for amendment of the</text>
-          <text>registration utilizing the criteria set forth in <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>registration utilizing the criteria set forth in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>(g)</num>
@@ -1261,7 +1261,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>A registered entity who is required to surrender its registration in accordance with <code-cite path="attachments|law|6|6.5">this section</code-cite> shall not be entitled to any refund of fees paid to the Authority.</text>
+          <text>A registered entity who is required to surrender its registration in accordance with <code-cite path="attachments|law|6|6.5" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this section</code-cite> shall not be entitled to any refund of fees paid to the Authority.</text>
         </para>
       </section>
       <section>
@@ -1270,7 +1270,7 @@
         <heading>Registered Entities; General Requirements</heading>
         <para>
           <num>(a)</num>
-          <text>In addition to other requirements otherwise set forth in <code-cite path="|attachments|law">this Ordinance</code-cite>, a registered entity shall comply with the following:</text>
+          <text>In addition to other requirements otherwise set forth in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>, a registered entity shall comply with the following:</text>
           <para>
             <num>1.</num>
             <text>Make its books, records and manufacturing and dispensing facilities available to the Authority or its authorized representatives for monitoring, on-site inspection, and audit purposes, including but not limited to periodic inspections and/or evaluations of facilities, methods, procedures, materials, staff and equipment to assess compliance;</text>
@@ -1305,7 +1305,7 @@
           </para>
           <para>
             <num>4.</num>
-            <text>Only manufacture and dispense approved medical marijuana products in on Tribal Territory in accordance <code-cite path="|attachments|law">this Ordinance</code-cite>;</text>
+            <text>Only manufacture and dispense approved medical marijuana products in on Tribal Territory in accordance <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>;</text>
           </para>
           <para>
             <num>5.</num>
@@ -1446,7 +1446,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>If a registered entity's application for renewal of registration is denied, the registered entity shall submit a proposed plan for closure in accordance with <code-cite path="attachments|law|6|6.6">this section</code-cite>.</text>
+          <text>If a registered entity's application for renewal of registration is denied, the registered entity shall submit a proposed plan for closure in accordance with <code-cite path="attachments|law|6|6.6" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this section</code-cite>.</text>
         </para>
       </section>
     </container>
@@ -1806,7 +1806,7 @@
         <heading>General Requirements</heading>
         <para>
           <num>(a)</num>
-          <text>Medical marijuana products shall not be dispensed or handled unless an individual with an active licensed pharmacist license, who has completed a four-hour course pursuant to <cite doc="Saint Regis Mohawk Tribal Code of Law" path="15.03|3"><span codify:value="Subchapter">Chapter</span> 3</cite> of <code-cite path="|attachments|law">this Ordinance</code-cite>, is on the premises and supervising the activity within the facility.</text>
+          <text>Medical marijuana products shall not be dispensed or handled unless an individual with an active licensed pharmacist license, who has completed a four-hour course pursuant to <cite doc="Saint Regis Mohawk Tribal Code of Law" path="15.03|3"><span codify:value="Subchapter">Chapter</span> 3</cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>, is on the premises and supervising the activity within the facility.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2046,19 +2046,19 @@
           </para>
           <para>
             <num>5.</num>
-            <text>A duress alarm, which for purposes of <code-cite path="attachments|law|9|9.1">this section</code-cite> means a silent security alarm system signal generated by the entry of a designated code into an arming station in order to signal that the alarm user is being forced to turn off the system;</text>
+            <text>A duress alarm, which for purposes of <code-cite path="attachments|law|9|9.1" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this section</code-cite> means a silent security alarm system signal generated by the entry of a designated code into an arming station in order to signal that the alarm user is being forced to turn off the system;</text>
           </para>
           <para>
             <num>6.</num>
-            <text>A panic alarm, which for purposes of <code-cite path="attachments|law|9|9.1">this section</code-cite>, means an audible security alarm system signal generated by the manual activation of a device intended to signal a life threatening or emergency situation requiring a law enforcement response;</text>
+            <text>A panic alarm, which for purposes of <code-cite path="attachments|law|9|9.1" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this section</code-cite>, means an audible security alarm system signal generated by the manual activation of a device intended to signal a life threatening or emergency situation requiring a law enforcement response;</text>
           </para>
           <para>
             <num>7.</num>
-            <text>A holdup alarm, which for purposes of <code-cite path="attachments|law|9|9.1">this section</code-cite>, means a silent alarm signal generated by the manual activation of a device intended to signal a robbery in progress;</text>
+            <text>A holdup alarm, which for purposes of <code-cite path="attachments|law|9|9.1" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this section</code-cite>, means a silent alarm signal generated by the manual activation of a device intended to signal a robbery in progress;</text>
           </para>
           <para>
             <num>8.</num>
-            <text>An automatic voice dialer or digital dialer, which for purposes of <code-cite path="attachments|law|9|9.1">this sectio</code-cite>n, means any electrical, electronic, mechanical, or other device capable of being programmed to send a prerecorded voice message, when activated, over a telephone line, radio or other communication system, to a law enforcement, public safety or emergency services agency requesting dispatch, or other Authority approved industry standard equivalent;</text>
+            <text>An automatic voice dialer or digital dialer, which for purposes of <code-cite path="attachments|law|9|9.1" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this sectio</code-cite>n, means any electrical, electronic, mechanical, or other device capable of being programmed to send a prerecorded voice message, when activated, over a telephone line, radio or other communication system, to a law enforcement, public safety or emergency services agency requesting dispatch, or other Authority approved industry standard equivalent;</text>
           </para>
           <para>
             <num>9.</num>
@@ -2088,7 +2088,7 @@
         <heading>Additional Security Requirements</heading>
         <para>
           <num>(a)</num>
-          <text>In addition to the requirements listed above in <code-cite path="attachments|law|9|9.2">this Section</code-cite>, each manufacturing facility and dispensing facility shall have a back-up alarm system approved by the Authority that shall detect unauthorized entry during times when no employees are present at the facility and that shall be provided by a company supplying commercial grade equipment.</text>
+          <text>In addition to the requirements listed above in <code-cite path="attachments|law|9|9.2" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Section</code-cite>, each manufacturing facility and dispensing facility shall have a back-up alarm system approved by the Authority that shall detect unauthorized entry during times when no employees are present at the facility and that shall be provided by a company supplying commercial grade equipment.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2263,7 +2263,7 @@
         <heading>Final Product/Stability Testing</heading>
         <para>
           <num>(a)</num>
-          <text>Laboratories performing final product testing pursuant to <code-cite path="attachments|law|10|10.3">this section</code-cite> must report all results to the Authority, in a manner and timeframe prescribed by the Authority.</text>
+          <text>Laboratories performing final product testing pursuant to <code-cite path="attachments|law|10|10.3" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this section</code-cite> must report all results to the Authority, in a manner and timeframe prescribed by the Authority.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2300,7 +2300,7 @@
       <num>11</num>
       <heading>PRICING</heading>
       <section><codify:insert path="11" renumber-paras="true"/>&gt;
-        <num codify:value="15.03.390">11.1</num><heading>Definitions</heading><para><num>(a)</num><text>For purposes of <code-cite path="attachments|law|11|11.1">this section</code-cite>, the following terms have the following meanings:</text><para><num>1.</num><text>"Cost analysis" shall mean the review and evaluation of the separate cost elements and profit of a proposed price and the application of judgment to determine how well the proposed costs represent what the price per unit for approved medical marijuana products should be, assuming reasonable economy and efficiency.</text></para><para><num>2.</num><text>"Price" shall mean the cost to manufacture, market and distribute approved medical marijuana products plus a reasonable profit.</text></para></para></section>
+        <num codify:value="15.03.390">11.1</num><heading>Definitions</heading><para><num>(a)</num><text>For purposes of <code-cite path="attachments|law|11|11.1" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this section</code-cite>, the following terms have the following meanings:</text><para><num>1.</num><text>"Cost analysis" shall mean the review and evaluation of the separate cost elements and profit of a proposed price and the application of judgment to determine how well the proposed costs represent what the price per unit for approved medical marijuana products should be, assuming reasonable economy and efficiency.</text></para><para><num>2.</num><text>"Price" shall mean the cost to manufacture, market and distribute approved medical marijuana products plus a reasonable profit.</text></para></para></section>
       <section>
         <codify:insert path="11" renumber-paras="true"/>
         <num codify:value="15.03.400">11.2</num>
@@ -2465,7 +2465,7 @@
           </para>
           <para>
             <num>4.</num>
-            <text>Any statement, design, representation, picture or illustration that encourages or represents the use of marijuana for a condition other than a qualifying condition as defined in <code-cite path="attachments|law|4|4.1|(a)|8.">Chapter 5, Section 5.1 paras. 8</code-cite>-<code-cite path="attachments|law|4|4.1|(a)|9.">9</code-cite>;</text>
+            <text>Any statement, design, representation, picture or illustration that encourages or represents the use of marijuana for a condition other than a qualifying condition as defined in <code-cite path="attachments|law|4|4.1|(a)|8." doc="Saint Regis Mohawk Tribe Res. No. 2020-03">Chapter 5, Section 5.1 paras. 8</code-cite>-<code-cite path="attachments|law|4|4.1|(a)|9." doc="Saint Regis Mohawk Tribe Res. No. 2020-03">9</code-cite>;</text>
           </para>
           <para>
             <num>5.</num>
@@ -2557,7 +2557,7 @@
         <heading>Other Requirements</heading>
         <para>
           <num>(a)</num>
-          <text>A registered entity, its officers, managers and employees shall not cooperate, directly or indirectly, in any advertising if such advertising has the purpose or effect of steering or influencing patient or caregiver choice with regard to the selection of a practitioner. Nothing contained within <code-cite path="attachments|law|12|12.5">this section</code-cite> prevents a registered entity from educating practitioners about approved medical marijuana products offered by the registered entity.</text>
+          <text>A registered entity, its officers, managers and employees shall not cooperate, directly or indirectly, in any advertising if such advertising has the purpose or effect of steering or influencing patient or caregiver choice with regard to the selection of a practitioner. Nothing contained within <code-cite path="attachments|law|12|12.5" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this section</code-cite> prevents a registered entity from educating practitioners about approved medical marijuana products offered by the registered entity.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2651,7 +2651,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>When applicable, a registered entity shall file a zero report with the Authority, in a format acceptable to the Authority. For the purposes of <code-cite path="attachments|law|13|13.1">this section</code-cite>, a zero report shall mean a report that no approved medical marijuana product was dispensed by a registered entity during the relevant period of time. A zero report shall be submitted no later than 14 days following the most recent previously reported dispensing of an approved medical marijuana product or the submission of a prior zero report.</text>
+          <text>When applicable, a registered entity shall file a zero report with the Authority, in a format acceptable to the Authority. For the purposes of <code-cite path="attachments|law|13|13.1" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this section</code-cite>, a zero report shall mean a report that no approved medical marijuana product was dispensed by a registered entity during the relevant period of time. A zero report shall be submitted no later than 14 days following the most recent previously reported dispensing of an approved medical marijuana product or the submission of a prior zero report.</text>
         </para>
       </section>
     </container>
@@ -2788,7 +2788,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>If a certified patient or designated caregiver becomes aware of the loss, theft or destruction of the registry identification card of such certified patient or designated caregiver, the certified patient or designated caregiver shall notify the Authority, on a form and in a manner prescribed by the Authority, not later than ten days of becoming aware of the loss, theft or destruction. The Authority shall inactivate the initial registry identification card upon receiving such notice and issue a replacement registry identification card upon receiving the applicable fee provided the applicant continues to satisfy the requirements of <code-cite path="|attachments|law">this Ordinance</code-cite>. Prior to issuance of the first replacement registry identification card, a certified patient or designated caregiver shall submit to the Authority a fee of $25, transmitted in a fashion as determined by the Authority. For each subsequent replacement registry identification card, a certified patient or designated caregiver shall submit to the Authority a fee of $50, transmitted in a fashion as determined by the Authority.</text>
+          <text>If a certified patient or designated caregiver becomes aware of the loss, theft or destruction of the registry identification card of such certified patient or designated caregiver, the certified patient or designated caregiver shall notify the Authority, on a form and in a manner prescribed by the Authority, not later than ten days of becoming aware of the loss, theft or destruction. The Authority shall inactivate the initial registry identification card upon receiving such notice and issue a replacement registry identification card upon receiving the applicable fee provided the applicant continues to satisfy the requirements of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>. Prior to issuance of the first replacement registry identification card, a certified patient or designated caregiver shall submit to the Authority a fee of $25, transmitted in a fashion as determined by the Authority. For each subsequent replacement registry identification card, a certified patient or designated caregiver shall submit to the Authority a fee of $50, transmitted in a fashion as determined by the Authority.</text>
         </para>
       </section>
       <section>
@@ -2873,7 +2873,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>No employee of a registered entity shall counsel a certified patient or designated caregiver on the use, administration of, and the risks associated with approved medical marijuana products, unless the employee is a physician, nurse practitioner, physician assistant or pharmacist approved under <code-cite path="|attachments|law">this Ordinance</code-cite>, or the employee is under the direct supervision of, and in consultation with, such physician, nurse practitioner, physician assistant, or the pharmacist on-site in the dispensing facility.</text>
+          <text>No employee of a registered entity shall counsel a certified patient or designated caregiver on the use, administration of, and the risks associated with approved medical marijuana products, unless the employee is a physician, nurse practitioner, physician assistant or pharmacist approved under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>, or the employee is under the direct supervision of, and in consultation with, such physician, nurse practitioner, physician assistant, or the pharmacist on-site in the dispensing facility.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -2928,7 +2928,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>A practitioner shall not be a designated caregiver for any patients that he or she has certified under <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>A practitioner shall not be a designated caregiver for any patients that he or she has certified under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>.</text>
         </para>
       </section>
     </container>
@@ -2950,7 +2950,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Designated caregivers acting within their scope of employment shall not be subject to arrest, prosecution, or penalty in any manner, or denied any right or privilege, including but not limited to civil penalty or disciplinary action by a business or occupational or professional licensing board or bureau, solely for an action or conduct in accordance with <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>Designated caregivers acting within their scope of employment shall not be subject to arrest, prosecution, or penalty in any manner, or denied any right or privilege, including but not limited to civil penalty or disciplinary action by a business or occupational or professional licensing board or bureau, solely for an action or conduct in accordance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>.</text>
         </para>
       </section>
     </container>
@@ -3024,7 +3024,7 @@
         <heading>Sovereign Immunity</heading>
         <para>
           <num>(a)</num>
-          <text>Nothing in <code-cite path="|attachments|law">this Ordinance</code-cite> shall be interpreted as waiving or diminishing the sovereign immunity of the Saint Regis Mohawk Tribe or its subordinate entities, agencies, officers, agents, employees, instrumentalities, or authorize in any form a prospective waiver of such sovereign immunity.</text>
+          <text>Nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite> shall be interpreted as waiving or diminishing the sovereign immunity of the Saint Regis Mohawk Tribe or its subordinate entities, agencies, officers, agents, employees, instrumentalities, or authorize in any form a prospective waiver of such sovereign immunity.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3037,7 +3037,7 @@
         <heading>Regulations</heading>
         <para>
           <num>(a)</num>
-          <text>The Authority may issue Regulations as appropriate for the proper administration of <code-cite path="|attachments|law">this Ordinance</code-cite>. Regulations will be approved by the Tribal Council pursuant to the rules applicable to approval of Tribal Ordinances with the circulation of Draft regulations and public meeting for comments.</text>
+          <text>The Authority may issue Regulations as appropriate for the proper administration of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>. Regulations will be approved by the Tribal Council pursuant to the rules applicable to approval of Tribal Ordinances with the circulation of Draft regulations and public meeting for comments.</text>
         </para>
       </section>
       <section>
@@ -3046,7 +3046,7 @@
         <heading>Effective Date</heading>
         <para>
           <num>(a)</num>
-          <text>The effective date of <code-cite path="|attachments|law">this Ordinance</code-cite> shall be the approval of the Ordinance by the Tribal Council after it has been approved by Referendum vote.</text>
+          <text>The effective date of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite> shall be the approval of the Ordinance by the Tribal Council after it has been approved by Referendum vote.</text>
         </para>
       </section>
       <section>
@@ -3055,11 +3055,11 @@
         <heading>Amendments</heading>
         <para>
           <num>(a)</num>
-          <text><code-cite path="|attachments|law">This Ordinance</code-cite> may be amended by: (1) a duly conducted Referendum; or (2) by the Authority or Advisory Board recommending amendment, provided the amendment is confirmed by a vote of the Tribal Council. The amendment shall be processed following the Tribal Procedure Act and include notice to, and review by, the Community.</text>
+          <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">This Ordinance</code-cite> may be amended by: (1) a duly conducted Referendum; or (2) by the Authority or Advisory Board recommending amendment, provided the amendment is confirmed by a vote of the Tribal Council. The amendment shall be processed following the Tribal Procedure Act and include notice to, and review by, the Community.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>An amendment may include an agreement entered into by the Tribe with the State or other governmental agency needed to effectuate or implement <code-cite path="|attachments|law">this Ordinance</code-cite>. Such Amendments will be processed following the Tribal Procedure Act and include notice to, and review by, the Community.</text>
+          <text>An amendment may include an agreement entered into by the Tribe with the State or other governmental agency needed to effectuate or implement <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>. Such Amendments will be processed following the Tribal Procedure Act and include notice to, and review by, the Community.</text>
         </para>
       </section>
       <section>
@@ -3068,7 +3068,7 @@
         <heading>Severability</heading>
         <para>
           <num>(a)</num>
-          <text>The provisions of <code-cite path="|attachments|law">this Ordinance</code-cite> shall be severable and if any part or provision shall be held void by any Court of competent jurisdiction, the decision of the Court so holding shall not affect or impair any of the remaining parts or provisions of <code-cite path="|attachments|law">this Ordinance</code-cite>.</text>
+          <text>The provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite> shall be severable and if any part or provision shall be held void by any Court of competent jurisdiction, the decision of the Court so holding shall not affect or impair any of the remaining parts or provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">this Ordinance</code-cite>.</text>
         </para>
       </section>
       <section>
@@ -3077,7 +3077,7 @@
         <heading>Repeal of Prior Laws</heading>
         <para>
           <num>(a)</num>
-          <text><code-cite path="|attachments|law">This Ordinance</code-cite> repeals any other Tribal Council Resolutions, Ordinances, Acts or Laws that are inconsistent herein.</text>
+          <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-03">This Ordinance</code-cite> repeals any other Tribal Council Resolutions, Ordinances, Acts or Laws that are inconsistent herein.</text>
         </para>
       </section>
     </container>
