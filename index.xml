@@ -13,6 +13,7 @@
       <law-git>https://github.com/srmt-nsn/law.git</law-git>
       <html>https://law.srmt-nsn.gov</html>
     </canonical-urls>
+    <history-start>2024-06-02</history-start>
   </meta>
   <xi:include href="./us/nsn/srmt/council/code/index.xml"/>
   <collection name="us/nsn/srmt/council/resolutions">
